@@ -1,0 +1,3156 @@
+{
+    "generated": "2026-08-06T03:30:28Z",
+    "packages": {
+        "aardvark-dns": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/containers/aardvark-dns.git",
+            "category": "tools"
+        },
+        "abseil-cpp": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/abseil/abseil-cpp.git",
+            "category": "general-libs"
+        },
+        "accountsservice": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/accountsservice/accountsservice.git",
+            "category": "system-utilities"
+        },
+        "acl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/acl.git",
+            "category": "core"
+        },
+        "adwaita-icon-theme": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/GNOME/adwaita-icon-theme.git",
+            "category": "graphics/graphical-components/icons"
+        },
+        "alsa-firmware": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/alsa-project/alsa-firmware.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "alsa-lib": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/alsa-project/alsa-lib.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "alsa-plugins": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/alsa-project/alsa-plugins.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "alsa-tools": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/alsa-project/alsa-tools.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "alsa-utils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/alsa-project/alsa-utils.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "appstream": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/ximion/appstream.git",
+            "category": "general-libs"
+        },
+        "appstream-glib": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/hughsie/appstream-glib.git",
+            "category": "general-libs"
+        },
+        "aspell": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/aspell.git",
+            "category": "general-libs"
+        },
+        "at-spi2-core": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/at-spi2-core.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "atkmm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/atkmm.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "attr": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/attr.git",
+            "category": "core"
+        },
+        "autoconf": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/autoconf.git",
+            "category": "core"
+        },
+        "automake": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/automake.git",
+            "category": "core"
+        },
+        "babl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/babl.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "baobab": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/baobab.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "bash": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/bash.git",
+            "category": "core"
+        },
+        "bazzar": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/bazaar-org/bazaar.git",
+            "category": "tools"
+        },
+        "bc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gavinhoward/bc.git",
+            "category": "core"
+        },
+        "binutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gnu.googlesource.com/binutils-gdb.git",
+            "category": "core"
+        },
+        "bison": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/bison.git",
+            "category": "core"
+        },
+        "bluez": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/bluetooth/bluez.git",
+            "category": "system-utilities"
+        },
+        "boost": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/boostorg/boost.git",
+            "category": "general-libs"
+        },
+        "brotli": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/google/brotli.git",
+            "category": "general-libs"
+        },
+        "btrfs-progs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/kdave/btrfs-progs.git",
+            "category": "file-systems"
+        },
+        "bubblewrap": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/containers/bubblewrap.git",
+            "category": "system-utilities"
+        },
+        "bzip2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/bzip2/bzip2.git",
+            "category": "core"
+        },
+        "cairo": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/cairo/cairo.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "cairomm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/cairo/cairomm.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "cargo-c": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/lu-zero/cargo-c.git",
+            "category": "programming"
+        },
+        "cbindgen": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/mozilla/cbindgen.git",
+            "category": "programming"
+        },
+        "cmake": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.kitware.com/cmake/cmake.git",
+            "category": "programming"
+        },
+        "colord": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/hughsie/colord.git",
+            "category": "system-utilities"
+        },
+        "colord-gtk": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/hughsie/colord-gtk.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "conmon": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/containers/conmon.git",
+            "category": "tools"
+        },
+        "coreutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/coreutils.git",
+            "category": "core"
+        },
+        "cpio": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/cpio.git",
+            "category": "system-utilities"
+        },
+        "cracklib": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/cracklib/cracklib.git",
+            "category": "security"
+        },
+        "crun": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/containers/crun.git",
+            "category": "tools"
+        },
+        "cryptsetup": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/cryptsetup/cryptsetup.git",
+            "category": "security"
+        },
+        "cups": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/OpenPrinting/cups.git",
+            "category": "system-utilities"
+        },
+        "curl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/curl/curl.git",
+            "category": "networking/networking-libs"
+        },
+        "cyrus-sasl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/cyrusimap/cyrus-sasl.git",
+            "category": "security"
+        },
+        "cython": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/cython/cython.git",
+            "category": "programming"
+        },
+        "d-bus": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/dbus/dbus.git",
+            "category": "system-utilities"
+        },
+        "dav1d": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://code.videolan.org/videolan/dav1d.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "dconf": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/dconf.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "dconf-editor": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/dconf-editor.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "dejagnu": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/dejagnu.git",
+            "category": "core"
+        },
+        "desktop-file-utils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xdg/desktop-file-utils.git",
+            "category": "general-utilities"
+        },
+        "diffutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/diffutils.git",
+            "category": "core"
+        },
+        "distrobox": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/89luca89/distrobox.git",
+            "category": "tools"
+        },
+        "dnsmasq": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://thekelleys.org.uk/git/dnsmasq.git",
+            "category": "tools"
+        },
+        "docbook-xml": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/docbook/docbook.git",
+            "category": "programming"
+        },
+        "docbook-xsl-nons": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/docbook/xslt10-stylesheets.git",
+            "category": "programming"
+        },
+        "docutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/docutils/docutils.git",
+            "category": "programming"
+        },
+        "dosfstools": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/dosfstools/dosfstools.git",
+            "category": "file-systems"
+        },
+        "duktape": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/svaarala/duktape.git",
+            "category": "general-libs"
+        },
+        "e2fsprogs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git",
+            "category": "core"
+        },
+        "editables": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pfmoore/editables.git",
+            "category": "programming"
+        },
+        "efibootmgr": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rhboot/efibootmgr.git",
+            "category": "file-systems"
+        },
+        "efivar": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rhboot/efivar.git",
+            "category": "file-systems"
+        },
+        "elfutils": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "git://sourceware.org/git/elfutils.git",
+            "category": "core"
+        },
+        "enchant": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/AbiWord/enchant.git",
+            "category": "general-libs"
+        },
+        "evolution-data-server": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/evolution-data-server.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "exempi": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/libopenraw/exempi.git",
+            "category": "general-libs"
+        },
+        "exiv2": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Exiv2/exiv2.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "expat": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libexpat/libexpat.git",
+            "category": "core"
+        },
+        "expect": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/aeruder/expect.git",
+            "category": "core"
+        },
+        "fast-float": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/fastfloat/fast_float.git",
+            "category": "general-libs"
+        },
+        "fdk-aac": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/mstorsjo/fdk-aac.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "ffmpeg": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.ffmpeg.org/ffmpeg.git",
+            "category": "multimedia/video-utilities"
+        },
+        "file": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/file/file.git",
+            "category": "core"
+        },
+        "file-roller": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/file-roller.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "findutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/findutils.git",
+            "category": "core"
+        },
+        "flac": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/xiph/flac.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "flatpak": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/flatpak/flatpak.git",
+            "category": "tools"
+        },
+        "flex": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/westes/flex.git",
+            "category": "core"
+        },
+        "flit-core": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pypa/flit.git",
+            "category": "core"
+        },
+        "fmt": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/fmtlib/fmt.git",
+            "category": "general-libs"
+        },
+        "font-util": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/font/util.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "fontconfig": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/fontconfig/fontconfig.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "freetype": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/freetype/freetype.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "fribidi": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/fribidi/fribidi.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "fuse": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libfuse/libfuse.git",
+            "category": "file-systems"
+        },
+        "fuse-overlayfs": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/containers/fuse-overlayfs.git",
+            "category": "file-systems"
+        },
+        "gawk": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/gawk.git",
+            "category": "core"
+        },
+        "gcc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gcc-mirror/gcc.git",
+            "category": "programming"
+        },
+        "gcr": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gcr.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gdbm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/gdbm.git",
+            "category": "core"
+        },
+        "gdk-pixbuf": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gdk-pixbuf.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "gdm": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gdm.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gegl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gegl.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "geoclue": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/geoclue/geoclue.git",
+            "category": "networking/networking-libs"
+        },
+        "geocode-glib": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/geocode-glib.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gettext": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/gettext.git",
+            "category": "core"
+        },
+        "gexiv2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gexiv2.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "giflib": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.code.sf.net/p/giflib/code",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "git": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/git/git.git",
+            "category": "programming"
+        },
+        "gjs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gjs.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "glib": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/glib.git",
+            "category": "general-libs"
+        },
+        "glib-networking": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/glib-networking.git",
+            "category": "networking/networking-libs"
+        },
+        "glibc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "git://sourceware.org/git/glibc.git",
+            "category": "core"
+        },
+        "glibmm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/glibmm.git",
+            "category": "general-libs"
+        },
+        "glslang": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/KhronosGroup/glslang.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "glu": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/mesa/glu.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "glycin": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/glycin.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "gmp": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gmp-mirror/gmp.git",
+            "category": "core"
+        },
+        "gnome-autoar": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-autoar.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-backgrounds": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-backgrounds.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-bluetooth": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-bluetooth.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-calculator": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-calculator.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-color-manager": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-color-manager.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-control-center": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-control-center.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-desktop": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-desktop.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-disk-utility": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-disk-utility.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-icon-theme": {
+            "branch": "distrotech-gnome-icon-theme",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Distrotech/gnome-icon-theme.git",
+            "category": "graphics/graphical-components/icons"
+        },
+        "gnome-icon-theme-extras": {
+            "branch": "distrotech-gnome-icon-theme-extras",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Distrotech/gnome-icon-theme-extras.git",
+            "category": "graphics/graphical-components/icons"
+        },
+        "gnome-icon-theme-symbolic": {
+            "branch": "distrotech-gnome-icon-theme-symbolic",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Distrotech/gnome-icon-theme-symbolic.git",
+            "category": "graphics/graphical-components/icons"
+        },
+        "gnome-keyring": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-keyring.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-logs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-logs.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-menus": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-menus.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-online-accounts": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-online-accounts.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-power-manager": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-power-manager.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-session": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-session.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-settings-daemon": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-settings-daemon.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-shell-extensions": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-shell-extensions.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-system-monitor": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-system-monitor.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-themes-extra": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-themes-extra.git",
+            "category": "graphics/graphical-components/icons"
+        },
+        "gnome-tweaks": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-tweaks.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnome-user-docs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gnome-user-docs.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gnupg": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gpg/gnupg.git",
+            "category": "security"
+        },
+        "gnutls": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/gnutls/gnutls.git",
+            "category": "security"
+        },
+        "google-sans-code": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/googlefonts/googlesans-code.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "gperf": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/gperf.git",
+            "category": "core"
+        },
+        "gpgme": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gpg/gpgme.git",
+            "category": "security"
+        },
+        "gpm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/telmich/gpm.git",
+            "category": "system-utilities"
+        },
+        "gptfdisk": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.code.sf.net/p/gptfdisk/code",
+            "category": "file-systems"
+        },
+        "graphene": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/ebassi/graphene.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "graphite2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/silnrsi/graphite.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "graphviz": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/graphviz/graphviz.git",
+            "category": "general-utilities"
+        },
+        "grep": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/grep.git",
+            "category": "core"
+        },
+        "groff": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/groff.git",
+            "category": "core"
+        },
+        "grub": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/grub.git",
+            "category": "core"
+        },
+        "gsettings-desktop-schemas": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gsound": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gsound.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gst-plugins-rs": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs.git",
+            "category": "tools"
+        },
+        "gstreamer": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/gstreamer/gstreamer.git",
+            "category": "tools"
+        },
+        "gtk": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gtk.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "gtkmm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gtkmm.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "gtksourceview": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gtksourceview.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "gvfs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/gvfs.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "gzip": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/gzip.git",
+            "category": "core"
+        },
+        "harfbuzz": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/harfbuzz/harfbuzz.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "hatch-fancy-pypi-readme": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/hynek/hatch-fancy-pypi-readme.git",
+            "category": "programming"
+        },
+        "hatch-vcs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/ofek/hatch-vcs.git",
+            "category": "programming"
+        },
+        "hatchling": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pypa/hatch.git",
+            "category": "programming"
+        },
+        "hicolor-icon-theme": {
+            "branch": "debian/latest",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/gnome-team/hicolor-icon-theme.git",
+            "category": "graphics/graphical-components/icons"
+        },
+        "highway": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/google/highway.git",
+            "category": "general-libs"
+        },
+        "hwdata": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/vcrhonek/hwdata.git",
+            "category": "system-utilities"
+        },
+        "iana-etc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Mic92/iana-etc.git",
+            "category": "core"
+        },
+        "ibus": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/ibus/ibus.git",
+            "category": "general-utilities"
+        },
+        "iceauth": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/iceauth.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "icon-naming-utils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Distrotech/icon-naming-utils.git",
+            "category": "graphics/graphical-components/icons"
+        },
+        "icu4c": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/unicode-org/icu.git",
+            "category": "tools"
+        },
+        "inetutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/inetutils.git",
+            "category": "core"
+        },
+        "inih": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/benhoyt/inih.git",
+            "category": "general-libs"
+        },
+        "inter": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rsms/inter.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "intel-media-driver": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/intel/media-driver.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "intel-vaapi-driver": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/intel/intel-vaapi-driver.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "intltool": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Distrotech/intltool.git",
+            "category": "general-utilities"
+        },
+        "iproute2": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/network/iproute2/iproute2.git",
+            "category": "core"
+        },
+        "iptables": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/pkg-netfilter-team/pkg-iptables.git",
+            "category": "security"
+        },
+        "iso-codes": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/iso-codes-team/iso-codes.git",
+            "category": "general-utilities"
+        },
+        "itstool": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/itstool/itstool.git",
+            "category": "general-utilities"
+        },
+        "iw": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git",
+            "category": "networking/networking-programs"
+        },
+        "jansson": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/akheron/jansson.git",
+            "category": "general-libs"
+        },
+        "jinja2": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pallets/jinja.git",
+            "category": "core"
+        },
+        "json-c": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/json-c/json-c.git",
+            "category": "general-libs"
+        },
+        "json-glib": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/json-glib.git",
+            "category": "general-libs"
+        },
+        "kbd": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git",
+            "category": "core"
+        },
+        "keyutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git",
+            "category": "general-libs"
+        },
+        "kmod": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git",
+            "category": "core"
+        },
+        "krb5": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/krb5/krb5.git",
+            "category": "general-utilities"
+        },
+        "lame": {
+            "branch": "origin",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rbrito/lame.git",
+            "category": "multimedia/audio-utilities"
+        },
+        "lcms2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/mm2/Little-CMS.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "less": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gwsw/less.git",
+            "category": "core"
+        },
+        "libadwaita": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libadwaita.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "libaio": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://pagure.io/libaio.git",
+            "category": "general-libs"
+        },
+        "libaom": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://aomedia.googlesource.com/aom",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libarchive": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libarchive/libarchive.git",
+            "category": "general-libs"
+        },
+        "libass": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libass/libass.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libassuan": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gpg/libassuan.git",
+            "category": "general-libs"
+        },
+        "libatasmart": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Rupan/libatasmart.git",
+            "category": "general-libs"
+        },
+        "libaudit": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/linux-audit/audit-userspace.git",
+            "category": "general-libs"
+        },
+        "libavif": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/AOMediaCodec/libavif.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libblockdev": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/storaged-project/libblockdev.git",
+            "category": "general-libs"
+        },
+        "libbytesize": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/storaged-project/libbytesize.git",
+            "category": "general-libs"
+        },
+        "libcanberra": {
+            "branch": "distrotech-libcanberra",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Distrotech/libcanberra.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libcap": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/libs/libcap/libcap.git",
+            "category": "security"
+        },
+        "libcddb": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Distrotech/libcddb",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libcdio": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/libcdio.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libcdio-paranoia": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rocky/libcdio-paranoia.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libcloudproviders": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/World/libcloudproviders.git",
+            "category": "general-libs"
+        },
+        "libde265": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/strukturag/libde265.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libdex": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libdex.git",
+            "category": "tools"
+        },
+        "libdisplay-info": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/emersion/libdisplay-info.git",
+            "category": "general-libs"
+        },
+        "libdrm": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/mesa/drm.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "libdvdread": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://code.videolan.org/videolan/libdvdread.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libeconf": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/openSUSE/libeconf.git",
+            "category": "general-libs"
+        },
+        "libei": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/libinput/libei.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "libepoxy": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/anholt/libepoxy.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "libevdev": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/libevdev/libevdev.git",
+            "category": "general-libs"
+        },
+        "libevent": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libevent/libevent.git",
+            "category": "networking/networking-libs"
+        },
+        "libexif": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libexif/libexif.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libffi": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libffi/libffi.git",
+            "category": "core"
+        },
+        "libfontenc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libfontenc.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libfs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libFS.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libfyaml": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pantoniou/libfyaml.git",
+            "category": "general-libs"
+        },
+        "libgcrypt": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gpg/libgcrypt.git",
+            "category": "general-libs"
+        },
+        "libgee": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libgee.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "libgpg-error": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gpg/libgpg-error.git",
+            "category": "general-libs"
+        },
+        "libgtop": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libgtop.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "libgudev": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libgudev.git",
+            "category": "general-libs"
+        },
+        "libgusb": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/hughsie/libgusb.git",
+            "category": "general-libs"
+        },
+        "libgweather": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libgweather.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "libgxps": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libgxps.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libhandy": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libhandy.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "libheif": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/strukturag/libheif.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libical": {
+            "branch": "4.0",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libical/libical.git",
+            "category": "general-libs"
+        },
+        "libice": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libICE.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libidn2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/libidn/libidn2.git",
+            "category": "general-libs"
+        },
+        "libinput": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/libinput/libinput.git",
+            "category": "general-libs"
+        },
+        "libjpeg-turbo": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libjpeg-turbo/libjpeg-turbo.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libjxl": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libjxl/libjxl.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libksba": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gpg/libksba.git",
+            "category": "general-libs"
+        },
+        "libmbim": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/mobile-broadband/libmbim.git",
+            "category": "general-libs"
+        },
+        "libmnl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/justmirror/libmnl.git",
+            "category": "networking/networking-libs"
+        },
+        "libndp": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/jpirko/libndp.git",
+            "category": "networking/networking-libs"
+        },
+        "libnftnl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/canonical/netfilter-libnftnl.git",
+            "category": "tools"
+        },
+        "libnl": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/thom311/libnl.git",
+            "category": "networking/networking-libs"
+        },
+        "libnotify": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libnotify.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "libnsl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/thkukuk/libnsl.git",
+            "category": "networking/networking-libs"
+        },
+        "libnvme": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/linux-nvme/libnvme.git",
+            "category": "general-libs"
+        },
+        "liboauth": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/x42/liboauth.git",
+            "category": "security"
+        },
+        "libogg": {
+            "branch": "debian/latest",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/multimedia-team/libogg.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libostree": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/ostreedev/ostree.git",
+            "category": "tools"
+        },
+        "libpciaccess": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libpciaccess.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libpeas": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libpeas.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "libpipeline": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/libpipeline/libpipeline.git",
+            "category": "core"
+        },
+        "libpng": {
+            "branch": "libpng18",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pnggroup/libpng.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libportal": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/flatpak/libportal.git",
+            "category": "general-libs"
+        },
+        "libproxy": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libproxy/libproxy.git",
+            "category": "general-libs"
+        },
+        "libpsl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rockdaboot/libpsl.git",
+            "category": "networking/networking-libs"
+        },
+        "libpwquality": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libpwquality/libpwquality.git",
+            "category": "security"
+        },
+        "libqmi": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/mobile-broadband/libqmi.git",
+            "category": "general-libs"
+        },
+        "librest": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/librest.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "librsvg": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/librsvg.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libseccomp": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/seccomp/libseccomp.git",
+            "category": "general-libs"
+        },
+        "libsecret": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libsecret.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "libshumate": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libshumate.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "libsigc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libsigcplusplus/libsigcplusplus.git",
+            "category": "general-libs"
+        },
+        "libslirp": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/slirp/libslirp.git",
+            "category": "networking/networking-libs"
+        },
+        "libsm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libSM.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libsndfile": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libsndfile/libsndfile.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libsoup": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libsoup.git",
+            "category": "networking/networking-libs"
+        },
+        "libssh2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libssh2/libssh2.git",
+            "category": "general-libs"
+        },
+        "libtasn1": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gnutls/libtasn1.git",
+            "category": "general-libs"
+        },
+        "libtirpc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/alisw/libtirpc.git",
+            "category": "networking/networking-libs"
+        },
+        "libtool": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/libtool.git",
+            "category": "core"
+        },
+        "libunistring": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/libunistring.git",
+            "category": "general-libs"
+        },
+        "liburcu": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.lttng.org/userspace-rcu.git",
+            "category": "general-libs"
+        },
+        "libusb": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libusb/libusb.git",
+            "category": "general-libs"
+        },
+        "libuv": {
+            "branch": "v1.x",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libuv/libuv.git",
+            "category": "general-libs"
+        },
+        "libva": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/intel/libva.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libvorbis": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.xiph.org/xiph/vorbis.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libvpx": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://chromium.googlesource.com/webm/libvpx.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "libwacom": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/linuxwacom/libwacom.git",
+            "category": "general-libs"
+        },
+        "libwebp": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://chromium.googlesource.com/webm/libwebp.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "libx11": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libX11.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxau": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxau.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxaw": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXaw.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxcb": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxcb-util": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxcomposite": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXcomposite.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxcrypt": {
+            "branch": "develop",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/besser82/libxcrypt.git",
+            "category": "core"
+        },
+        "libxcursor": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXcursor.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxcvt": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcvt.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxdamage": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXdamage.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxdmcp": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxdmcp.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxext": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXext.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxfixes": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXfixes.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxfont2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxfont.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxft": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXft.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxi": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXi.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxinerama": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXinerama.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxkbcommon": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/xkbcommon/libxkbcommon.git",
+            "category": "general-libs"
+        },
+        "libxkbfile": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxkbfile.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxklavier": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/archived-projects/libxklavier.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "libxml2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libxml2.git",
+            "category": "general-libs"
+        },
+        "libxmu": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXmu.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxpm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXpm.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxpresent": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXpresent.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxrandr": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXrandr.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxrender": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXrender.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxres": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXres.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxscrnsaver": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXScrnSaver.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxshmfence": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxshmfence.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxslt": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/libxslt.git",
+            "category": "general-libs"
+        },
+        "libxt": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXt.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxtst": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXtst.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxv": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXv.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxvmc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXvMC.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxxf86dga": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXxf86dga.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libxxf86vm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libXxf86vm.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "libyaml": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/yaml/libyaml.git",
+            "category": "general-libs"
+        },
+        "linux-firmware": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git",
+            "category": "core"
+        },
+        "linux": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/torvalds/linux.git",
+            "category": "core"
+        },
+        "linux-pam": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/linux-pam/linux-pam.git",
+            "category": "security"
+        },
+        "llvm": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/llvm/llvm-project.git",
+            "category": "programming"
+        },
+        "lmdb": {
+            "branch": "mdb.master3",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/LMDB/lmdb.git",
+            "category": "general-libs"
+        },
+        "localsearch": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/localsearch.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "lua": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/lua/lua.git",
+            "category": "programming"
+        },
+        "lvm2": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "git://sourceware.org/git/lvm2.git"
+        },
+        "lxml": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/lxml/lxml.git",
+            "category": "programming"
+        },
+        "lz4": {
+            "branch": "dev",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/lz4/lz4.git",
+            "category": "core"
+        },
+        "lzo": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/nemequ/lzo.git",
+            "category": "general-libs"
+        },
+        "m4": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/m4.git",
+            "category": "core"
+        },
+        "make": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/make.git",
+            "category": "core"
+        },
+        "make-ca": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/lfs-book/make-ca.git",
+            "category": "security"
+        },
+        "mako": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/sqlalchemy/mako.git",
+            "category": "programming"
+        },
+        "malcontent": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/pwithnall/malcontent.git",
+            "category": "tools"
+        },
+        "man-db": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/man-db/man-db.git",
+            "category": "core"
+        },
+        "man-pages": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git",
+            "category": "core"
+        },
+        "markupsafe": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pallets/markupsafe.git",
+            "category": "core"
+        },
+        "md4c": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/mity/md4c.git",
+            "category": "tools"
+        },
+        "mdadm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git",
+            "category": "file-systems"
+        },
+        "mesa": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/mesa/mesa.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "meson": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/mesonbuild/meson.git",
+            "category": "core"
+        },
+        "modemmanager": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/mobile-broadband/ModemManager.git",
+            "category": "system-utilities"
+        },
+        "mpc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.inria.fr/mpc/mpc.git",
+            "category": "core"
+        },
+        "mpfr": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.inria.fr/mpfr/mpfr.git",
+            "category": "core"
+        },
+        "mpg123": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/multimedia-team/mpg123.git",
+            "category": "multimedia/audio-utilities"
+        },
+        "mtdev": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rydberg/mtdev.git",
+            "category": "general-libs"
+        },
+        "mutter": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/mutter.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "nano": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/nano.git",
+            "category": "core"
+        },
+        "nasm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/netwide-assembler/nasm.git",
+            "category": "programming"
+        },
+        "nautilus": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/nautilus.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "ncurses": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/ThomasDickey/ncurses-snapshots.git",
+            "category": "core"
+        },
+        "netavark": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/containers/netavark.git",
+            "category": "tools"
+        },
+        "nettle": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/holmgren/nettle.git",
+            "category": "security"
+        },
+        "networkmanager": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager.git",
+            "category": "networking/networking-utilities"
+        },
+        "newt": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://pagure.io/newt.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "nghttp2": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/nghttp2/nghttp2.git",
+            "category": "networking/networking-libs"
+        },
+        "ninja": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/ninja-build/ninja.git",
+            "category": "core"
+        },
+        "notification-daemon": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/notification-daemon.git",
+            "category": "system-utilities"
+        },
+        "npth": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gpg/npth.git",
+            "category": "general-libs"
+        },
+        "nspr": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/mozilla/nspr.git",
+            "category": "general-libs"
+        },
+        "nss": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/mozilla/nss.git",
+            "category": "security"
+        },
+        "ntfs-3g": {
+            "branch": "edge",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/tuxera/ntfs-3g.git",
+            "category": "file-systems"
+        },
+        "openjpeg": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/uclouvain/openjpeg.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "openldap": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.openldap.org/openldap/openldap.git",
+            "category": "general-libs"
+        },
+        "openssh": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/openssh/openssh-portable.git",
+            "category": "security"
+        },
+        "openssl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/openssl/openssl.git",
+            "category": "core"
+        },
+        "opus": {
+            "branch": "debian/latest",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/multimedia-team/opus.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "p11-kit": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/p11-glue/p11-kit.git",
+            "category": "security"
+        },
+        "packaging": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pypa/packaging.git",
+            "category": "core"
+        },
+        "pango": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/pango.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "pangomm": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/pangomm.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "parse-yapp": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gitpan/Parse-Yapp.git",
+            "category": "general-libs"
+        },
+        "parted": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/parted.git",
+            "category": "file-systems"
+        },
+        "pasta": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://passt.top/passt",
+            "category": "tools"
+        },
+        "patch": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/patch.git",
+            "category": "core"
+        },
+        "pathspec": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/cpburnz/python-pathspec.git",
+            "category": "programming"
+        },
+        "pciutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/utils/pciutils/pciutils.git",
+            "category": "system-utilities"
+        },
+        "pcre2": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/PCRE2Project/pcre2.git",
+            "category": "core"
+        },
+        "perl": {
+            "branch": "blead",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Perl/perl5.git",
+            "category": "programming"
+        },
+        "pinentry": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/gpg/pinentry.git",
+            "category": "general-utilities"
+        },
+        "pipewire": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/pipewire/pipewire.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "pixman": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/pixman/pixman.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "pkgconf": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pkgconf/pkgconf.git",
+            "category": "core"
+        },
+        "pluggy": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pytest-dev/pluggy.git",
+            "category": "programming"
+        },
+        "podbx": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/flucidOS/podbx.git",
+            "category": "tools"
+        },
+        "podman": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/containers/podman.git",
+            "category": "tools"
+        },
+        "polkit": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/polkit/polkit.git",
+            "category": "security"
+        },
+        "poppler": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/poppler/poppler.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "poppler-data": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/poppler/poppler-data.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "popt": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rpm-software-management/popt.git",
+            "category": "general-libs"
+        },
+        "power-profiles-daemon": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/upower/power-profiles-daemon.git",
+            "category": "system-utilities"
+        },
+        "procps-ng": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/procps-ng/procps.git",
+            "category": "core"
+        },
+        "protobuf": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/protocolbuffers/protobuf.git",
+            "category": "general-libs"
+        },
+        "protobuf-c": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/protobuf-c/protobuf-c.git",
+            "category": "general-libs"
+        },
+        "psmisc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/psmisc/psmisc.git",
+            "category": "core"
+        },
+        "ptyxis": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/chergert/ptyxis.git",
+            "category": "tools"
+        },
+        "pulseaudio": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "pycairo": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pygobject/pycairo.git",
+            "category": "programming"
+        },
+        "pygments": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pygments/pygments.git",
+            "category": "programming"
+        },
+        "pygobject": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/pygobject.git",
+            "category": "programming"
+        },
+        "pyparsing": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pyparsing/pyparsing.git",
+            "category": "programming"
+        },
+        "python": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/python/cpython.git",
+            "category": "programming"
+        },
+        "pyyaml": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/yaml/pyyaml.git",
+            "category": "general-libs"
+        },
+        "readline": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/readline.git",
+            "category": "core"
+        },
+        "rpcsvc-proto": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/thkukuk/rpcsvc-proto.git",
+            "category": "networking/networking-libs"
+        },
+        "ruby": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/ruby/ruby.git",
+            "category": "programming"
+        },
+        "rustbindgen": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rust-lang/rust-bindgen.git",
+            "category": "programming"
+        },
+        "rustc": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rust-lang/rust.git",
+            "category": "programming"
+        },
+        "sassc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/sass/sassc.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "sbc": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/bluetooth/sbc.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "sdl2-compat": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libsdl-org/sdl2-compat.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "sdl3": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libsdl-org/SDL.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "sed": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/sed.git",
+            "category": "core"
+        },
+        "sessreg": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/sessreg.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "setuptools": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pypa/setuptools.git",
+            "category": "core"
+        },
+        "setuptools-scm": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pypa/setuptools_scm.git",
+            "category": "programming"
+        },
+        "setxkbmap": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/setxkbmap.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "shaderc": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/google/shaderc.git",
+            "category": "general-utilities"
+        },
+        "shadow": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/shadow-maint/shadow.git",
+            "category": "security"
+        },
+        "shared-mime-info": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xdg/shared-mime-info.git",
+            "category": "general-utilities"
+        },
+        "simdutf": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/simdutf/simdutf.git",
+            "category": "general-libs"
+        },
+        "slang": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "git://git.jedsoft.org/git/slang.git",
+            "category": "programming"
+        },
+        "slirp4netns": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/rootless-containers/slirp4netns.git",
+            "category": "tools"
+        },
+        "smartmontools": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/smartmontools/smartmontools.git",
+            "category": "file-systems"
+        },
+        "smproxy": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/smproxy.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "socat": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "http://repo.or.cz/socat.git",
+            "category": "tools"
+        },
+        "sound-theme-freedesktop": {
+            "branch": "debian/latest",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/gnome-team/sound-theme-freedesktop.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "speex": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/xiph/speex.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "spidermonkey": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/mozilla/gecko-dev.git",
+            "category": "general-libs"
+        },
+        "spirv-headers": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/KhronosGroup/SPIRV-Headers.git",
+            "category": "general-libs"
+        },
+        "spirv-llvm-translator": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator.git",
+            "category": "general-libs"
+        },
+        "spirv-tools": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/KhronosGroup/SPIRV-Tools.git",
+            "category": "general-libs"
+        },
+        "sqlite": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/sqlite/sqlite.git",
+            "category": "programming"
+        },
+        "sshfs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/libfuse/sshfs.git",
+            "category": "file-systems"
+        },
+        "startup-notification": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xdg/startup-notification.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "sudo": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/sudo-project/sudo.git",
+            "category": "security"
+        },
+        "svt-av1": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/AOMediaCodec/SVT-AV1.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "switcheroo-control": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/hadess/switcheroo-control.git",
+            "category": "tools"
+        },
+        "systemd": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/systemd/systemd.git",
+            "category": "core"
+        },
+        "tar": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/tar.git",
+            "category": "core"
+        },
+        "tcl": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/tcltk/tcl.git",
+            "category": "core"
+        },
+        "tecla": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/tecla.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "texinfo": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/texinfo.git",
+            "category": "core"
+        },
+        "tiff": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.com/libtiff/libtiff.git",
+            "category": "graphics/graphics-and-fonts"
+        },
+        "tinysparql": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/tinysparql.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "totem-pl-parser": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/totem-pl-parser.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "trove-classifiers": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pypa/trove-classifiers.git",
+            "category": "programming"
+        },
+        "udisks": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/storaged-project/udisks.git",
+            "category": "system-utilities"
+        },
+        "unifdef": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/fanf2/unifdef.git",
+            "category": "programming"
+        },
+        "upower": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/upower/upower.git",
+            "category": "system-utilities"
+        },
+        "util-linux": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git",
+            "category": "core"
+        },
+        "util-macros": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/util/macros.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "v4l-utils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/Distrotech/v4l-utils.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "vala": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/vala.git",
+            "category": "programming"
+        },
+        "vim": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/vim/vim.git"
+        },
+        "vte": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/vte.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "vulkan-headers": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/KhronosGroup/Vulkan-Headers.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "vulkan-loader": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/KhronosGroup/Vulkan-Loader.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "wayland": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/wayland/wayland.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "wayland-protocols": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/wayland/wayland-protocols.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "webkitgtk": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/WebKit/WebKit.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "wget": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/jnothman/wget.git",
+            "category": "networking/networking-programs"
+        },
+        "wheel": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/pypa/wheel.git",
+            "category": "core"
+        },
+        "which": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://https.git.savannah.gnu.org/git/which.git",
+            "category": "system-utilities"
+        },
+        "wireplumber": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/pipewire/wireplumber.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "wpa-supplicant": {
+            "branch": "debian/unstable",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/debian/wpa.git",
+            "category": "networking/networking-programs"
+        },
+        "x264": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://code.videolan.org/videolan/x264.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "x265": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://bitbucket.org/multicoreware/x265_git.git",
+            "category": "multimedia/multimedia-libs-and-drivers"
+        },
+        "xauth": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xauth.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcb-proto": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/proto/xcbproto.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcb-util": {
+            "branch": "debian-unstable",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcb-util-cursor": {
+            "branch": "debian/unstable",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/debian/xcb-util-cursor.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcb-util-errors": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-errors.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcb-util-image": {
+            "branch": "debian-unstable",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-image.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcb-util-keysums": {
+            "branch": "debian-unstable",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-keysyms.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcb-util-renderutil": {
+            "branch": "debian-unstable",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-renderutil.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcb-util-wm": {
+            "branch": "debian-unstable",
+            "ref_policy": "latest-tag",
+            "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-wm.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcmsdb": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xcmsdb.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcursor-themes": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/data/cursors.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xcursorgen": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xcursorgen.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xdg-dbus-proxy": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/flatpak/xdg-dbus-proxy.git",
+            "category": "general-utilities"
+        },
+        "xdg-desktop-portal": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/flatpak/xdg-desktop-portal.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "xdg-desktop-portal-gnome": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "xdg-desktop-portal-gtk": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/flatpak/xdg-desktop-portal-gtk.git",
+            "category": "graphics/graphical-components/graphical-environment-libs"
+        },
+        "xdg-utils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xdg/xdg-utils.git"
+        },
+        "xdg-usr-dirs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xdg/xdg-user-dirs.git",
+            "category": "general-utilities"
+        },
+        "xdpyinfo": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xdpyinfo.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xdriinfo": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xdriinfo.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xev": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xev.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xfsprogs": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.kernel.org/pub/scm/fs/xfs/xfsprogs-dev.git",
+            "category": "file-systems"
+        },
+        "xgamma": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xgamma.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xhost": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xhost.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xinput": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xinput.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xkbcomp": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xkbcomp.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xkbevd": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xkbevd.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xkbutils": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xkbutils.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xkeyboard-config": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xkill": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xkill.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xlsatoms": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xlsatoms.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xlsclients": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xlsclients.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xmessage": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xmessage.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xml-parser": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/toddr/XML-Parser.git",
+            "category": "core"
+        },
+        "xml-simple": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/grantm/XML-Simple.git"
+        },
+        "xmlto": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://pagure.io/xmlto.git"
+        },
+        "xmodmap": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xmodmap.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xorgproto": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/proto/xorgproto.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xpr": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xpr.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xprop": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xprop.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xrandr": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xrandr.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xrdb": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xrdb.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xrefresh": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xrefresh.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xset": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xset.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xsetroot": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xsetroot.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xtrans": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/lib/libxtrans.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xvinfo": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xvinfo.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xwayland": {
+            "branch": "main",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/xserver.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xwd": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xwd.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xwininfo": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xwininfo.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xwud": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.freedesktop.org/xorg/app/xwud.git",
+            "category": "graphics/graphical-components/graphical-environments"
+        },
+        "xz": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://git.tukaani.org/xz.git",
+            "category": "core"
+        },
+        "yelp": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/yelp.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "yelp-xsl": {
+            "branch": "master",
+            "ref_policy": "latest-tag",
+            "repo": "https://gitlab.gnome.org/GNOME/yelp-xsl.git",
+            "category": "graphics/graphical-components/desktop-environment"
+        },
+        "zlib": {
+            "branch": "develop",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/madler/zlib.git",
+            "category": "core"
+        },
+        "zstd": {
+            "branch": "dev",
+            "ref_policy": "latest-tag",
+            "repo": "https://github.com/facebook/zstd.git",
+            "category": "core"
+        }
+    }
+}

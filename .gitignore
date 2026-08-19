@@ -1,0 +1,47 @@
+# ==========================================
+# FlucidOS Fetcher Repository
+# ==========================================
+
+# 1. External Sources (Managed by a separate Git remote)
+pkg-src/
+others/
+
+# 2. Local State & Logs
+fetcher.log
+*.log
+registry/registry.json
+
+# 3. Backups & Archives
+others/
+*.zip
+*.tar.gz
+*.bak
+*~
+
+# ==========================================
+# Standard Python Ignores
+# ==========================================
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest caches
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================================
+# IDE & OS Specific
+# ==========================================
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+*.swp
+

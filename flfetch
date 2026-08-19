@@ -1,0 +1,55 @@
+#!/usr/bin/env python3
+"""
+CLI for the FlucidOS package fetcher.
+
+    flfetch.py resolve [--refresh]     resolve manifest -> lock.json
+    flfetch.py sync                    fetch + verify every locked package
+    flfetch.py resolve --refresh && flfetch.py sync   full refresh + sync
+"""
+
+from __future__ import annotations
+
+import argparse
+import sys
+
+from fetcher import Fetcher, Lockfile, Manifest, Registry, CircuitBreakerTripped
+
+
+def main():
+    parser = argparse.ArgumentParser(description="FlucidOS source fetcher")
+    parser.add_argument("--manifest", default="manifests/pkg-branch.json")
+    parser.add_argument("--lockfile", default="manifests/pkg-branch.lock.json")
+    parser.add_argument("--registry", default="registry/registry.json")
+    parser.add_argument("--sources", default="sources")
+    parser.add_argument("--workers", type=int, default=8)
+    parser.add_argument("--internal-error-limit", type=int, default=3)
+
+    sub = parser.add_subparsers(dest="command", required=True)
+    resolve_p = sub.add_parser("resolve", help="resolve manifest entries into pinned lock entries")
+    resolve_p.add_argument("--refresh", action="store_true",
+                             help="re-resolve packages that already have a lock entry")
+    sub.add_parser("sync", help="fetch + verify every locked package")
+
+    args = parser.parse_args()
+
+    manifest = Manifest(args.manifest)
+    lockfile = Lockfile(args.lockfile)
+    registry = Registry(args.registry)
+    fetcher = Fetcher(
+        args.sources, lockfile, registry,
+        max_workers=args.workers,
+        internal_error_limit=args.internal_error_limit,
+    )
+
+    try:
+        if args.command == "resolve":
+            fetcher.resolve(manifest, refresh=args.refresh)
+        elif args.command == "sync":
+            fetcher.sync(manifest)
+    except CircuitBreakerTripped as e:
+        print(f"\n[ABORTED] {e}", file=sys.stderr)
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,2033 @@
+{
+  "generated": "2026-07-16T14:53:47Z",
+  "packages": {
+    "man-pages": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git"
+    },
+    "iana-etc": {
+      "branch": "master",
+      "repo": "https://github.com/Mic92/iana-etc.git"
+    },
+    "glibc": {
+      "branch": "master",
+      "repo": "https://sourceware.org/git/glibc.git"
+    },
+    "zlib": {
+      "branch": "develop",
+      "repo": "https://github.com/madler/zlib.git"
+    },
+    "bzip2": {
+      "branch": "master",
+      "repo": "https://sourceware.org/git/bzip2.git"
+    },
+    "xz": {
+      "branch": "master",
+      "repo": "https://git.tukaani.org/xz.git"
+    },
+    "lz4": {
+      "branch": "dev",
+      "repo": "https://github.com/lz4/lz4.git"
+    },
+    "zstd": {
+      "branch": "dev",
+      "repo": "https://github.com/facebook/zstd.git"
+    },
+    "file": {
+      "branch": "master",
+      "repo": "https://github.com/file/file.git"
+    },
+    "readline": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/readline.git"
+    },
+    "pcre2": {
+      "branch": "main",
+      "repo": "https://github.com/PCRE2Project/pcre2.git"
+    },
+    "m4": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/m4.git"
+    },
+    "bc": {
+      "branch": "master",
+      "repo": "https://github.com/gavinhoward/bc.git"
+    },
+    "flex": {
+      "branch": "master",
+      "repo": "https://github.com/westes/flex.git"
+    },
+    "tcl": {
+      "branch": "main",
+      "repo": "https://github.com/tcltk/tcl.git"
+    },
+    "expect": {
+      "branch": "master",
+      "repo": "https://github.com/aeruder/expect.git"
+    },
+    "dejagnu": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/dejagnu.git"
+    },
+    "pkgconf": {
+      "branch": "main",
+      "repo": "https://github.com/pkgconf/pkgconf.git"
+    },
+    "binutils": {
+      "branch": "master",
+      "repo": "https://sourceware.org/git/binutils-gdb.git"
+    },
+    "gmp": {
+      "branch": "master",
+      "repo": "https://github.com/gmp-mirror/gmp.git"
+    },
+    "mpfr": {
+      "branch": "master",
+      "repo": "https://gitlab.inria.fr/mpfr/mpfr.git"
+    },
+    "mpc": {
+      "branch": "master",
+      "repo": "https://gitlab.inria.fr/mpc/mpc.git"
+    },
+    "attr": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/attr.git"
+    },
+    "acl": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/acl.git"
+    },
+    "libcap": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/libs/libcap/libcap.git"
+    },
+    "libxcrypt": {
+      "branch": "develop",
+      "repo": "https://github.com/besser82/libxcrypt.git"
+    },
+    "shadow": {
+      "branch": "master",
+      "repo": "https://github.com/shadow-maint/shadow.git"
+    },
+    "gcc": {
+      "branch": "master",
+      "repo": "https://gcc.gnu.org/git/gcc.git"
+    },
+    "ncurses": {
+      "branch": "master",
+      "repo": "https://github.com/ThomasDickey/ncurses-snapshots.git"
+    },
+    "sed": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/sed.git"
+    },
+    "psmisc": {
+      "branch": "master",
+      "repo": "https://gitlab.com/psmisc/psmisc.git"
+    },
+    "gettext": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/gettext.git"
+    },
+    "bison": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/bison.git"
+    },
+    "grep": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/grep.git"
+    },
+    "bash": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/bash.git"
+    },
+    "libtool": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/libtool.git"
+    },
+    "gdbm": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/gdbm.git"
+    },
+    "gperf": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/gperf.git"
+    },
+    "expat": {
+      "branch": "master",
+      "repo": "https://github.com/libexpat/libexpat.git"
+    },
+    "inetutils": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/inetutils.git"
+    },
+    "less": {
+      "branch": "master",
+      "repo": "https://github.com/gwsw/less.git"
+    },
+    "perl": {
+      "branch": "blead",
+      "repo": "https://github.com/Perl/perl5.git"
+    },
+    "xml-parser": {
+      "branch": "main",
+      "repo": "https://github.com/toddr/XML-Parser.git"
+    },
+    "intltool": {
+      "branch": "master",
+      "repo": "https://github.com/Distrotech/intltool.git"
+    },
+    "autoconf": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/autoconf.git"
+    },
+    "automake": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/automake.git"
+    },
+    "openssl": {
+      "branch": "master",
+      "repo": "https://github.com/openssl/openssl.git"
+    },
+    "elfutils": {
+      "branch": "main",
+      "repo": "https://sourceware.org/git/elfutils.git"
+    },
+    "libffi": {
+      "branch": "master",
+      "repo": "https://github.com/libffi/libffi.git"
+    },
+    "sqlite": {
+      "branch": "master",
+      "repo": "https://github.com/sqlite/sqlite.git"
+    },
+    "python": {
+      "branch": "main",
+      "repo": "https://github.com/python/cpython.git"
+    },
+    "flit-core": {
+      "branch": "main",
+      "repo": "https://github.com/pypa/flit.git"
+    },
+    "packaging": {
+      "branch": "main",
+      "repo": "https://github.com/pypa/packaging.git"
+    },
+    "wheel": {
+      "branch": "main",
+      "repo": "https://github.com/pypa/wheel.git"
+    },
+    "setuptools": {
+      "branch": "main",
+      "repo": "https://github.com/pypa/setuptools.git"
+    },
+    "ninja": {
+      "branch": "master",
+      "repo": "https://github.com/ninja-build/ninja.git"
+    },
+    "meson": {
+      "branch": "master",
+      "repo": "https://github.com/mesonbuild/meson.git"
+    },
+    "kmod": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git"
+    },
+    "coreutils": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/coreutils.git"
+    },
+    "diffutils": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/diffutils.git"
+    },
+    "gawk": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/gawk.git"
+    },
+    "findutils": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/findutils.git"
+    },
+    "groff": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/groff.git"
+    },
+    "grub": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/grub.git"
+    },
+    "gzip": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/gzip.git"
+    },
+    "iproute2": {
+      "branch": "main",
+      "repo": "https://git.kernel.org/pub/scm/network/iproute2/iproute2.git"
+    },
+    "kbd": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git"
+    },
+    "libpipeline": {
+      "branch": "main",
+      "repo": "https://gitlab.com/libpipeline/libpipeline.git"
+    },
+    "make": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/make.git"
+    },
+    "patch": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/patch.git"
+    },
+    "tar": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/tar.git"
+    },
+    "texinfo": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/texinfo.git"
+    },
+    "vim": {
+      "branch": "master",
+      "repo": "https://github.com/vim/vim.git"
+    },
+    "markupsafe": {
+      "branch": "main",
+      "repo": "https://github.com/pallets/markupsafe.git"
+    },
+    "jinja2": {
+      "branch": "main",
+      "repo": "https://github.com/pallets/jinja.git"
+    },
+    "systemd": {
+      "branch": "main",
+      "repo": "https://github.com/systemd/systemd.git"
+    },
+    "d-bus": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/dbus/dbus.git"
+    },
+    "man-db": {
+      "branch": "main",
+      "repo": "https://gitlab.com/man-db/man-db.git"
+    },
+    "procps-ng": {
+      "branch": "master",
+      "repo": "https://gitlab.com/procps-ng/procps.git"
+    },
+    "util-linux": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git"
+    },
+    "e2fsprogs": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git"
+    },
+    "p11-kit": {
+      "branch": "master",
+      "repo": "https://github.com/p11-glue/p11-kit.git"
+    },
+    "nspr": {
+      "branch": "main",
+      "repo": "https://github.com/mozilla/nspr.git"
+    },
+    "nss": {
+      "branch": "master",
+      "repo": "https://github.com/nss-dev/nss.git"
+    },
+    "make-ca": {
+      "branch": "master",
+      "repo": "https://github.com/lfs-book/make-ca.git"
+    },
+    "libunistring": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/libunistring.git"
+    },
+    "libidn2": {
+      "branch": "master",
+      "repo": "https://gitlab.com/libidn/libidn2.git"
+    },
+    "libpsl": {
+      "branch": "master",
+      "repo": "https://github.com/rockdaboot/libpsl.git"
+    },
+    "crepo": {
+      "branch": "master",
+      "repo": "https://github.com/crepo/crepo.git"
+    },
+    "libarchive": {
+      "branch": "master",
+      "repo": "https://github.com/libarchive/libarchive.git"
+    },
+    "libuv": {
+      "branch": "v1.x",
+      "repo": "https://github.com/libuv/libuv.git"
+    },
+    "icu4c": {
+      "branch": "main",
+      "repo": "https://github.com/unicode-org/icu.git"
+    },
+    "libxml2": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/libxml2.git"
+    },
+    "nghttp2": {
+      "branch": "master",
+      "repo": "https://github.com/nghttp2/nghttp2.git"
+    },
+    "cmake": {
+      "branch": "master",
+      "repo": "https://gitlab.kitware.com/cmake/cmake.git"
+    },
+    "json-c": {
+      "branch": "master",
+      "repo": "https://github.com/json-c/json-c.git"
+    },
+    "libaio": {
+      "branch": "master",
+      "repo": "https://pagure.io/libaio.git"
+    },
+    "lvm2": {
+      "branch": "main",
+      "repo": "https://sourceware.org/git/lvm2.git"
+    },
+    "popt": {
+      "branch": "master",
+      "repo": "https://github.com/rpm-software-management/popt.git"
+    },
+    "cryptsetup": {
+      "branch": "main",
+      "repo": "https://gitlab.com/cryptsetup/cryptsetup.git"
+    },
+    "nettle": {
+      "branch": "master",
+      "repo": "https://salsa.debian.org/holmgren/nettle.git"
+    },
+    "gnutls": {
+      "branch": "master",
+      "repo": "https://gitlab.com/gnutls/gnutls.git"
+    },
+    "libgpg-error": {
+      "branch": "master",
+      "repo": "https://github.com/gpg/libgpg-error.git"
+    },
+    "libassuan": {
+      "branch": "master",
+      "repo": "https://github.com/gpg/libassuan.git"
+    },
+    "libgcrypt": {
+      "branch": "master",
+      "repo": "https://github.com/gpg/libgcrypt.git"
+    },
+    "libksba": {
+      "branch": "master",
+      "repo": "https://github.com/gpg/libksba.git"
+    },
+    "npth": {
+      "branch": "master",
+      "repo": "https://github.com/gpg/npth.git"
+    },
+    "lmdb": {
+      "branch": "mdb.master3",
+      "repo": "https://github.com/LMDB/lmdb.git"
+    },
+    "cyrus-sasl": {
+      "branch": "master",
+      "repo": "https://github.com/cyrusimap/cyrus-sasl.git"
+    },
+    "openldap": {
+      "branch": "master",
+      "repo": "https://git.openldap.org/openldap/openldap.git"
+    },
+    "pinentry": {
+      "branch": "master",
+      "repo": "https://github.com/gpg/pinentry.git"
+    },
+    "gnupg": {
+      "branch": "master",
+      "repo": "https://github.com/gpg/gnupg.git"
+    },
+    "gpgme": {
+      "branch": "master",
+      "repo": "https://github.com/gpg/gpgme.git"
+    },
+    "libtirpc": {
+      "branch": "master",
+      "repo": "https://github.com/alisw/libtirpc.git"
+    },
+    "libnsl": {
+      "branch": "master",
+      "repo": "https://github.com/thkukuk/libnsl.git"
+    },
+    "rpcsvc-proto": {
+      "branch": "master",
+      "repo": "https://github.com/thkukuk/rpcsvc-proto.git"
+    },
+    "libaudit": {
+      "branch": "master",
+      "repo": "https://github.com/linux-audit/audit-userspace.git"
+    },
+    "libeconf": {
+      "branch": "master",
+      "repo": "https://github.com/openSUSE/libeconf.git"
+    },
+    "linux-pam": {
+      "branch": "master",
+      "repo": "https://github.com/linux-pam/linux-pam.git"
+    },
+    "duktape": {
+      "branch": "master",
+      "repo": "https://github.com/svaarala/duktape.git"
+    },
+    "docutils": {
+      "branch": "master",
+      "repo": "https://github.com/docutils/docutils.git"
+    },
+    "docbook-xml": {
+      "branch": "main",
+      "repo": "https://github.com/docbook/docbook.git"
+    },
+    "docbook-xsl-nons": {
+      "branch": "master",
+      "repo": "https://github.com/docbook/xslt10-stylesheets.git"
+    },
+    "libxslt": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/libxslt.git"
+    },
+    "glib": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/glib.git"
+    },
+    "polkit": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/polkit/polkit.git"
+    },
+    "liboauth": {
+      "branch": "master",
+      "repo": "https://github.com/x42/liboauth.git"
+    },
+    "cracklib": {
+      "branch": "main",
+      "repo": "https://github.com/cracklib/cracklib.git"
+    },
+    "libpwquality": {
+      "branch": "master",
+      "repo": "https://github.com/libpwquality/libpwquality.git"
+    },
+    "openssh": {
+      "branch": "master",
+      "repo": "https://github.com/openssh/openssh-portable.git"
+    },
+    "sudo": {
+      "branch": "main",
+      "repo": "https://github.com/sudo-project/sudo.git"
+    },
+    "iptables": {
+      "branch": "master",
+      "repo": "https://salsa.debian.org/pkg-netfilter-team/pkg-iptables.git"
+    },
+    "lzo": {
+      "branch": "master",
+      "repo": "https://github.com/nemequ/lzo.git"
+    },
+    "btrfs-progs": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/kdave/btrfs-progs.git"
+    },
+    "dosfstools": {
+      "branch": "master",
+      "repo": "https://github.com/dosfstools/dosfstools.git"
+    },
+    "fuse": {
+      "branch": "master",
+      "repo": "https://github.com/libfuse/libfuse.git"
+    },
+    "mdadm": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git"
+    },
+    "ntfs-3g": {
+      "branch": "edge",
+      "repo": "https://github.com/tuxera/ntfs-3g.git"
+    },
+    "gptfdisk": {
+      "branch": "master",
+      "repo": "https://git.code.sf.net/p/gptfdisk/code"
+    },
+    "parted": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/parted.git"
+    },
+    "smartmontools": {
+      "branch": "main",
+      "repo": "https://github.com/smartmontools/smartmontools.git"
+    },
+    "sshfs": {
+      "branch": "master",
+      "repo": "https://github.com/libfuse/sshfs.git"
+    },
+    "inih": {
+      "branch": "master",
+      "repo": "https://github.com/benhoyt/inih.git"
+    },
+    "liburcu": {
+      "branch": "master",
+      "repo": "https://git.lttng.org/userspace-rcu.git"
+    },
+    "xfsprogs": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/fs/xfs/xfsprogs-dev.git"
+    },
+    "util-macros": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/util/macros.git"
+    },
+    "xorgproto": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/proto/xorgproto.git"
+    },
+    "libxau": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxau.git"
+    },
+    "libxdmcp": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxdmcp.git"
+    },
+    "xcb-proto": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/proto/xcbproto.git"
+    },
+    "libxcb": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git"
+    },
+    "libxcb-util": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git"
+    },
+    "graphite2": {
+      "branch": "master",
+      "repo": "https://github.com/silnrsi/graphite.git"
+    },
+    "harfbuzz": {
+      "branch": "main",
+      "repo": "https://github.com/harfbuzz/harfbuzz.git"
+    },
+    "libpng": {
+      "branch": "libpng18",
+      "repo": "https://github.com/pnggroup/libpng.git"
+    },
+    "which": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/which.git"
+    },
+    "freetype": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/freetype/freetype.git"
+    },
+    "fontconfig": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/fontconfig/fontconfig.git"
+    },
+    "libxkbfile": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxkbfile.git"
+    },
+    "libfontenc": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libfontenc.git"
+    },
+    "libxmu": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXmu.git"
+    },
+    "libfs": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libFS.git"
+    },
+    "libxpm": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXpm.git"
+    },
+    "libice": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libICE.git"
+    },
+    "libxpresent": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXpresent.git"
+    },
+    "libpciaccess": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libpciaccess.git"
+    },
+    "libxrandr": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXrandr.git"
+    },
+    "libsm": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libSM.git"
+    },
+    "libxrender": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXrender.git"
+    },
+    "libx11": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libX11.git"
+    },
+    "libxres": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXres.git"
+    },
+    "libxaw": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXaw.git"
+    },
+    "libxscrnsaver": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXScrnSaver.git"
+    },
+    "libxcomposite": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXcomposite.git"
+    },
+    "libxshmfence": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxshmfence.git"
+    },
+    "libxcursor": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXcursor.git"
+    },
+    "libxt": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXt.git"
+    },
+    "libxdamage": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXdamage.git"
+    },
+    "libxtst": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXtst.git"
+    },
+    "libxext": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXext.git"
+    },
+    "libxv": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXv.git"
+    },
+    "libxfixes": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXfixes.git"
+    },
+    "libxvmc": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXvMC.git"
+    },
+    "libxfont2": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxfont.git"
+    },
+    "libxxf86dga": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXxf86dga.git"
+    },
+    "libxft": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXft.git"
+    },
+    "libxxf86vm": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXxf86vm.git"
+    },
+    "libxi": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXi.git"
+    },
+    "xtrans": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxtrans.git"
+    },
+    "libxinerama": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libXinerama.git"
+    },
+    "libxcvt": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcvt.git"
+    },
+    "xcb-util": {
+      "branch": "debian-unstable",
+      "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util.git"
+    },
+    "xcb-util-image": {
+      "branch": "debian-unstable",
+      "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-image.git"
+    },
+    "xcb-util-keysums": {
+      "branch": "debian-unstable",
+      "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-keysyms.git"
+    },
+    "xcb-util-renderutil": {
+      "branch": "debian-unstable",
+      "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-renderutil.git"
+    },
+    "xcb-util-wm": {
+      "branch": "debian-unstable",
+      "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-wm.git"
+    },
+    "xcb-util-cursor": {
+      "branch": "debian/unstable",
+      "repo": "https://salsa.debian.org/debian/xcb-util-cursor.git"
+    },
+    "xcb-util-errors": {
+      "branch": "master",
+      "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-errors.git"
+    },
+    "libdrm": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/mesa/drm.git"
+    },
+    "mako": {
+      "branch": "main",
+      "repo": "https://github.com/sqlalchemy/mako.git"
+    },
+    "cython": {
+      "branch": "master",
+      "repo": "https://github.com/cython/cython.git"
+    },
+    "libyaml": {
+      "branch": "master",
+      "repo": "https://github.com/yaml/libyaml.git"
+    },
+    "pyyaml": {
+      "branch": "main",
+      "repo": "https://github.com/yaml/pyyaml.git"
+    },
+    "spirv-headers": {
+      "branch": "main",
+      "repo": "https://github.com/KhronosGroup/SPIRV-Headers.git"
+    },
+    "spirv-tools": {
+      "branch": "main",
+      "repo": "https://github.com/KhronosGroup/SPIRV-Tools.git"
+    },
+    "glslang": {
+      "branch": "main",
+      "repo": "https://github.com/KhronosGroup/glslang.git"
+    },
+    "libva": {
+      "branch": "master",
+      "repo": "https://github.com/intel/libva.git"
+    },
+    "llvm": {
+      "branch": "main",
+      "repo": "https://github.com/llvm/llvm-project.git"
+    },
+    "wayland": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/wayland/wayland.git"
+    },
+    "wayland-protocols": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/wayland/wayland-protocols.git"
+    },
+    "spirv-llvm-translator": {
+      "branch": "main",
+      "repo": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator.git"
+    },
+    "vulkan-headers": {
+      "branch": "main",
+      "repo": "https://github.com/KhronosGroup/Vulkan-Headers.git"
+    },
+    "vulkan-loader": {
+      "branch": "main",
+      "repo": "https://github.com/KhronosGroup/Vulkan-Loader.git"
+    },
+    "rustc": {
+      "branch": "main",
+      "repo": "https://github.com/rust-lang/rust.git"
+    },
+    "cbindgen": {
+      "branch": "main",
+      "repo": "https://github.com/mozilla/cbindgen.git"
+    },
+    "rustbindgen": {
+      "branch": "main",
+      "repo": "https://github.com/rust-lang/rust-bindgen.git"
+    },
+    "hwdata": {
+      "branch": "master",
+      "repo": "https://github.com/vcrhonek/hwdata.git"
+    },
+    "pciutils": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/utils/pciutils/pciutils.git"
+    },
+    "mesa": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/mesa/mesa.git"
+    },
+    "xkeyboard-config": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config.git"
+    },
+    "pixman": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/pixman/pixman.git"
+    },
+    "xgamma": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xgamma.git"
+    },
+    "iceauth": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/iceauth.git"
+    },
+    "xhost": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xhost.git"
+    },
+    "xrandr": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xrandr.git"
+    },
+    "xinput": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xinput.git"
+    },
+    "xrdb": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xrdb.git"
+    },
+    "sessreg": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/sessreg.git"
+    },
+    "xkbcomp": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xkbcomp.git"
+    },
+    "xrefresh": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xrefresh.git"
+    },
+    "setxkbmap": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/setxkbmap.git"
+    },
+    "xkbevd": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xkbevd.git"
+    },
+    "xset": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xset.git"
+    },
+    "smproxy": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/smproxy.git"
+    },
+    "xkbutils": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xkbutils.git"
+    },
+    "xsetroot": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xsetroot.git"
+    },
+    "xauth": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xauth.git"
+    },
+    "xkill": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xkill.git"
+    },
+    "xvinfo": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xvinfo.git"
+    },
+    "xcmsdb": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xcmsdb.git"
+    },
+    "xlsatoms": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xlsatoms.git"
+    },
+    "xwd": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xwd.git"
+    },
+    "xcursorgen": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xcursorgen.git"
+    },
+    "xlsclients": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xlsclients.git"
+    },
+    "xwininfo": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xwininfo.git"
+    },
+    "xdpyinfo": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xdpyinfo.git"
+    },
+    "xmessage": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xmessage.git"
+    },
+    "xwud": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xwud.git"
+    },
+    "xdriinfo": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xdriinfo.git"
+    },
+    "xmodmap": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xmodmap.git"
+    },
+    "xev": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xev.git"
+    },
+    "xpr": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xpr.git"
+    },
+    "xprop": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/app/xprop.git"
+    },
+    "xcursor-themes": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/data/cursors.git"
+    },
+    "font-util": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xorg/font/util.git"
+    },
+    "libepoxy": {
+      "branch": "master",
+      "repo": "https://github.com/anholt/libepoxy.git"
+    },
+    "xwayland": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/xorg/xserver.git"
+    },
+    "inter": {
+      "branch": "master",
+      "repo": "https://github.com/rsms/inter.git"
+    },
+    "google-sans-code": {
+      "branch": "main",
+      "repo": "https://github.com/googlefonts/googlesans-code.git"
+    },
+    "gsettings-desktop-schemas": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas.git"
+    },
+    "at-spi2-core": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/at-spi2-core.git"
+    },
+    "boost": {
+      "branch": "master",
+      "repo": "https://github.com/boostorg/boost.git"
+    },
+    "libsigc": {
+      "branch": "master",
+      "repo": "https://github.com/libsigcplusplus/libsigcplusplus.git"
+    },
+    "glib-networking": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/glib-networking.git"
+    },
+    "glibmm": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/glibmm.git"
+    },
+    "atkmm": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/atkmm.git"
+    },
+    "cairo": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/cairo/cairo.git"
+    },
+    "cairomm": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/cairo/cairomm.git"
+    },
+    "shared-mime-info": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xdg/shared-mime-info.git"
+    },
+    "gdk-pixbuf": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gdk-pixbuf.git"
+    },
+    "bubblewrap": {
+      "branch": "main",
+      "repo": "https://github.com/containers/bubblewrap.git"
+    },
+    "lcms2": {
+      "branch": "master",
+      "repo": "https://github.com/mm2/Little-CMS.git"
+    },
+    "libseccomp": {
+      "branch": "main",
+      "repo": "https://github.com/seccomp/libseccomp.git"
+    },
+    "nasm": {
+      "branch": "master",
+      "repo": "https://github.com/netwide-assembler/nasm.git"
+    },
+    "libaom": {
+      "branch": "main",
+      "repo": "https://aomedia.googlesource.com/aom"
+    },
+    "libde265": {
+      "branch": "master",
+      "repo": "https://github.com/strukturag/libde265.git"
+    },
+    "x265": {
+      "branch": "master",
+      "repo": "https://bitbucket.org/multicoreware/x265_git.git"
+    },
+    "libheif": {
+      "branch": "master",
+      "repo": "https://github.com/strukturag/libheif.git"
+    },
+    "brotli": {
+      "branch": "master",
+      "repo": "https://github.com/google/brotli.git"
+    },
+    "giflib": {
+      "branch": "master",
+      "repo": "https://git.code.sf.net/p/giflib/code"
+    },
+    "highway": {
+      "branch": "master",
+      "repo": "https://github.com/google/highway.git"
+    },
+    "libjpeg-turbo": {
+      "branch": "main",
+      "repo": "https://github.com/libjpeg-turbo/libjpeg-turbo.git"
+    },
+    "libjxl": {
+      "branch": "main",
+      "repo": "https://github.com/libjxl/libjxl.git"
+    },
+    "libssh2": {
+      "branch": "master",
+      "repo": "https://github.com/libssh2/libssh2.git"
+    },
+    "cargo-c": {
+      "branch": "master",
+      "repo": "https://github.com/lu-zero/cargo-c.git"
+    },
+    "fribidi": {
+      "branch": "master",
+      "repo": "https://github.com/fribidi/fribidi.git"
+    },
+    "pango": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/pango.git"
+    },
+    "babl": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/babl.git"
+    },
+    "json-glib": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/json-glib.git"
+    },
+    "graphviz": {
+      "branch": "main",
+      "repo": "https://gitlab.com/graphviz/graphviz.git"
+    },
+    "editables": {
+      "branch": "main",
+      "repo": "https://github.com/pfmoore/editables.git"
+    },
+    "pathspec": {
+      "branch": "master",
+      "repo": "https://github.com/cpburnz/python-pathspec.git"
+    },
+    "setuptools-scm": {
+      "branch": "main",
+      "repo": "https://github.com/pypa/setuptools_scm.git"
+    },
+    "pluggy": {
+      "branch": "main",
+      "repo": "https://github.com/pytest-dev/pluggy.git"
+    },
+    "trove-classifiers": {
+      "branch": "main",
+      "repo": "https://github.com/pypa/trove-classifiers.git"
+    },
+    "hatchling": {
+      "branch": "master",
+      "repo": "https://github.com/pypa/hatch.git"
+    },
+    "pygments": {
+      "branch": "master",
+      "repo": "https://github.com/pygments/pygments.git"
+    },
+    "pycairo": {
+      "branch": "main",
+      "repo": "https://github.com/pygobject/pycairo.git"
+    },
+    "pygobject": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/pygobject.git"
+    },
+    "gegl": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gegl.git"
+    },
+    "vala": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/vala.git"
+    },
+    "librsvg": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/librsvg.git"
+    },
+    "glycin": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/glycin.git"
+    },
+    "graphene": {
+      "branch": "master",
+      "repo": "https://github.com/ebassi/graphene.git"
+    },
+    "hicolor-icon-theme": {
+      "branch": "debian/latest",
+      "repo": "https://salsa.debian.org/gnome-team/hicolor-icon-theme.git"
+    },
+    "iso-codes": {
+      "branch": "main",
+      "repo": "https://salsa.debian.org/iso-codes-team/iso-codes.git"
+    },
+    "libxkbcommon": {
+      "branch": "master",
+      "repo": "https://github.com/xkbcommon/libxkbcommon.git"
+    },
+    "gtk": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gtk.git"
+    },
+    "gstreamer": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/gstreamer/gstreamer.git"
+    },
+    "alsa-lib": {
+      "branch": "master",
+      "repo": "https://github.com/alsa-project/alsa-lib.git"
+    },
+    "libgudev": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/libgudev.git"
+    },
+    "libogg": {
+      "branch": "debian/latest",
+      "repo": "https://salsa.debian.org/multimedia-team/libogg.git"
+    },
+    "libvorbis": {
+      "branch": "main",
+      "repo": "https://gitlab.xiph.org/xiph/vorbis.git"
+    },
+    "flac": {
+      "branch": "master",
+      "repo": "https://github.com/xiph/flac.git"
+    },
+    "lame": {
+      "branch": "origin",
+      "repo": "https://github.com/rbrito/lame.git"
+    },
+    "libsoup": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/libsoup.git"
+    },
+    "libvpx": {
+      "branch": "main",
+      "repo": "https://chromium.googlesource.com/webm/libvpx.git"
+    },
+    "mpg123": {
+      "branch": "master",
+      "repo": "https://salsa.debian.org/multimedia-team/mpg123.git"
+    },
+    "opus": {
+      "branch": "debian/latest",
+      "repo": "https://salsa.debian.org/multimedia-team/opus.git"
+    },
+    "libsndfile": {
+      "branch": "master",
+      "repo": "https://github.com/libsndfile/libsndfile.git"
+    },
+    "speex": {
+      "branch": "master",
+      "repo": "https://salsa.debian.org/multimedia-team/speex.git"
+    },
+    "svt-av1": {
+      "branch": "master",
+      "repo": "https://gitlab.com/AOMediaCodec/SVT-AV1.git"
+    },
+    "x264": {
+      "branch": "master",
+      "repo": "https://code.videolan.org/videolan/x264.git"
+    },
+    "shaderc": {
+      "branch": "main",
+      "repo": "https://github.com/google/shaderc.git"
+    },
+    "pangomm": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/pangomm.git"
+    },
+    "gtkmm": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gtkmm.git"
+    },
+    "gtksourceview": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gtksourceview.git"
+    },
+    "lxml": {
+      "branch": "master",
+      "repo": "https://github.com/lxml/lxml.git"
+    },
+    "itstool": {
+      "branch": "master",
+      "repo": "https://github.com/itstool/itstool.git"
+    },
+    "libfyaml": {
+      "branch": "master",
+      "repo": "https://github.com/pantoniou/libfyaml.git"
+    },
+    "appstream": {
+      "branch": "main",
+      "repo": "https://github.com/ximion/appstream.git"
+    },
+    "appstream-glib": {
+      "branch": "main",
+      "repo": "https://github.com/hughsie/appstream-glib.git"
+    },
+    "sassc": {
+      "branch": "master",
+      "repo": "https://github.com/sass/sassc.git"
+    },
+    "libadwaita": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/libadwaita.git"
+    },
+    "hatch-fancy-pypi-readme": {
+      "branch": "main",
+      "repo": "https://github.com/hynek/hatch-fancy-pypi-readme.git"
+    },
+    "hatch-vcs": {
+      "branch": "master",
+      "repo": "https://github.com/ofek/hatch-vcs.git"
+    },
+    "libei": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/libinput/libei.git"
+    },
+    "libhandy": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/libhandy.git"
+    },
+    "libcanberra": {
+      "branch": "distrotech-libcanberra",
+      "repo": "https://github.com/Distrotech/libcanberra.git"
+    },
+    "notification-daemon": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/notification-daemon.git"
+    },
+    "libnotify": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/libnotify.git"
+    },
+    "libxklavier": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/archived-projects/libxklavier.git"
+    },
+    "startup-notification": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xdg/startup-notification.git"
+    },
+    "libsecret": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/libsecret.git"
+    },
+    "tiff": {
+      "branch": "master",
+      "repo": "https://gitlab.com/libtiff/libtiff.git"
+    },
+    "libusb": {
+      "branch": "master",
+      "repo": "https://github.com/libusb/libusb.git"
+    },
+    "bluez": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/bluetooth/bluez.git"
+    },
+    "sbc": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/bluetooth/sbc.git"
+    },
+    "glu": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/mesa/glu.git"
+    },
+    "v4l-utils": {
+      "branch": "master",
+      "repo": "https://git.linuxtv.org/v4l-utils.git"
+    },
+    "lua": {
+      "branch": "master",
+      "repo": "https://github.com/lua/lua.git"
+    },
+    "pipewire": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/pipewire/pipewire.git"
+    },
+    "wireplumber": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/pipewire/wireplumber.git"
+    },
+    "sdl3": {
+      "branch": "main",
+      "repo": "https://github.com/libsdl-org/SDL.git"
+    },
+    "sdl2-compat": {
+      "branch": "main",
+      "repo": "https://github.com/libsdl-org/sdl2-compat.git"
+    },
+    "libwebp": {
+      "branch": "main",
+      "repo": "https://chromium.googlesource.com/webm/libwebp.git"
+    },
+    "openjpeg": {
+      "branch": "master",
+      "repo": "https://github.com/uclouvain/openjpeg.git"
+    },
+    "ruby": {
+      "branch": "master",
+      "repo": "https://github.com/ruby/ruby.git"
+    },
+    "unifdef": {
+      "branch": "master",
+      "repo": "https://github.com/fanf2/unifdef.git"
+    },
+    "aspell": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/aspell.git"
+    },
+    "enchant": {
+      "branch": "main",
+      "repo": "https://github.com/AbiWord/enchant.git"
+    },
+    "libmbim": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/mobile-broadband/libmbim.git"
+    },
+    "libqmi": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/mobile-broadband/libqmi.git"
+    },
+    "modemmanager": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/mobile-broadband/ModemManager.git"
+    },
+    "geoclue": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/geoclue/geoclue.git"
+    },
+    "dav1d": {
+      "branch": "master",
+      "repo": "https://code.videolan.org/videolan/dav1d.git"
+    },
+    "libavif": {
+      "branch": "main",
+      "repo": "https://github.com/AOMediaCodec/libavif.git"
+    },
+    "xdg-dbus-proxy": {
+      "branch": "main",
+      "repo": "https://github.com/flatpak/xdg-dbus-proxy.git"
+    },
+    "webkitgtk": {
+      "branch": "main",
+      "repo": "https://github.com/WebKit/WebKit.git"
+    },
+    "xdg-desktop-portal": {
+      "branch": "main",
+      "repo": "https://github.com/flatpak/xdg-desktop-portal.git"
+    },
+    "gnome-desktop": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-desktop.git"
+    },
+    "xdg-desktop-portal-gtk": {
+      "branch": "main",
+      "repo": "https://github.com/flatpak/xdg-desktop-portal-gtk.git"
+    },
+    "accountsservice": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/accountsservice/accountsservice.git"
+    },
+    "desktop-file-utils": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xdg/desktop-file-utils.git"
+    },
+    "dconf-editor": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/dconf-editor.git"
+    },
+    "dconf": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/dconf.git"
+    },
+    "upower": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/upower/upower.git"
+    },
+    "gnome-session": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-session.git"
+    },
+    "gdm": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gdm.git"
+    },
+    "xml-simple": {
+      "branch": "master",
+      "repo": "https://github.com/grantm/XML-Simple.git"
+    },
+    "icon-naming-utils": {
+      "branch": "master",
+      "repo": "https://github.com/Distrotech/icon-naming-utils.git"
+    },
+    "gnome-icon-theme": {
+      "branch": "distrotech-gnome-icon-theme",
+      "repo": "https://github.com/Distrotech/gnome-icon-theme.git"
+    },
+    "gnome-icon-theme-extras": {
+      "branch": "distrotech-gnome-icon-theme-extras",
+      "repo": "https://github.com/Distrotech/gnome-icon-theme-extras.git"
+    },
+    "gnome-icon-theme-symbolic": {
+      "branch": "distrotech-gnome-icon-theme-symbolic",
+      "repo": "https://github.com/Distrotech/gnome-icon-theme-symbolic.git"
+    },
+    "gnome-themes-extra": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-themes-extra.git"
+    },
+    "gcr": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gcr.git"
+    },
+    "librest": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/librest.git"
+    },
+    "totem-pl-parser": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/totem-pl-parser.git"
+    },
+    "fast-float": {
+      "branch": "main",
+      "repo": "https://github.com/fastfloat/fast_float.git"
+    },
+    "fmt": {
+      "branch": "main",
+      "repo": "https://github.com/fmtlib/fmt.git"
+    },
+    "simdutf": {
+      "branch": "master",
+      "repo": "https://github.com/simdutf/simdutf.git"
+    },
+    "vte": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/vte.git"
+    },
+    "yelp-xsl": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/yelp-xsl.git"
+    },
+    "geocode-glib": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/geocode-glib.git"
+    },
+    "spidermonkey": {
+      "branch": "master",
+      "repo": "https://github.com/mozilla/gecko-dev.git"
+    },
+    "gjs": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gjs.git"
+    },
+    "gnome-autoar": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-autoar.git"
+    },
+    "gnome-menus": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-menus.git"
+    },
+    "gnome-online-accounts": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-online-accounts.git"
+    },
+    "libgee": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/libgee.git"
+    },
+    "libgtop": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/libgtop.git"
+    },
+    "libgweather": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/libgweather.git"
+    },
+    "libpeas": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/libpeas.git"
+    },
+    "abseil-cpp": {
+      "branch": "master",
+      "repo": "https://github.com/abseil/abseil-cpp.git"
+    },
+    "protobuf": {
+      "branch": "main",
+      "repo": "https://github.com/protocolbuffers/protobuf.git"
+    },
+    "protobuf-c": {
+      "branch": "master",
+      "repo": "https://github.com/protobuf-c/protobuf-c.git"
+    },
+    "libshumate": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/libshumate.git"
+    },
+    "libical": {
+      "branch": "4.0",
+      "repo": "https://github.com/libical/libical.git"
+    },
+    "evolution-data-server": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/evolution-data-server.git"
+    },
+    "exiv2": {
+      "branch": "main",
+      "repo": "https://github.com/Exiv2/exiv2.git"
+    },
+    "gexiv2": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gexiv2.git"
+    },
+    "exempi": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/libopenraw/exempi.git"
+    },
+    "libass": {
+      "branch": "master",
+      "repo": "https://github.com/libass/libass.git"
+    },
+    "fdk-aac": {
+      "branch": "master",
+      "repo": "https://github.com/mstorsjo/fdk-aac.git"
+    },
+    "ffmpeg": {
+      "branch": "master",
+      "repo": "https://git.ffmpeg.org/ffmpeg.git"
+    },
+    "libexif": {
+      "branch": "master",
+      "repo": "https://github.com/libexif/libexif.git"
+    },
+    "libgxps": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/libgxps.git"
+    },
+    "poppler": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/poppler/poppler.git"
+    },
+    "poppler-data": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/poppler/poppler-data.git"
+    },
+    "tinysparql": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/tinysparql.git"
+    },
+    "localsearch": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/localsearch.git"
+    },
+    "gsound": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gsound.git"
+    },
+    "xdg-desktop-portal-gnome": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome.git"
+    },
+    "gnome-backgrounds": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-backgrounds.git"
+    },
+    "libcddb": {
+      "branch": "master",
+      "repo": "https://github.com/Distrotech/libcddb"
+    },
+    "libcdio": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/libcdio.git"
+    },
+    "libcdio-paranoia": {
+      "branch": "master",
+      "repo": "https://github.com/rocky/libcdio-paranoia.git"
+    },
+    "libatasmart": {
+      "branch": "master",
+      "repo": "https://github.com/Rupan/libatasmart.git"
+    },
+    "keyutils": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git"
+    },
+    "libbytesize": {
+      "branch": "main",
+      "repo": "https://github.com/storaged-project/libbytesize.git"
+    },
+    "libnvme": {
+      "branch": "master",
+      "repo": "https://github.com/linux-nvme/libnvme.git"
+    },
+    "libblockdev": {
+      "branch": "master",
+      "repo": "https://github.com/storaged-project/libblockdev.git"
+    },
+    "udisks": {
+      "branch": "master",
+      "repo": "https://github.com/storaged-project/udisks.git"
+    },
+    "gvfs": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gvfs.git"
+    },
+    "libportal": {
+      "branch": "main",
+      "repo": "https://github.com/flatpak/libportal.git"
+    },
+    "libcloudproviders": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/World/libcloudproviders.git"
+    },
+    "nautilus": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/nautilus.git"
+    },
+    "gnome-bluetooth": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-bluetooth.git"
+    },
+    "gnome-keyring": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-keyring.git"
+    },
+    "libgusb": {
+      "branch": "main",
+      "repo": "https://github.com/hughsie/libgusb.git"
+    },
+    "colord": {
+      "branch": "main",
+      "repo": "https://github.com/hughsie/colord.git"
+    },
+    "xmlto": {
+      "branch": "master",
+      "repo": "https://pagure.io/xmlto.git"
+    },
+    "xdg-utils": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/xdg/xdg-utils.git"
+    },
+    "cups": {
+      "branch": "master",
+      "repo": "https://github.com/OpenPrinting/cups.git"
+    },
+    "libndp": {
+      "branch": "master",
+      "repo": "https://github.com/jpirko/libndp.git"
+    },
+    "slang": {
+      "branch": "master",
+      "repo": "git://git.jedsoft.org/git/slang.git"
+    },
+    "gpm": {
+      "branch": "master",
+      "repo": "https://github.com/telmich/gpm.git"
+    },
+    "newt": {
+      "branch": "master",
+      "repo": "https://pagure.io/newt.git"
+    },
+    "linux-firmware": {
+      "branch": "main",
+      "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git"
+    },
+    "libnl": {
+      "branch": "main",
+      "repo": "https://github.com/thom311/libnl.git"
+    },
+    "wpa-supplicant": {
+      "branch": "debian/unstable",
+      "repo": "https://salsa.debian.org/debian/wpa.git"
+    },
+    "networkmanager": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager.git"
+    },
+    "libevdev": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/libevdev/libevdev.git"
+    },
+    "libwacom": {
+      "branch": "master",
+      "repo": "https://github.com/linuxwacom/libwacom.git"
+    },
+    "pulseaudio": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git"
+    },
+    "tecla": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/tecla.git"
+    },
+    "gnome-settings-daemon": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-settings-daemon.git"
+    },
+    "krb5": {
+      "branch": "master",
+      "repo": "https://github.com/krb5/krb5.git"
+    },
+    "parse-yapp": {
+      "branch": "master",
+      "repo": "https://github.com/gitpan/Parse-Yapp.git"
+    },
+    "jansson": {
+      "branch": "master",
+      "repo": "https://github.com/akheron/jansson.git"
+    },
+    "ibus": {
+      "branch": "main",
+      "repo": "https://github.com/ibus/ibus.git"
+    },
+    "colord-gtk": {
+      "branch": "main",
+      "repo": "https://github.com/hughsie/colord-gtk.git"
+    },
+    "gnome-control-center": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-control-center.git"
+    },
+    "libdisplay-info": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/emersion/libdisplay-info.git"
+    },
+    "mtdev": {
+      "branch": "master",
+      "repo": "https://github.com/rydberg/mtdev.git"
+    },
+    "libinput": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/libinput/libinput.git"
+    },
+    "mutter": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/mutter.git"
+    },
+    "lynx": {
+      "branch": "master",
+      "repo": "https://github.com/ThomasDickey/lynx-snapshots.git"
+    },
+    "gnome-shell-extensions": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-shell-extensions.git"
+    },
+    "sound-theme-freedesktop": {
+      "branch": "debian/latest",
+      "repo": "https://salsa.debian.org/gnome-team/sound-theme-freedesktop.git"
+    },
+    "gnome-tweaks": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-tweaks.git"
+    },
+    "gnome-user-docs": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-user-docs.git"
+    },
+    "yelp": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/yelp.git"
+    },
+    "baobab": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/baobab.git"
+    },
+    "cpio": {
+      "branch": "master",
+      "repo": "https://https.git.savannah.gnu.org/git/cpio.git"
+    },
+    "file-roller": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/file-roller.git"
+    },
+    "gnome-calculator": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-calculator.git"
+    },
+    "libdvdread": {
+      "branch": "master",
+      "repo": "https://code.videolan.org/videolan/libdvdread.git"
+    },
+    "gnome-disk-utility": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-disk-utility.git"
+    },
+    "gnome-logs": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-logs.git"
+    },
+    "gnome-power-manager": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-power-manager.git"
+    },
+    "gnome-system-monitor": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-system-monitor.git"
+    },
+    "ptyxis": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/chergert/ptyxis.git"
+    },
+    "git": {
+      "branch": "master",
+      "repo": "https://git.kernel.org/pub/scm/git/git.git"
+    },
+    "gst-plugins-rs": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs.git"
+    },
+    "gnome-color-manager": {
+      "branch": "master",
+      "repo": "https://gitlab.gnome.org/GNOME/gnome-color-manager.git"
+    },
+    "libostree": {
+      "branch": "main",
+      "repo": "https://github.com/ostreedev/ostree.git"
+    },
+    "pyparsing": {
+      "branch": "master",
+      "repo": "https://github.com/pyparsing/pyparsing.git"
+    },
+    "socat": {
+      "branch": "master",
+      "repo": "http://repo.or.cz/socat.git"
+    },
+    "flatpak": {
+      "branch": "main",
+      "repo": "https://github.com/flatpak/flatpak.git"
+    },
+    "libdex": {
+      "branch": "main",
+      "repo": "https://gitlab.gnome.org/GNOME/libdex.git"
+    },
+    "md4c": {
+      "branch": "master",
+      "repo": "https://github.com/mity/md4c.git"
+    },
+    "libproxy": {
+      "branch": "main",
+      "repo": "https://github.com/libproxy/libproxy.git"
+    },
+    "malcontent": {
+      "branch": "main",
+      "repo": "https://gitlab.freedesktop.org/pwithnall/malcontent.git"
+    },
+    "bazzar": {
+      "branch": "main",
+      "repo": "https://github.com/bazaar-org/bazaar.git"
+    },
+    "crun": {
+      "branch": "main",
+      "repo": "https://github.com/containers/crun.git"
+    },
+    "conmon": {
+      "branch": "main",
+      "repo": "https://github.com/containers/conmon.git"
+    },
+    "netavark": {
+      "branch": "main",
+      "repo": "https://github.com/containers/netavark.git"
+    },
+    "aardvark-dns": {
+      "branch": "main",
+      "repo": "https://github.com/containers/aardvark-dns.git"
+    },
+    "libslirp": {
+      "branch": "master",
+      "repo": "https://gitlab.freedesktop.org/slirp/libslirp.git"
+    },
+    "slirp4netns": {
+      "branch": "master",
+      "repo": "https://github.com/rootless-containers/slirp4netns.git"
+    },
+    "fuse-overlayfs": {
+      "branch": "main",
+      "repo": "https://github.com/containers/fuse-overlayfs.git"
+    },
+    "libmnl": {
+      "branch": "master",
+      "repo": "https://git.netfilter.org/libmnl"
+    },
+    "libnftnl": {
+      "branch": "master",
+      "repo": "https://git.netfilter.org/libnftnl.git"
+    },
+    "podman": {
+      "branch": "main",
+      "repo": "https://github.com/containers/podman.git"
+    },
+    "pasta": {
+      "branch": "master",
+      "repo": "https://passt.top/passt"
+    },
+    "distrobox": {
+      "branch": "main",
+      "repo": "https://github.com/89luca89/distrobox.git"
+    }
+  }
+}
