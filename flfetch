@@ -20,7 +20,7 @@ def main():
     parser.add_argument("--manifest", default="manifests/pkg-branch.json")
     parser.add_argument("--lockfile", default="manifests/pkg-branch.lock.json")
     parser.add_argument("--registry", default="registry/registry.json")
-    parser.add_argument("--sources", default="sources")
+    parser.add_argument("--sources", default="pkg-src")
     parser.add_argument("--workers", type=int, default=8)
     parser.add_argument("--internal-error-limit", type=int, default=3)
 
