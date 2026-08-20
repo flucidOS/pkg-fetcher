@@ -1966,7 +1966,8 @@
         "lvm2": {
             "branch": "main",
             "ref_policy": "latest-tag",
-            "repo": "git://sourceware.org/git/lvm2.git"
+            "repo": "git://sourceware.org/git/lvm2.git",
+	    "category": "file-systems"
         },
         "lxml": {
             "branch": "master",
@@ -2736,11 +2737,6 @@
             "repo": "https://gitlab.gnome.org/GNOME/vala.git",
             "category": "programming"
         },
-        "vim": {
-            "branch": "master",
-            "ref_policy": "latest-tag",
-            "repo": "https://github.com/vim/vim.git"
-        },
         "vte": {
             "branch": "master",
             "ref_policy": "latest-tag",
@@ -2918,7 +2914,9 @@
         "xdg-utils": {
             "branch": "master",
             "ref_policy": "latest-tag",
-            "repo": "https://gitlab.freedesktop.org/xdg/xdg-utils.git"
+            "repo": "https://gitlab.freedesktop.org/xdg/xdg-utils.git",
+            "category": "general-utilities"
+            
         },
         "xdg-usr-dirs": {
             "branch": "master",
@@ -3025,12 +3023,14 @@
         "xml-simple": {
             "branch": "master",
             "ref_policy": "latest-tag",
-            "repo": "https://github.com/grantm/XML-Simple.git"
+            "repo": "https://github.com/grantm/XML-Simple.git",
+             "category": "programming"
         },
         "xmlto": {
             "branch": "master",
             "ref_policy": "latest-tag",
-            "repo": "https://pagure.io/xmlto.git"
+            "repo": "https://pagure.io/xmlto.git",
+             "category": "programming"
         },
         "xmodmap": {
             "branch": "master",
