@@ -1924,7 +1924,7 @@
         "linux-firmware": {
             "branch": "main",
             "ref_policy": "latest-tag",
-            "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git",
+            "repo": "https://gitlab.com/kernel-firmware/linux-firmware.git",
             "category": "core"
         },
         "linux": {
