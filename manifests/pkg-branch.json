@@ -1156,7 +1156,7 @@
         "libaio": {
             "branch": "master",
             "ref_policy": "latest-tag",
-            "repo": "https://pagure.io/libaio.git",
+            "repo": "https://github.com/yugabyte/libaio.git",
             "category": "general-libs"
         },
         "libaom": {
@@ -2140,7 +2140,7 @@
         "newt": {
             "branch": "master",
             "ref_policy": "latest-tag",
-            "repo": "https://pagure.io/newt.git",
+            "repo": "https://github.com/mlichvar/newt.git",
             "category": "graphics/graphics-and-fonts"
         },
         "nghttp2": {
@@ -3029,7 +3029,7 @@
         "xmlto": {
             "branch": "master",
             "ref_policy": "latest-tag",
-            "repo": "https://pagure.io/xmlto.git",
+            "repo": "https://github.com/deepin-community/xmlto.git",
              "category": "programming"
         },
         "xmodmap": {
