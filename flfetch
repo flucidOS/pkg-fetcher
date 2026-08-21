@@ -2,9 +2,8 @@
 """
 CLI for the FlucidOS package fetcher.
 
-    flfetch.py resolve [--refresh]     resolve manifest -> lock.json
-    flfetch.py sync                    fetch + verify every locked package
-    flfetch.py resolve --refresh && flfetch.py sync   full refresh + sync
+    flfetch resolve [--refresh]      resolve manifest -> lock.json
+    flfetch sync                     fetch + verify every locked package
 """
 
 from __future__ import annotations
@@ -14,14 +13,13 @@ import sys
 
 from fetcher import Fetcher, Lockfile, Manifest, Registry, CircuitBreakerTripped
 
-
 def main():
     parser = argparse.ArgumentParser(description="FlucidOS source fetcher")
     parser.add_argument("--manifest", default="manifests/pkg-branch.json")
     parser.add_argument("--lockfile", default="manifests/pkg-branch.lock.json")
     parser.add_argument("--registry", default="registry/registry.json")
     parser.add_argument("--sources", default="pkg-src")
-    parser.add_argument("--workers", type=int, default=32)
+    parser.add_argument("--workers", type=int, default=16)
     parser.add_argument("--internal-error-limit", type=int, default=3)
 
     sub = parser.add_subparsers(dest="command", required=True)
@@ -49,7 +47,6 @@ def main():
     except CircuitBreakerTripped as e:
         print(f"\n[ABORTED] {e}", file=sys.stderr)
         sys.exit(1)
-
 
 if __name__ == "__main__":
     main()

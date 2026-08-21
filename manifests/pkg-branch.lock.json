@@ -1,7 +1,7 @@
 {
   "packages": {
     "aardvark-dns": {
-      "checksum": null,
+      "checksum": "sha256:7ee6443af4beecd7dd2f9d95e6d743fd7e6b0654be1fb06f2cc164f1473e30ea",
       "ref": "v2.1.0",
       "ref_type": "tag",
       "repo": "https://github.com/containers/aardvark-dns.git",
@@ -10,7 +10,7 @@
       "source_url": "https://github.com/containers/aardvark-dns.git"
     },
     "abseil-cpp": {
-      "checksum": null,
+      "checksum": "sha256:8d7234202fe37fd3b30d1029c69e72908b119eb21379e918f9eba17f3f9309c1",
       "ref": "20260817.0",
       "ref_type": "tag",
       "repo": "https://github.com/abseil/abseil-cpp.git",
@@ -19,7 +19,7 @@
       "source_url": "https://github.com/abseil/abseil-cpp.git"
     },
     "accountsservice": {
-      "checksum": null,
+      "checksum": "sha256:d402b97f03f634a258b12458db657fad159fcf25b21e89159559dbe3e5387255",
       "ref": "26.27.3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/accountsservice/accountsservice.git",
@@ -28,7 +28,7 @@
       "source_url": "https://gitlab.freedesktop.org/accountsservice/accountsservice.git"
     },
     "acl": {
-      "checksum": null,
+      "checksum": "sha256:aca133204c7a8748e94a512ed1048567aae5f9363e12872a10434d92b4a391e8",
       "ref": "v2.4.0",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/acl.git",
@@ -37,7 +37,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/acl.git"
     },
     "adwaita-icon-theme": {
-      "checksum": null,
+      "checksum": "sha256:d8aed019ffa6d8efcf6d8d276508175211abdf1126c9cc0fafdfe5780cbf3f3c",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://github.com/GNOME/adwaita-icon-theme.git",
@@ -46,7 +46,7 @@
       "source_url": "https://github.com/GNOME/adwaita-icon-theme.git"
     },
     "alsa-firmware": {
-      "checksum": null,
+      "checksum": "sha256:eeac5737cf672263d149e95bb15f21a4549b99f464fdd60e4de90de4294d8fbc",
       "ref": "v1.2.4",
       "ref_type": "tag",
       "repo": "https://github.com/alsa-project/alsa-firmware.git",
@@ -55,7 +55,7 @@
       "source_url": "https://github.com/alsa-project/alsa-firmware.git"
     },
     "alsa-lib": {
-      "checksum": null,
+      "checksum": "sha256:d78570b2f25e637ab5f31d167e5706a6938e898df8d81270cac9c49c905ac8c2",
       "ref": "v1.2.16.1",
       "ref_type": "tag",
       "repo": "https://github.com/alsa-project/alsa-lib.git",
@@ -64,7 +64,7 @@
       "source_url": "https://github.com/alsa-project/alsa-lib.git"
     },
     "alsa-plugins": {
-      "checksum": null,
+      "checksum": "sha256:5abeb3a92e27893b70da2f71378ee80f34057ad6dd095a98eb1852cd83a89b61",
       "ref": "v1.2.12",
       "ref_type": "tag",
       "repo": "https://github.com/alsa-project/alsa-plugins.git",
@@ -73,7 +73,7 @@
       "source_url": "https://github.com/alsa-project/alsa-plugins.git"
     },
     "alsa-tools": {
-      "checksum": null,
+      "checksum": "sha256:70a0559ecd426ce41a25cf9ed5b599a9d20b765a797996c087d7347a1f0aa04b",
       "ref": "v1.2.15",
       "ref_type": "tag",
       "repo": "https://github.com/alsa-project/alsa-tools.git",
@@ -82,7 +82,7 @@
       "source_url": "https://github.com/alsa-project/alsa-tools.git"
     },
     "alsa-utils": {
-      "checksum": null,
+      "checksum": "sha256:2d8f40a820a59269e6eac1ef5b121e44271dca573f384bf020287a04d8241040",
       "ref": "v1.2.16",
       "ref_type": "tag",
       "repo": "https://github.com/alsa-project/alsa-utils.git",
@@ -91,7 +91,7 @@
       "source_url": "https://github.com/alsa-project/alsa-utils.git"
     },
     "appstream": {
-      "checksum": null,
+      "checksum": "sha256:fe7e70d1a47c8787bd0157ba6ae498d775dae156df8a0a88da466819b9190b36",
       "ref": "v1.1.6",
       "ref_type": "tag",
       "repo": "https://github.com/ximion/appstream.git",
@@ -100,7 +100,7 @@
       "source_url": "https://github.com/ximion/appstream.git"
     },
     "appstream-glib": {
-      "checksum": null,
+      "checksum": "sha256:c05f50f220861234e19e71766020ff3654d8c56b5a44e5b1bc3fb71d4c84ffa7",
       "ref": "appstream_glib_0_8_4",
       "ref_type": "tag",
       "repo": "https://github.com/hughsie/appstream-glib.git",
@@ -109,7 +109,7 @@
       "source_url": "https://github.com/hughsie/appstream-glib.git"
     },
     "aspell": {
-      "checksum": null,
+      "checksum": "sha256:73d38cd0fdc07c9384b7c48d25846a51c0b41278f669a372d416434a3145ec1f",
       "ref": "rel-0.60.8.2",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/aspell.git",
@@ -118,7 +118,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/aspell.git"
     },
     "at-spi2-core": {
-      "checksum": null,
+      "checksum": "sha256:23acca454be678493422eb52138b09fffacf132707154e913fcf16f499f4c1d9",
       "ref": "2.61.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/at-spi2-core.git",
@@ -127,7 +127,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/at-spi2-core.git"
     },
     "atkmm": {
-      "checksum": null,
+      "checksum": "sha256:c6dc6a4394962685d398c99fccf9d3d2c848d0ea2cb085890aa4e82ace8a5fb2",
       "ref": "2.53.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/atkmm.git",
@@ -136,7 +136,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/atkmm.git"
     },
     "attr": {
-      "checksum": null,
+      "checksum": "sha256:ff3a62378850b2ef7d35262e5fb06b3be51428c775ab1e21dbda29337551087f",
       "ref": "v2.6.0",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/attr.git",
@@ -145,7 +145,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/attr.git"
     },
     "autoconf": {
-      "checksum": null,
+      "checksum": "sha256:e9b1d8dc9ede0bf23d6e68dcae8fb11d9f94acd8339272afdfb0c5921975b4c9",
       "ref": "v2.73",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/autoconf.git",
@@ -154,7 +154,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/autoconf.git"
     },
     "automake": {
-      "checksum": null,
+      "checksum": "sha256:779337da526b927a43c3022cbc58f3fa9c132ec6c008384e28e5fa84d1a37b91",
       "ref": "v1.18.1",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/automake.git",
@@ -163,7 +163,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/automake.git"
     },
     "babl": {
-      "checksum": null,
+      "checksum": "sha256:594b78046e3a17f239595dc542fe5e6dfffebbc3ce22d846b355658a188b06f6",
       "ref": "start",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/babl.git",
@@ -172,7 +172,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/babl.git"
     },
     "baobab": {
-      "checksum": null,
+      "checksum": "sha256:6c37c9ec7cb0ca65607bf4e485497418658a65ff79b9127bd321da544492f9a4",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/baobab.git",
@@ -181,7 +181,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/baobab.git"
     },
     "bash": {
-      "checksum": null,
+      "checksum": "sha256:bd1a3bfb071c0d803299bca1dc5533aed02f4f6f5b3d7feee169d99e375beaf1",
       "ref": "bash-5.3",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/bash.git",
@@ -190,7 +190,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/bash.git"
     },
     "bazzar": {
-      "checksum": null,
+      "checksum": "sha256:d7d85b05065daeafbc5c4ee1b695c364d6482556165fc9a444e6e3d6f68df6d4",
       "ref": "v0.9.4",
       "ref_type": "tag",
       "repo": "https://github.com/bazaar-org/bazaar.git",
@@ -199,7 +199,7 @@
       "source_url": "https://github.com/bazaar-org/bazaar.git"
     },
     "bc": {
-      "checksum": null,
+      "checksum": "sha256:633d83013dc5da1531a099dca8f297cbdb695836abe52f697fc3bb35ca5dd557",
       "ref": "7.1.0",
       "ref_type": "tag",
       "repo": "https://github.com/gavinhoward/bc.git",
@@ -208,7 +208,7 @@
       "source_url": "https://github.com/gavinhoward/bc.git"
     },
     "binutils": {
-      "checksum": null,
+      "checksum": "sha256:ce126acf6628bb83bd91e2633cec8a7b14afd1c97fbd520c558a7d0a69341d52",
       "ref": "x86_64versiong3",
       "ref_type": "tag",
       "repo": "https://gnu.googlesource.com/binutils-gdb.git",
@@ -217,7 +217,7 @@
       "source_url": "https://gnu.googlesource.com/binutils-gdb.git"
     },
     "bison": {
-      "checksum": null,
+      "checksum": "sha256:83ea3e971594fd22b45440dcde2477f25b782d2b0a22f6ffe29323d4c868a15b",
       "ref": "v3.8.2",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/bison.git",
@@ -226,7 +226,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/bison.git"
     },
     "bluez": {
-      "checksum": null,
+      "checksum": "sha256:72cd0035d79415d1f7639a0fe89d10610d1f105bd3796516f1323a031907e097",
       "ref": "5.87",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/bluetooth/bluez.git",
@@ -235,7 +235,7 @@
       "source_url": "https://git.kernel.org/pub/scm/bluetooth/bluez.git"
     },
     "boost": {
-      "checksum": null,
+      "checksum": "sha256:9503dfcf1260241a9161ee2fcdc333ca26199a05f8854bbf65a2ca33c3dad2d6",
       "ref": "boost-1.92.0",
       "ref_type": "tag",
       "repo": "https://github.com/boostorg/boost.git",
@@ -244,7 +244,7 @@
       "source_url": "https://github.com/boostorg/boost.git"
     },
     "brotli": {
-      "checksum": null,
+      "checksum": "sha256:fa8313a4736a091abd6f0269672246bc290ad117dfa5aad3b5cca71dd3906145",
       "ref": "v1.2.0",
       "ref_type": "tag",
       "repo": "https://github.com/google/brotli.git",
@@ -253,7 +253,7 @@
       "source_url": "https://github.com/google/brotli.git"
     },
     "btrfs-progs": {
-      "checksum": null,
+      "checksum": "sha256:09f84020005a65e38c29efbfafa526c5e310814bc88899c530debdc4647c12a6",
       "ref": "v7.1",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/kdave/btrfs-progs.git",
@@ -262,7 +262,7 @@
       "source_url": "https://git.kernel.org/pub/scm/linux/kernel/git/kdave/btrfs-progs.git"
     },
     "bubblewrap": {
-      "checksum": null,
+      "checksum": "sha256:fc3bf7c6ec43c61ce9dd14158398daaa1689a0e780d90bdb07be820448773241",
       "ref": "v0.11.2",
       "ref_type": "tag",
       "repo": "https://github.com/containers/bubblewrap.git",
@@ -271,7 +271,7 @@
       "source_url": "https://github.com/containers/bubblewrap.git"
     },
     "bzip2": {
-      "checksum": null,
+      "checksum": "sha256:6a4faa5f4a44f580d14939be4389ac808264456b4666f73abf1b788e785fe556",
       "ref": "bzip2-1.0.8",
       "ref_type": "tag",
       "repo": "https://gitlab.com/bzip2/bzip2.git",
@@ -280,7 +280,7 @@
       "source_url": "https://gitlab.com/bzip2/bzip2.git"
     },
     "cairo": {
-      "checksum": null,
+      "checksum": "sha256:cc5295bee3a4d69f3eb93565388314d3f18d278d4421fb11eb6a388f45e6d44e",
       "ref": "1.18.4",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/cairo/cairo.git",
@@ -289,7 +289,7 @@
       "source_url": "https://gitlab.freedesktop.org/cairo/cairo.git"
     },
     "cairomm": {
-      "checksum": null,
+      "checksum": "sha256:2ffcb0afa3b28d5eb436595adc9d24adb8662f005e404aa0dc3f48b6ca20d69e",
       "ref": "1.19.1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/cairo/cairomm.git",
@@ -298,7 +298,7 @@
       "source_url": "https://gitlab.freedesktop.org/cairo/cairomm.git"
     },
     "cargo-c": {
-      "checksum": null,
+      "checksum": "sha256:f0366b8cb60be574d7ca5cff93a89d674a01c35feb453ebde650024c1a91c155",
       "ref": "v0.10.24",
       "ref_type": "tag",
       "repo": "https://github.com/lu-zero/cargo-c.git",
@@ -307,7 +307,7 @@
       "source_url": "https://github.com/lu-zero/cargo-c.git"
     },
     "cbindgen": {
-      "checksum": null,
+      "checksum": "sha256:4be85cde169d0160bc4958832c25e7d6773474153a28995437403ef49a96bc2b",
       "ref": "v0.29.4",
       "ref_type": "tag",
       "repo": "https://github.com/mozilla/cbindgen.git",
@@ -316,7 +316,7 @@
       "source_url": "https://github.com/mozilla/cbindgen.git"
     },
     "cmake": {
-      "checksum": null,
+      "checksum": "sha256:bfb97c6a29b6f3e769c4bc0376b7a0a545e24cf29cec0a1ab1dcbefd787cfedf",
       "ref": "v4.4.2",
       "ref_type": "tag",
       "repo": "https://gitlab.kitware.com/cmake/cmake.git",
@@ -325,7 +325,7 @@
       "source_url": "https://gitlab.kitware.com/cmake/cmake.git"
     },
     "colord": {
-      "checksum": null,
+      "checksum": "sha256:d41f3d28dfcbb6f64a7b3c8c1d4cf79b2275222748432326dbe11313e0e69159",
       "ref": "1.4.8",
       "ref_type": "tag",
       "repo": "https://github.com/hughsie/colord.git",
@@ -334,7 +334,7 @@
       "source_url": "https://github.com/hughsie/colord.git"
     },
     "colord-gtk": {
-      "checksum": null,
+      "checksum": "sha256:f04feed3ce0c22771a728326b07e2699af28853021f7f23d3601f5fe0c9aabe7",
       "ref": "0.3.1",
       "ref_type": "tag",
       "repo": "https://github.com/hughsie/colord-gtk.git",
@@ -343,7 +343,7 @@
       "source_url": "https://github.com/hughsie/colord-gtk.git"
     },
     "conmon": {
-      "checksum": null,
+      "checksum": "sha256:b9af341f4b7bdff6407959d383e6f220b97b260574561f587f89c057e64d7d9c",
       "ref": "v2.2.1",
       "ref_type": "tag",
       "repo": "https://github.com/containers/conmon.git",
@@ -352,7 +352,7 @@
       "source_url": "https://github.com/containers/conmon.git"
     },
     "coreutils": {
-      "checksum": null,
+      "checksum": "sha256:18737ac2ec643b3294a9ec13a08d86603f196445b642b2228615c80eae4b0b16",
       "ref": "v9.11",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/coreutils.git",
@@ -361,7 +361,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/coreutils.git"
     },
     "cpio": {
-      "checksum": null,
+      "checksum": "sha256:19e88ab7b8282e5392deeee30435691a8833af3795117c0fa1df408cdef088d1",
       "ref": "v2.15",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/cpio.git",
@@ -370,7 +370,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/cpio.git"
     },
     "cracklib": {
-      "checksum": null,
+      "checksum": "sha256:d73c7f94bb34999691a9cc3297bbf2175d8a2af5a51ecfee8510a9abf8e618c9",
       "ref": "v2.10.3",
       "ref_type": "tag",
       "repo": "https://github.com/cracklib/cracklib.git",
@@ -379,7 +379,7 @@
       "source_url": "https://github.com/cracklib/cracklib.git"
     },
     "crun": {
-      "checksum": null,
+      "checksum": "sha256:998f953897996465bb33bc8a66a17fb2309d50a528e07fd15b751e7684695405",
       "ref": "1.29.1",
       "ref_type": "tag",
       "repo": "https://github.com/containers/crun.git",
@@ -388,7 +388,7 @@
       "source_url": "https://github.com/containers/crun.git"
     },
     "cryptsetup": {
-      "checksum": null,
+      "checksum": "sha256:8bcd4084ce595460d006ee3a1fcecfec9c52eb4c4100ca3715c458161c345213",
       "ref": "v2.8.7",
       "ref_type": "tag",
       "repo": "https://gitlab.com/cryptsetup/cryptsetup.git",
@@ -397,7 +397,7 @@
       "source_url": "https://gitlab.com/cryptsetup/cryptsetup.git"
     },
     "cups": {
-      "checksum": null,
+      "checksum": "sha256:34d545d7d980e27eec1cf22584fd125eadb02caf9f06ebf676e981fc9ce9e9ea",
       "ref": "v2.4.19",
       "ref_type": "tag",
       "repo": "https://github.com/OpenPrinting/cups.git",
@@ -406,7 +406,7 @@
       "source_url": "https://github.com/OpenPrinting/cups.git"
     },
     "curl": {
-      "checksum": null,
+      "checksum": "sha256:0b1e43a6932434f44391040fd58d3adef92012956ec8c75ecab84e5357a55fa8",
       "ref": "tiny-curl-8_4_0",
       "ref_type": "tag",
       "repo": "https://github.com/curl/curl.git",
@@ -415,7 +415,7 @@
       "source_url": "https://github.com/curl/curl.git"
     },
     "cyrus-sasl": {
-      "checksum": null,
+      "checksum": "sha256:3f65e1223c69eeb58cd0d3016a23e12397347af596a73749b571a4932c36ff5c",
       "ref": "cyrus-sasl-2.1.28",
       "ref_type": "tag",
       "repo": "https://github.com/cyrusimap/cyrus-sasl.git",
@@ -424,7 +424,7 @@
       "source_url": "https://github.com/cyrusimap/cyrus-sasl.git"
     },
     "cython": {
-      "checksum": null,
+      "checksum": "sha256:94637c49888b43a93202fef481ae3ff440e38d9053bb9aee699cd159912ee09b",
       "ref": "3.2.9",
       "ref_type": "tag",
       "repo": "https://github.com/cython/cython.git",
@@ -433,7 +433,7 @@
       "source_url": "https://github.com/cython/cython.git"
     },
     "d-bus": {
-      "checksum": null,
+      "checksum": "sha256:f2637b4b18e14d9e9dbc77c2224c608d552da7e99fb41bad256f249e187f99eb",
       "ref": "dbus-object-names-branchpoint",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/dbus/dbus.git",
@@ -442,7 +442,7 @@
       "source_url": "https://gitlab.freedesktop.org/dbus/dbus.git"
     },
     "dav1d": {
-      "checksum": null,
+      "checksum": "sha256:5831b024fa728a775d9b8bc4b56e065db4eaa296e814c48d0f76991aa1eb24a4",
       "ref": "1.5.4",
       "ref_type": "tag",
       "repo": "https://code.videolan.org/videolan/dav1d.git",
@@ -451,7 +451,7 @@
       "source_url": "https://code.videolan.org/videolan/dav1d.git"
     },
     "dconf": {
-      "checksum": null,
+      "checksum": "sha256:5ba2962e5145bbe355e32132cb7e9948d2ebf76e524b99bcf84778dd23a5ea4a",
       "ref": "0.49.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/dconf.git",
@@ -460,7 +460,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/dconf.git"
     },
     "dconf-editor": {
-      "checksum": null,
+      "checksum": "sha256:d82d644510d7c99524cbe6be320106437ca7e6e218f75060838da2453828d23e",
       "ref": "49.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/dconf-editor.git",
@@ -469,7 +469,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/dconf-editor.git"
     },
     "dejagnu": {
-      "checksum": null,
+      "checksum": "sha256:3db0b33995069bf294ef8a59687b5cd289c3441cc52c3fc9c82d1a3dcafd12ea",
       "ref": "dejagnu-1.6.3-release",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/dejagnu.git",
@@ -478,7 +478,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/dejagnu.git"
     },
     "desktop-file-utils": {
-      "checksum": null,
+      "checksum": "sha256:fb05db1edd7d38d6b1bb2395af94828e5dc8c841606ef3c254468a69a75515bb",
       "ref": "0.28",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xdg/desktop-file-utils.git",
@@ -487,7 +487,7 @@
       "source_url": "https://gitlab.freedesktop.org/xdg/desktop-file-utils.git"
     },
     "diffutils": {
-      "checksum": null,
+      "checksum": "sha256:839d248f4a7e13d5938c392f722e3b733563def0d83f013acb931f2aad0b15cd",
       "ref": "v3.12",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/diffutils.git",
@@ -496,7 +496,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/diffutils.git"
     },
     "distrobox": {
-      "checksum": null,
+      "checksum": "sha256:6605e0ac531af75e6fa64fad28c0bde2f410303be5401b9d4b121c88cee05291",
       "ref": "1.8.2.5",
       "ref_type": "tag",
       "repo": "https://github.com/89luca89/distrobox.git",
@@ -505,7 +505,7 @@
       "source_url": "https://github.com/89luca89/distrobox.git"
     },
     "dnsmasq": {
-      "checksum": null,
+      "checksum": "sha256:1125271bc04171033e727c664a88bc6fb943115dd699498a8830c8e4a3be6bbc",
       "ref": "v2.93",
       "ref_type": "tag",
       "repo": "https://thekelleys.org.uk/git/dnsmasq.git",
@@ -514,7 +514,7 @@
       "source_url": "https://thekelleys.org.uk/git/dnsmasq.git"
     },
     "docbook-xml": {
-      "checksum": null,
+      "checksum": "sha256:4f00c60a88e6e4d67b4f12f1fc72ed9ab59a757fc10921887bc1cc44c456d195",
       "ref": "5.2",
       "ref_type": "tag",
       "repo": "https://github.com/docbook/docbook.git",
@@ -523,7 +523,7 @@
       "source_url": "https://github.com/docbook/docbook.git"
     },
     "docbook-xsl-nons": {
-      "checksum": null,
+      "checksum": "sha256:d752a6dd98c2c457f54bff80018da2bcc2899d9c8ff00ad196ac9dfc89ea1767",
       "ref": "release/1.79.2",
       "ref_type": "tag",
       "repo": "https://github.com/docbook/xslt10-stylesheets.git",
@@ -532,7 +532,7 @@
       "source_url": "https://github.com/docbook/xslt10-stylesheets.git"
     },
     "docutils": {
-      "checksum": null,
+      "checksum": "sha256:d73c9e02fa5f1ec9a7573d202c6655aafd0bffe30d1771b532d4d630bcb38bcf",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/docutils/docutils.git",
@@ -541,7 +541,7 @@
       "source_url": "https://github.com/docutils/docutils.git"
     },
     "dosfstools": {
-      "checksum": null,
+      "checksum": "sha256:baf542302510fbe2399967f30545b573c25b5c3607d662aa1fc690a1e24c00ed",
       "ref": "v4.2",
       "ref_type": "tag",
       "repo": "https://github.com/dosfstools/dosfstools.git",
@@ -550,7 +550,7 @@
       "source_url": "https://github.com/dosfstools/dosfstools.git"
     },
     "duktape": {
-      "checksum": null,
+      "checksum": "sha256:91bf8f9e9fb2684ba437423d4be1b599f97226a2786bcec2def58a7056996f8c",
       "ref": "v2.7.0",
       "ref_type": "tag",
       "repo": "https://github.com/svaarala/duktape.git",
@@ -559,7 +559,7 @@
       "source_url": "https://github.com/svaarala/duktape.git"
     },
     "e2fsprogs": {
-      "checksum": null,
+      "checksum": "sha256:1a00622c9be54162032d4d12485e1c4aa6051afb4d649b97ded69da0163d1a6e",
       "ref": "v1.47.4",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git",
@@ -568,7 +568,7 @@
       "source_url": "https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git"
     },
     "editables": {
-      "checksum": null,
+      "checksum": "sha256:248163e361022fcd60f72aceb9be75c5b6a1b52f0642c1a04c2615b31f4c3cc7",
       "ref": "0.6",
       "ref_type": "tag",
       "repo": "https://github.com/pfmoore/editables.git",
@@ -577,7 +577,7 @@
       "source_url": "https://github.com/pfmoore/editables.git"
     },
     "efibootmgr": {
-      "checksum": null,
+      "checksum": "sha256:3541213507b32e87b1a2c65f2a0ecc56f648458da7c2dbc9f64574511ae1e171",
       "ref": "18",
       "ref_type": "tag",
       "repo": "https://github.com/rhboot/efibootmgr.git",
@@ -586,7 +586,7 @@
       "source_url": "https://github.com/rhboot/efibootmgr.git"
     },
     "efivar": {
-      "checksum": null,
+      "checksum": "sha256:5260fe222b6c2de7b4fe33c1b0b952e240e42b7510ca5ba0af7ad0a0f440cbcb",
       "ref": "39",
       "ref_type": "tag",
       "repo": "https://github.com/rhboot/efivar.git",
@@ -595,7 +595,7 @@
       "source_url": "https://github.com/rhboot/efivar.git"
     },
     "elfutils": {
-      "checksum": null,
+      "checksum": "sha256:a342421f366080d40603423276f5f0a6efa5b5a02f9ed446e4d8c1a07b80daee",
       "ref": "elfutils-0.196",
       "ref_type": "tag",
       "repo": "git://sourceware.org/git/elfutils.git",
@@ -604,7 +604,7 @@
       "source_url": "git://sourceware.org/git/elfutils.git"
     },
     "enchant": {
-      "checksum": null,
+      "checksum": "sha256:14eadc11352e6a4dc2e452acfd11fb79e2c719a4ccc2cdd8c0a2c557b30b4905",
       "ref": "v2.8.19",
       "ref_type": "tag",
       "repo": "https://github.com/AbiWord/enchant.git",
@@ -613,7 +613,7 @@
       "source_url": "https://github.com/AbiWord/enchant.git"
     },
     "evolution-data-server": {
-      "checksum": null,
+      "checksum": "sha256:46a99fc9144b5fb29e7623180627998469a53cdec0f7054d56d475516bd5cf96",
       "ref": "3.61.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/evolution-data-server.git",
@@ -622,7 +622,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/evolution-data-server.git"
     },
     "exempi": {
-      "checksum": null,
+      "checksum": "sha256:3837e27e7e4e24e5bc5b793e724109f63a03e9dda417566df2008c9a5bce316b",
       "ref": "2.6.6",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/libopenraw/exempi.git",
@@ -631,7 +631,7 @@
       "source_url": "https://gitlab.freedesktop.org/libopenraw/exempi.git"
     },
     "exiv2": {
-      "checksum": null,
+      "checksum": "sha256:054d980ac19d8a4c863186bb66e2c3ad50c46503c4da77c2377bc4f2e126b82e",
       "ref": "v0.28.8",
       "ref_type": "tag",
       "repo": "https://github.com/Exiv2/exiv2.git",
@@ -640,7 +640,7 @@
       "source_url": "https://github.com/Exiv2/exiv2.git"
     },
     "expat": {
-      "checksum": null,
+      "checksum": "sha256:c710453b7b38d148c37a98da6d1ac2efe0359292d50c2bd34015d55b8e9b7bf6",
       "ref": "V20000512",
       "ref_type": "tag",
       "repo": "https://github.com/libexpat/libexpat.git",
@@ -649,7 +649,7 @@
       "source_url": "https://github.com/libexpat/libexpat.git"
     },
     "expect": {
-      "checksum": null,
+      "checksum": "sha256:4fd6f709b8edb1ffa251bb4cda76b94968cb47d027a765a5ea91036ef1e8a8e9",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/aeruder/expect.git",
@@ -658,7 +658,7 @@
       "source_url": "https://github.com/aeruder/expect.git"
     },
     "fast-float": {
-      "checksum": null,
+      "checksum": "sha256:f6ed1c04615b432a34667acffcef78550dff39f31dcb11a054aeda4af60417d7",
       "ref": "v8.2.10",
       "ref_type": "tag",
       "repo": "https://github.com/fastfloat/fast_float.git",
@@ -667,7 +667,7 @@
       "source_url": "https://github.com/fastfloat/fast_float.git"
     },
     "fdk-aac": {
-      "checksum": null,
+      "checksum": "sha256:2858e017eb2f0d93b150cc7ecbe4135f4a8c7a1cbd0b4b7d504354180be9650f",
       "ref": "v2.0.3",
       "ref_type": "tag",
       "repo": "https://github.com/mstorsjo/fdk-aac.git",
@@ -676,7 +676,7 @@
       "source_url": "https://github.com/mstorsjo/fdk-aac.git"
     },
     "ffmpeg": {
-      "checksum": null,
+      "checksum": "sha256:bbbfefcc73282932c048d1258180d20e4e9691d69d82b3fdf1e6e55698e44447",
       "ref": "v0.6.1",
       "ref_type": "tag",
       "repo": "https://git.ffmpeg.org/ffmpeg.git",
@@ -685,7 +685,7 @@
       "source_url": "https://git.ffmpeg.org/ffmpeg.git"
     },
     "file": {
-      "checksum": null,
+      "checksum": "sha256:b7a96a52849ba79404632d3f1ee145a0ec5fc05b41bc0daf8360f4e22f647ee5",
       "ref": "FILE5_48",
       "ref_type": "tag",
       "repo": "https://github.com/file/file.git",
@@ -694,7 +694,7 @@
       "source_url": "https://github.com/file/file.git"
     },
     "file-roller": {
-      "checksum": null,
+      "checksum": "sha256:8a1a74f9bbd5b3ffff3a1b68558c236cfab46dd29472d6cc0965d091d9937dbd",
       "ref": "44.7",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/file-roller.git",
@@ -703,7 +703,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/file-roller.git"
     },
     "findutils": {
-      "checksum": null,
+      "checksum": "sha256:314a09d727857f9964879706bf53ece05a59f49a0cc205e588eb94f7288795fc",
       "ref": "v4.11.0",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/findutils.git",
@@ -712,7 +712,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/findutils.git"
     },
     "flac": {
-      "checksum": null,
+      "checksum": "sha256:2521be9af36fdcad2730feb4130fe730287d35aad4cf6a969e21af5869dc5eb5",
       "ref": "1.5.0",
       "ref_type": "tag",
       "repo": "https://github.com/xiph/flac.git",
@@ -721,7 +721,7 @@
       "source_url": "https://github.com/xiph/flac.git"
     },
     "flatpak": {
-      "checksum": null,
+      "checksum": "sha256:0c8b9870bb4ed702ffa9db466193d1992c9d00035833b5a691f0539969dd7efd",
       "ref": "1.19.0",
       "ref_type": "tag",
       "repo": "https://github.com/flatpak/flatpak.git",
@@ -730,7 +730,7 @@
       "source_url": "https://github.com/flatpak/flatpak.git"
     },
     "flex": {
-      "checksum": null,
+      "checksum": "sha256:b0499f3beb6cd0169d7ce57e713cb72aacf1fccc7b59de021e21646fd54c4d37",
       "ref": "v2.6.4",
       "ref_type": "tag",
       "repo": "https://github.com/westes/flex.git",
@@ -739,7 +739,7 @@
       "source_url": "https://github.com/westes/flex.git"
     },
     "flit-core": {
-      "checksum": null,
+      "checksum": "sha256:e168dbc18cd9a17b3d34ad149a9aaf35f727180a217591b744a4f37b622e6635",
       "ref": "4.0.2",
       "ref_type": "tag",
       "repo": "https://github.com/pypa/flit.git",
@@ -748,7 +748,7 @@
       "source_url": "https://github.com/pypa/flit.git"
     },
     "fmt": {
-      "checksum": null,
+      "checksum": "sha256:e06c00fbb5a325b6b43382ae24936c0322c1adfed7fb87405b987ae294178789",
       "ref": "12.2.0",
       "ref_type": "tag",
       "repo": "https://github.com/fmtlib/fmt.git",
@@ -757,7 +757,7 @@
       "source_url": "https://github.com/fmtlib/fmt.git"
     },
     "font-util": {
-      "checksum": null,
+      "checksum": "sha256:603cf2d6a11fbf01be3227bd85bb94c27e636ce409b4413b21fd9128a0316d8c",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/font/util.git",
@@ -766,7 +766,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/font/util.git"
     },
     "fontconfig": {
-      "checksum": null,
+      "checksum": "sha256:518273b61bf2e26f495f044ed78078b805c8ee0671758271cc66835a050bd88e",
       "ref": "2.18.3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/fontconfig/fontconfig.git",
@@ -775,7 +775,7 @@
       "source_url": "https://gitlab.freedesktop.org/fontconfig/fontconfig.git"
     },
     "freetype": {
-      "checksum": null,
+      "checksum": "sha256:160b9267f84651cf2896e07f66c03aceb99732641e62e14923016fe6a3871634",
       "ref": "start",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/freetype/freetype.git",
@@ -784,7 +784,7 @@
       "source_url": "https://gitlab.freedesktop.org/freetype/freetype.git"
     },
     "fribidi": {
-      "checksum": null,
+      "checksum": "sha256:f501146b6a5af36b9e169bb4a0d93dc496ff928b0575a01ebf350ba31824c8d0",
       "ref": "v1.0.16",
       "ref_type": "tag",
       "repo": "https://github.com/fribidi/fribidi.git",
@@ -793,7 +793,7 @@
       "source_url": "https://github.com/fribidi/fribidi.git"
     },
     "fuse": {
-      "checksum": null,
+      "checksum": "sha256:fb636f112e5590cbe10842b1fa0ee5de05cc29c6c664a420f1180e36762ef18b",
       "ref": "start",
       "ref_type": "tag",
       "repo": "https://github.com/libfuse/libfuse.git",
@@ -802,7 +802,7 @@
       "source_url": "https://github.com/libfuse/libfuse.git"
     },
     "fuse-overlayfs": {
-      "checksum": null,
+      "checksum": "sha256:398efb2fea431a7b14e02013636f3a1dd492fd63ed4f985edb8f1d4435b344b8",
       "ref": "v1.17",
       "ref_type": "tag",
       "repo": "https://github.com/containers/fuse-overlayfs.git",
@@ -811,7 +811,7 @@
       "source_url": "https://github.com/containers/fuse-overlayfs.git"
     },
     "gawk": {
-      "checksum": null,
+      "checksum": "sha256:986c1cb3a56615382fa9761004f9d14562b61a42c15dfdd3dd624336982d81bb",
       "ref": "gawk-5.4.1",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/gawk.git",
@@ -820,7 +820,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/gawk.git"
     },
     "gcc": {
-      "checksum": null,
+      "checksum": "sha256:f5bd78dbbc7eab4986948c3407daa4685d16226af8319b87c4e98730ee98bc8f",
       "ref": "vendors/ARM/release-12.3.rel1",
       "ref_type": "tag",
       "repo": "https://github.com/gcc-mirror/gcc.git",
@@ -829,7 +829,7 @@
       "source_url": "https://github.com/gcc-mirror/gcc.git"
     },
     "gcr": {
-      "checksum": null,
+      "checksum": "sha256:0ee183b0e05215669d83d6b2d1d676a19ed70588b8b6d7b1c6a71cf4df977982",
       "ref": "4.4.0.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gcr.git",
@@ -838,7 +838,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gcr.git"
     },
     "gdbm": {
-      "checksum": null,
+      "checksum": "sha256:5dce1ad84f7669f26502656206f068b048bfaaa99e3b1c54fc5f2d9abd683510",
       "ref": "v1.26",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/gdbm.git",
@@ -847,7 +847,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/gdbm.git"
     },
     "gdk-pixbuf": {
-      "checksum": null,
+      "checksum": "sha256:e57e7060176406dd99a422d235241dde65a5c82ad8547e106e1e2451f54191c9",
       "ref": "2.90.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gdk-pixbuf.git",
@@ -856,7 +856,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gdk-pixbuf.git"
     },
     "gdm": {
-      "checksum": null,
+      "checksum": "sha256:c219359e00d4567b39a5121650d9c6058552d75e9774fbf7c22da37e33ad3432",
       "ref": "50.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gdm.git",
@@ -865,7 +865,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gdm.git"
     },
     "gegl": {
-      "checksum": null,
+      "checksum": "sha256:9dd801ba9eb54fb93115327e8961eb44c6857a10ebdd99ec5a571e6cf53bbec3",
       "ref": "GNOME_PRINT_0_24",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gegl.git",
@@ -874,7 +874,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gegl.git"
     },
     "geoclue": {
-      "checksum": null,
+      "checksum": "sha256:7e0cae00dd5e651caabfe4b99268a5d1d53c068c1bfcec4a1df20f9b8a91524c",
       "ref": "2.8.2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/geoclue/geoclue.git",
@@ -883,7 +883,7 @@
       "source_url": "https://gitlab.freedesktop.org/geoclue/geoclue.git"
     },
     "geocode-glib": {
-      "checksum": null,
+      "checksum": "sha256:81570d0d4cd17afb1f38e0d7dca96d0ee9bfd877e938263d7f16bf4f62ebe7cb",
       "ref": "3.26.4",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/geocode-glib.git",
@@ -892,7 +892,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/geocode-glib.git"
     },
     "gettext": {
-      "checksum": null,
+      "checksum": "sha256:f209bd8de16a1a0ecc1609e12f2544cf4a63aa9224d225b9accc0f1cd2da1915",
       "ref": "v1.0",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/gettext.git",
@@ -901,7 +901,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/gettext.git"
     },
     "gexiv2": {
-      "checksum": null,
+      "checksum": "sha256:ae35ec802b5379827656f0ec9f12581752f12d2fe0341c32e663a8539bfe85d9",
       "ref": "0.16.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gexiv2.git",
@@ -910,7 +910,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gexiv2.git"
     },
     "giflib": {
-      "checksum": null,
+      "checksum": "sha256:71fc58dfbc8fdf52914f360640d49f3920a72ec9c8c2a1404d640f72fb516192",
       "ref": "6.1.3",
       "ref_type": "tag",
       "repo": "https://git.code.sf.net/p/giflib/code",
@@ -919,7 +919,7 @@
       "source_url": "https://git.code.sf.net/p/giflib/code"
     },
     "git": {
-      "checksum": null,
+      "checksum": "sha256:5541d8d8ffdafc493ba0719e62242890fb4667c08e844e4d1e3afff7f997a672",
       "ref": "v2.55.0",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/git/git.git",
@@ -928,7 +928,7 @@
       "source_url": "https://git.kernel.org/pub/scm/git/git.git"
     },
     "gjs": {
-      "checksum": null,
+      "checksum": "sha256:1fd0b27df4a1919e2f8ccb4ce58b34495b9add73ccbaca24609e0d887695395d",
       "ref": "1.89.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gjs.git",
@@ -937,7 +937,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gjs.git"
     },
     "glib": {
-      "checksum": null,
+      "checksum": "sha256:4b475faea9bf03966cedcb0d00475f02a1daf6cf77822ff46f243ea282c82622",
       "ref": "2.89.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/glib.git",
@@ -946,7 +946,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/glib.git"
     },
     "glib-networking": {
-      "checksum": null,
+      "checksum": "sha256:82aee42bf51c56dfc7fd8238bfc48f006aa8204a9dd9ae23d986cff515b04b74",
       "ref": "2.80.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/glib-networking.git",
@@ -955,7 +955,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/glib-networking.git"
     },
     "glibc": {
-      "checksum": null,
+      "checksum": "sha256:c1d76c6436326578c2b64e43e18c64f67c8e56e3c7c7f16c68cf4fab10496613",
       "ref": "glibc-2.9",
       "ref_type": "tag",
       "repo": "git://sourceware.org/git/glibc.git",
@@ -964,7 +964,7 @@
       "source_url": "git://sourceware.org/git/glibc.git"
     },
     "glibmm": {
-      "checksum": null,
+      "checksum": "sha256:a5e6fa9870b5c368c0a19fa8226c691bff293fa2f734ebde294b818d64f37595",
       "ref": "2.89.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/glibmm.git",
@@ -973,7 +973,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/glibmm.git"
     },
     "glslang": {
-      "checksum": null,
+      "checksum": "sha256:a4d939bc3fd4f09b948ff6796ad433ce03fc7cab5ea0cac13576c656683b6981",
       "ref": "16.5.0",
       "ref_type": "tag",
       "repo": "https://github.com/KhronosGroup/glslang.git",
@@ -982,7 +982,7 @@
       "source_url": "https://github.com/KhronosGroup/glslang.git"
     },
     "glu": {
-      "checksum": null,
+      "checksum": "sha256:e56519c9861438b3eed78fdca8f253c7acc012786bbee54715ed32b1416442d7",
       "ref": "glu-9.0.3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/mesa/glu.git",
@@ -991,7 +991,7 @@
       "source_url": "https://gitlab.freedesktop.org/mesa/glu.git"
     },
     "glycin": {
-      "checksum": null,
+      "checksum": "sha256:6b914d47a650855fed33dc18cf6eda9979b734613ddab3d33570bc91b16d2d6d",
       "ref": "2.1.5",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/glycin.git",
@@ -1000,7 +1000,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/glycin.git"
     },
     "gmp": {
-      "checksum": null,
+      "checksum": "sha256:018c440a5caa0b67e90719d437acc4ce073f6c5eda1da9a7f39a8c107c57a21f",
       "ref": "rel-5.1.1",
       "ref_type": "tag",
       "repo": "https://github.com/gmp-mirror/gmp.git",
@@ -1009,7 +1009,7 @@
       "source_url": "https://github.com/gmp-mirror/gmp.git"
     },
     "gnome-autoar": {
-      "checksum": null,
+      "checksum": "sha256:7b8226b9d13bab2d4fd3cca67344511d05fb789e355aa62c3fcf0fa7c91ca12b",
       "ref": "0.4.5",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-autoar.git",
@@ -1018,7 +1018,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-autoar.git"
     },
     "gnome-backgrounds": {
-      "checksum": null,
+      "checksum": "sha256:bf1a5488fbcda80d2eb74c7a8f2633935f1bec6f8461d75786185384425b846b",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-backgrounds.git",
@@ -1027,7 +1027,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-backgrounds.git"
     },
     "gnome-bluetooth": {
-      "checksum": null,
+      "checksum": "sha256:01f5ce1c9c7c909dc0bb3efdbbf7cd811fa38e8da99491b68723a3428aaf7bad",
       "ref": "47.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-bluetooth.git",
@@ -1036,7 +1036,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-bluetooth.git"
     },
     "gnome-calculator": {
-      "checksum": null,
+      "checksum": "sha256:8f04d0b8a9536f5f1bbdba254d25db4db0504e2ccbb242e52be7c8d0743f976b",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-calculator.git",
@@ -1045,7 +1045,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-calculator.git"
     },
     "gnome-color-manager": {
-      "checksum": null,
+      "checksum": "sha256:0cb92638224a6aefd0d5fa7370e99a74fe4e7dd957652563564f0dd15353d4f8",
       "ref": "3.36.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-color-manager.git",
@@ -1054,7 +1054,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-color-manager.git"
     },
     "gnome-control-center": {
-      "checksum": null,
+      "checksum": "sha256:612e9483daf5155f7ff1da0ced88c3f23d23aa87342b37e8a972d55296fa2241",
       "ref": "50.4",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-control-center.git",
@@ -1063,7 +1063,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-control-center.git"
     },
     "gnome-desktop": {
-      "checksum": null,
+      "checksum": "sha256:9559a45a3134634e158ac41588f036a725db78bc514f5e3de8d6bd2790dd756e",
       "ref": "44.5",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-desktop.git",
@@ -1072,7 +1072,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-desktop.git"
     },
     "gnome-disk-utility": {
-      "checksum": null,
+      "checksum": "sha256:7586738434aa3edfbd3d4cb3110b592c51bc6e00a3fe061b905f4277b2058dcc",
       "ref": "46.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-disk-utility.git",
@@ -1081,7 +1081,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-disk-utility.git"
     },
     "gnome-icon-theme": {
-      "checksum": null,
+      "checksum": "sha256:6340f113916e5c7ec45f85b0aa55241c9dfe8f0ed57c8e62578822d807f6c147",
       "ref": "3.17.3",
       "ref_type": "tag",
       "repo": "https://github.com/Distrotech/gnome-icon-theme.git",
@@ -1090,7 +1090,7 @@
       "source_url": "https://github.com/Distrotech/gnome-icon-theme.git"
     },
     "gnome-icon-theme-extras": {
-      "checksum": null,
+      "checksum": "sha256:daeb2d3a286a0ba299c91040da3e4105b8a0178a8a353a6d2d27fd89797a9599",
       "ref": "3.12.0",
       "ref_type": "tag",
       "repo": "https://github.com/Distrotech/gnome-icon-theme-extras.git",
@@ -1099,7 +1099,7 @@
       "source_url": "https://github.com/Distrotech/gnome-icon-theme-extras.git"
     },
     "gnome-icon-theme-symbolic": {
-      "checksum": null,
+      "checksum": "sha256:27cb4c601f48588117215f4f72be9d98060d9dbb2ce0b5450236c6c2f4cd5de0",
       "ref": "3.12.0",
       "ref_type": "tag",
       "repo": "https://github.com/Distrotech/gnome-icon-theme-symbolic.git",
@@ -1108,7 +1108,7 @@
       "source_url": "https://github.com/Distrotech/gnome-icon-theme-symbolic.git"
     },
     "gnome-keyring": {
-      "checksum": null,
+      "checksum": "sha256:bcd710354ca4017865599d97fb2f9cac222e64e6e70d9bf3b804e58b33c00b98",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-keyring.git",
@@ -1117,7 +1117,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-keyring.git"
     },
     "gnome-logs": {
-      "checksum": null,
+      "checksum": "sha256:01355c154a266a82a8f91615861ef31ade5a0fdfdb5356b62fc1266ef92e6e9f",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-logs.git",
@@ -1126,7 +1126,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-logs.git"
     },
     "gnome-menus": {
-      "checksum": null,
+      "checksum": "sha256:afee8f67a3eac7a8f3685806f2a9f5356703e1fa6269b89eeb32716484749171",
       "ref": "3.38.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-menus.git",
@@ -1135,7 +1135,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-menus.git"
     },
     "gnome-online-accounts": {
-      "checksum": null,
+      "checksum": "sha256:84de24cf2842b91d38f4e703fdab51094cda6bc7a34b43d6862ac19e85ef6387",
       "ref": "3.58.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-online-accounts.git",
@@ -1144,7 +1144,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-online-accounts.git"
     },
     "gnome-power-manager": {
-      "checksum": null,
+      "checksum": "sha256:6544df777d1d97038837106339665df855c37ce751d3a26b207270338bc01645",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-power-manager.git",
@@ -1153,7 +1153,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-power-manager.git"
     },
     "gnome-session": {
-      "checksum": null,
+      "checksum": "sha256:7878a6d12413ea6ed2db7fd600f89587a3a312d49c7c833d97f77f6779261b48",
       "ref": "50.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-session.git",
@@ -1162,7 +1162,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-session.git"
     },
     "gnome-settings-daemon": {
-      "checksum": null,
+      "checksum": "sha256:88b836aee423926b833bfed78bcf174a21db12b61fbba31f3f225fde03dfdca6",
       "ref": "50.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-settings-daemon.git",
@@ -1171,7 +1171,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-settings-daemon.git"
     },
     "gnome-shell-extensions": {
-      "checksum": null,
+      "checksum": "sha256:c16859dad5d88b3e835ebc2945a06edad0225fa0d3121ea91ef3e501e4709c57",
       "ref": "50.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-shell-extensions.git",
@@ -1180,7 +1180,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-shell-extensions.git"
     },
     "gnome-system-monitor": {
-      "checksum": null,
+      "checksum": "sha256:f811db221d1c538331fb3c5567ff5aed5ccb3fb6a283060449bf1156f2f1519f",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-system-monitor.git",
@@ -1189,7 +1189,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-system-monitor.git"
     },
     "gnome-themes-extra": {
-      "checksum": null,
+      "checksum": "sha256:b3653cd3ee1d77bb3856038c914e38608fd9d4b3da8f4d30cb5f770db58ec689",
       "ref": "3.28",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-themes-extra.git",
@@ -1198,7 +1198,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-themes-extra.git"
     },
     "gnome-tweaks": {
-      "checksum": null,
+      "checksum": "sha256:b40af88e689f39e6678ad01fce57bb66a25b2c2e8edb9aeebb43f2a3e6b32f58",
       "ref": "49.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-tweaks.git",
@@ -1207,7 +1207,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-tweaks.git"
     },
     "gnome-user-docs": {
-      "checksum": null,
+      "checksum": "sha256:1fd987306628c113241a51216c73ce9b6221c48afd6ddd4fd06d963e7a68c257",
       "ref": "50.4",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gnome-user-docs.git",
@@ -1216,7 +1216,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gnome-user-docs.git"
     },
     "gnupg": {
-      "checksum": null,
+      "checksum": "sha256:95deb0812c17b7a6f573f85a115673ebfd42e6e7c15f6a31cca6b3cfda77329d",
       "ref": "post-nuke-of-trailing-ws",
       "ref_type": "tag",
       "repo": "https://github.com/gpg/gnupg.git",
@@ -1225,7 +1225,7 @@
       "source_url": "https://github.com/gpg/gnupg.git"
     },
     "gnutls": {
-      "checksum": null,
+      "checksum": "sha256:a1fd774cdb0e9922b94950de340c90012b1ff72b6395976e3bcb8eec0f7b3bf5",
       "ref": "3.8.13",
       "ref_type": "tag",
       "repo": "https://gitlab.com/gnutls/gnutls.git",
@@ -1234,7 +1234,7 @@
       "source_url": "https://gitlab.com/gnutls/gnutls.git"
     },
     "google-sans-code": {
-      "checksum": null,
+      "checksum": "sha256:0590c913b1bc6901f43ca05c072b21888a4e6f5d0711ba5bdbda7ee405528be9",
       "ref": "v7.001",
       "ref_type": "tag",
       "repo": "https://github.com/googlefonts/googlesans-code.git",
@@ -1243,7 +1243,7 @@
       "source_url": "https://github.com/googlefonts/googlesans-code.git"
     },
     "gperf": {
-      "checksum": null,
+      "checksum": "sha256:0820dfc48e8868495025c01f6b3c20e084f988c2884ef2f3a304fdfbb99fb9fb",
       "ref": "v3.3",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/gperf.git",
@@ -1252,7 +1252,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/gperf.git"
     },
     "gpgme": {
-      "checksum": null,
+      "checksum": "sha256:51bcf176c623c924c80857e090d4c6450a7891b0287dd7562c72f1a94fd6754b",
       "ref": "gpgme-2.1.2",
       "ref_type": "tag",
       "repo": "https://github.com/gpg/gpgme.git",
@@ -1261,7 +1261,7 @@
       "source_url": "https://github.com/gpg/gpgme.git"
     },
     "gpm": {
-      "checksum": null,
+      "checksum": "sha256:90f4705eede064d8bb68e9c9d8a0a9d30aa6a789450cc15053b38e98e28259f1",
       "ref": "1.99.7",
       "ref_type": "tag",
       "repo": "https://github.com/telmich/gpm.git",
@@ -1270,7 +1270,7 @@
       "source_url": "https://github.com/telmich/gpm.git"
     },
     "gptfdisk": {
-      "checksum": null,
+      "checksum": "sha256:4b2ae1d4ed18820d137263aef6602bb6a126f86a0d258fc889f730c0618ba2a6",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://git.code.sf.net/p/gptfdisk/code",
@@ -1279,7 +1279,7 @@
       "source_url": "https://git.code.sf.net/p/gptfdisk/code"
     },
     "graphene": {
-      "checksum": null,
+      "checksum": "sha256:d45d039790726154a04c81be1da37608048436bde2926d0279d8bfb8e9e02329",
       "ref": "1.10.8",
       "ref_type": "tag",
       "repo": "https://github.com/ebassi/graphene.git",
@@ -1288,7 +1288,7 @@
       "source_url": "https://github.com/ebassi/graphene.git"
     },
     "graphite2": {
-      "checksum": null,
+      "checksum": "sha256:3a69c3784ed5d20856af2eda5d920ae05f907e3178a48b4a12e25f0842aab32c",
       "ref": "1.3.15",
       "ref_type": "tag",
       "repo": "https://github.com/silnrsi/graphite.git",
@@ -1297,7 +1297,7 @@
       "source_url": "https://github.com/silnrsi/graphite.git"
     },
     "graphviz": {
-      "checksum": null,
+      "checksum": "sha256:57c46c8dba997170f947e74ffa51717304acfc76b47fd2c53b54947199885e4d",
       "ref": "16.0.0",
       "ref_type": "tag",
       "repo": "https://gitlab.com/graphviz/graphviz.git",
@@ -1306,7 +1306,7 @@
       "source_url": "https://gitlab.com/graphviz/graphviz.git"
     },
     "grep": {
-      "checksum": null,
+      "checksum": "sha256:b0ee10bb46eadb4353734c80a3df9e9f248aa47f4cb204bdb397ccd95c37767b",
       "ref": "v3.12",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/grep.git",
@@ -1315,7 +1315,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/grep.git"
     },
     "groff": {
-      "checksum": null,
+      "checksum": "sha256:b21acd0260962910f2733494957ebee3d11e57dc9b4db10049147b727a9ac458",
       "ref": "1.24.1",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/groff.git",
@@ -1324,7 +1324,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/groff.git"
     },
     "grub": {
-      "checksum": null,
+      "checksum": "sha256:3b0921e26ba8b80defd1a33f2b201ca8066b9d236fe5795f634eec1a29326575",
       "ref": "2.02",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/grub.git",
@@ -1333,7 +1333,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/grub.git"
     },
     "gsettings-desktop-schemas": {
-      "checksum": null,
+      "checksum": "sha256:d9c347fb59c2e2d6fb0812fde3cf10913229b764d63a71568e6bff9d656c5482",
       "ref": "50.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas.git",
@@ -1342,7 +1342,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas.git"
     },
     "gsound": {
-      "checksum": null,
+      "checksum": "sha256:38d54d3f9ac6ea17d280c0b2677040c34dba13f6a8b2213c78f957cac68e361a",
       "ref": "1.0.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gsound.git",
@@ -1351,7 +1351,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gsound.git"
     },
     "gst-plugins-rs": {
-      "checksum": null,
+      "checksum": "sha256:981bd6e500091210ab6a760bf56061b45d2a6d6402accb8a3f4b6dec4aa14019",
       "ref": "0.15.3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs.git",
@@ -1360,7 +1360,7 @@
       "source_url": "https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs.git"
     },
     "gstreamer": {
-      "checksum": null,
+      "checksum": "sha256:cfcafa83e8bf29354fa951994086e00559d1a78347111993ad473ce73bb9fde1",
       "ref": "1.29.2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/gstreamer/gstreamer.git",
@@ -1369,7 +1369,7 @@
       "source_url": "https://gitlab.freedesktop.org/gstreamer/gstreamer.git"
     },
     "gtk": {
-      "checksum": null,
+      "checksum": "sha256:9f260b6ea38c20305ab28a662c004990807d54526866663eba72249e38e4757c",
       "ref": "4.23.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gtk.git",
@@ -1378,7 +1378,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gtk.git"
     },
     "gtkmm": {
-      "checksum": null,
+      "checksum": "sha256:bcd14b5cc1f4ff17eaf225acd7afb1a7578ca2d15433d65b472e7a2c22047f8b",
       "ref": "4.23.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gtkmm.git",
@@ -1387,7 +1387,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gtkmm.git"
     },
     "gtksourceview": {
-      "checksum": null,
+      "checksum": "sha256:5c6c52d55b5cc45502bd5ff3995533bc8aecb6bccd158443877636667e726d00",
       "ref": "5.21.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gtksourceview.git",
@@ -1396,7 +1396,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gtksourceview.git"
     },
     "gvfs": {
-      "checksum": null,
+      "checksum": "sha256:228761a6f7caf4fad37f3bd32373539612f932eb45e2ad8a6d4f55ad264ec203",
       "ref": "1.61.90",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/gvfs.git",
@@ -1405,7 +1405,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/gvfs.git"
     },
     "gzip": {
-      "checksum": null,
+      "checksum": "sha256:bee4da0d36b44d8bf9e1350cd2d4fde100fd2825b63abcc36dc0abd16d76f712",
       "ref": "v1.14",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/gzip.git",
@@ -1414,7 +1414,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/gzip.git"
     },
     "harfbuzz": {
-      "checksum": null,
+      "checksum": "sha256:dfdeb25b36effcfd766472a630f617cec917e22c168cc972f1ad7c459061e503",
       "ref": "14.3.1",
       "ref_type": "tag",
       "repo": "https://github.com/harfbuzz/harfbuzz.git",
@@ -1423,7 +1423,7 @@
       "source_url": "https://github.com/harfbuzz/harfbuzz.git"
     },
     "hatch-fancy-pypi-readme": {
-      "checksum": null,
+      "checksum": "sha256:74e4610649c272604aefab1fc7c89783245ba9ba578f07fe34edf1b17c4cafa6",
       "ref": "25.1.0",
       "ref_type": "tag",
       "repo": "https://github.com/hynek/hatch-fancy-pypi-readme.git",
@@ -1432,7 +1432,7 @@
       "source_url": "https://github.com/hynek/hatch-fancy-pypi-readme.git"
     },
     "hatch-vcs": {
-      "checksum": null,
+      "checksum": "sha256:8dd5e33fdb5f12d3825144da9e2f58334a39138bcee1701df3b23949fd7cc767",
       "ref": "v0.5.0",
       "ref_type": "tag",
       "repo": "https://github.com/ofek/hatch-vcs.git",
@@ -1441,7 +1441,7 @@
       "source_url": "https://github.com/ofek/hatch-vcs.git"
     },
     "hatchling": {
-      "checksum": null,
+      "checksum": "sha256:82a9ed697ba408548f2ff5e605e63c2ba08711c6d2a6b8305b632b27cb8c6c87",
       "ref": "0.23.0",
       "ref_type": "tag",
       "repo": "https://github.com/pypa/hatch.git",
@@ -1450,7 +1450,7 @@
       "source_url": "https://github.com/pypa/hatch.git"
     },
     "hicolor-icon-theme": {
-      "checksum": null,
+      "checksum": "sha256:3f0897ce68a8e457d145ad0551caf35708204ccb4f1eaba15dec050a4259075c",
       "ref": "upstream/0.18",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/gnome-team/hicolor-icon-theme.git",
@@ -1459,7 +1459,7 @@
       "source_url": "https://salsa.debian.org/gnome-team/hicolor-icon-theme.git"
     },
     "highway": {
-      "checksum": null,
+      "checksum": "sha256:93f5833b2a53fac4e5dc201d6f1bac3bdd456e0701b7e5e0c29839234663a403",
       "ref": "1.4.0",
       "ref_type": "tag",
       "repo": "https://github.com/google/highway.git",
@@ -1468,7 +1468,7 @@
       "source_url": "https://github.com/google/highway.git"
     },
     "hwdata": {
-      "checksum": null,
+      "checksum": "sha256:3f54409b3c65c1a3d6f35e340d0784aa415dd13a35b91e746613d103062b7111",
       "ref": "v0.410",
       "ref_type": "tag",
       "repo": "https://github.com/vcrhonek/hwdata.git",
@@ -1477,7 +1477,7 @@
       "source_url": "https://github.com/vcrhonek/hwdata.git"
     },
     "iana-etc": {
-      "checksum": null,
+      "checksum": "sha256:4dda3ec6b6e66ec8b1a7c405d4a083316db198355318d31e8f61746b1b115b44",
       "ref": "20260811",
       "ref_type": "tag",
       "repo": "https://github.com/Mic92/iana-etc.git",
@@ -1486,7 +1486,7 @@
       "source_url": "https://github.com/Mic92/iana-etc.git"
     },
     "ibus": {
-      "checksum": null,
+      "checksum": "sha256:6a19bfe35c4780cea03a623d8ed5ebb45038ab7cd9ef107d361faa2249ecd227",
       "ref": "20080901",
       "ref_type": "tag",
       "repo": "https://github.com/ibus/ibus.git",
@@ -1495,7 +1495,7 @@
       "source_url": "https://github.com/ibus/ibus.git"
     },
     "iceauth": {
-      "checksum": null,
+      "checksum": "sha256:9635ad67b707964809858d339f20b698d997df730d7134e0524bfb9f9185113b",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/iceauth.git",
@@ -1504,7 +1504,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/iceauth.git"
     },
     "icon-naming-utils": {
-      "checksum": null,
+      "checksum": "sha256:cd1b34b2cdf45e48314d3291e7efaa14bc1b6621f4ef67ab1424d362ef32b4ed",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/Distrotech/icon-naming-utils.git",
@@ -1513,7 +1513,7 @@
       "source_url": "https://github.com/Distrotech/icon-naming-utils.git"
     },
     "icu4c": {
-      "checksum": null,
+      "checksum": "sha256:78e70c03620871acd6b5a64a97aa3f1d74a66bc5904311707e2fd11b9b491837",
       "ref": "tools-unicodetools",
       "ref_type": "tag",
       "repo": "https://github.com/unicode-org/icu.git",
@@ -1522,7 +1522,7 @@
       "source_url": "https://github.com/unicode-org/icu.git"
     },
     "inetutils": {
-      "checksum": null,
+      "checksum": "sha256:0cbbbc959cc8fc35c35a4d82c99e1e39414104d48a05e13a548fb4b1c9b62705",
       "ref": "v2.8",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/inetutils.git",
@@ -1531,7 +1531,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/inetutils.git"
     },
     "inih": {
-      "checksum": null,
+      "checksum": "sha256:158cbe7ce16b496667d8004ef11a9fd12738acad3e3105063acfbbc35a9baefc",
       "ref": "r62",
       "ref_type": "tag",
       "repo": "https://github.com/benhoyt/inih.git",
@@ -1540,7 +1540,7 @@
       "source_url": "https://github.com/benhoyt/inih.git"
     },
     "intel-media-driver": {
-      "checksum": null,
+      "checksum": "sha256:ed4a7b85253cdf2bc87fe84e313cc741980134e397b1d65877ae86cf15a35312",
       "ref": "intel-media-600.0132",
       "ref_type": "tag",
       "repo": "https://github.com/intel/media-driver.git",
@@ -1549,7 +1549,7 @@
       "source_url": "https://github.com/intel/media-driver.git"
     },
     "intel-vaapi-driver": {
-      "checksum": null,
+      "checksum": "sha256:792cad0ac969c129696244f7b51946bf5e5e45b2075bae38690dafaff205a958",
       "ref": "2.4.1",
       "ref_type": "tag",
       "repo": "https://github.com/intel/intel-vaapi-driver.git",
@@ -1558,7 +1558,7 @@
       "source_url": "https://github.com/intel/intel-vaapi-driver.git"
     },
     "inter": {
-      "checksum": null,
+      "checksum": "sha256:4c2619e6d753ecd220ad4cfe2caa6d3ca0cfb8593f7dbeceac0ca8a5d6b766aa",
       "ref": "v4.1",
       "ref_type": "tag",
       "repo": "https://github.com/rsms/inter.git",
@@ -1567,7 +1567,7 @@
       "source_url": "https://github.com/rsms/inter.git"
     },
     "intltool": {
-      "checksum": null,
+      "checksum": "sha256:b12fcd9db9d823bb42685a560bca56fe3189fc8d468aa39400735a0a9b26789e",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/Distrotech/intltool.git",
@@ -1576,7 +1576,7 @@
       "source_url": "https://github.com/Distrotech/intltool.git"
     },
     "iproute2": {
-      "checksum": null,
+      "checksum": "sha256:8f564cc9322ab61f195745e1558986b98bc346823ce95a9a803b42e902c7cc32",
       "ref": "v7.2.0",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/network/iproute2/iproute2.git",
@@ -1585,7 +1585,7 @@
       "source_url": "https://git.kernel.org/pub/scm/network/iproute2/iproute2.git"
     },
     "iptables": {
-      "checksum": null,
+      "checksum": "sha256:4b263e91a4712adb3020bbc57182767809d6d79bcb81229609bb5549722683fb",
       "ref": "v1.8.13",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/pkg-netfilter-team/pkg-iptables.git",
@@ -1594,7 +1594,7 @@
       "source_url": "https://salsa.debian.org/pkg-netfilter-team/pkg-iptables.git"
     },
     "iso-codes": {
-      "checksum": null,
+      "checksum": "sha256:1fb67a5da1f8cf6e04074f39476adff13c3baefdbeb2cf9e5c5b2d9349fb57f7",
       "ref": "v4.20.1",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/iso-codes-team/iso-codes.git",
@@ -1603,7 +1603,7 @@
       "source_url": "https://salsa.debian.org/iso-codes-team/iso-codes.git"
     },
     "itstool": {
-      "checksum": null,
+      "checksum": "sha256:d1b313abb35b8bf33c6a32cf45b79e8bd050a4277c4ac0b8e17314b7e3719679",
       "ref": "2.0.7",
       "ref_type": "tag",
       "repo": "https://github.com/itstool/itstool.git",
@@ -1612,7 +1612,7 @@
       "source_url": "https://github.com/itstool/itstool.git"
     },
     "iw": {
-      "checksum": null,
+      "checksum": "sha256:aa9792e4dfd5adc79bc4be4f898626f408b99b233a2bad3ae88534aba46c70d8",
       "ref": "v6.17",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git",
@@ -1621,7 +1621,7 @@
       "source_url": "https://git.kernel.org/pub/scm/linux/kernel/git/jberg/iw.git"
     },
     "jansson": {
-      "checksum": null,
+      "checksum": "sha256:94e1a63f15eec3c17152f7da2982db8d3f510c6753f35096fa7f840e64588846",
       "ref": "v2.15.1",
       "ref_type": "tag",
       "repo": "https://github.com/akheron/jansson.git",
@@ -1630,7 +1630,7 @@
       "source_url": "https://github.com/akheron/jansson.git"
     },
     "jinja2": {
-      "checksum": null,
+      "checksum": "sha256:efff54dedf593a4dd3e16f9449df6e2b58b3e6ae7256f30d826dae717c025546",
       "ref": "3.1.6",
       "ref_type": "tag",
       "repo": "https://github.com/pallets/jinja.git",
@@ -1639,7 +1639,7 @@
       "source_url": "https://github.com/pallets/jinja.git"
     },
     "json-c": {
-      "checksum": null,
+      "checksum": "sha256:a661417c878150fe298fd44847998156e562ca7f64556792c4af945a6798199a",
       "ref": "json-c-0.19-20260627",
       "ref_type": "tag",
       "repo": "https://github.com/json-c/json-c.git",
@@ -1648,7 +1648,7 @@
       "source_url": "https://github.com/json-c/json-c.git"
     },
     "json-glib": {
-      "checksum": null,
+      "checksum": "sha256:dc09b8fe10cdb5dd15e2eba044365aea61ac33bec3f55fd5783a5fb58d6f2b98",
       "ref": "1.10.8",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/json-glib.git",
@@ -1657,7 +1657,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/json-glib.git"
     },
     "kbd": {
-      "checksum": null,
+      "checksum": "sha256:92f570ef4fb84d1a243ca0dce369b25c717622b8d133886cc8bb5b138cd285a7",
       "ref": "v2.10.0",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git",
@@ -1666,7 +1666,7 @@
       "source_url": "https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git"
     },
     "keyutils": {
-      "checksum": null,
+      "checksum": "sha256:e9e9444c6611e666760542e9a03b7dd5d2eda37b7e853aa306bb8cbbce9d9e72",
       "ref": "v1.6.3",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git",
@@ -1675,7 +1675,7 @@
       "source_url": "https://git.kernel.org/pub/scm/linux/kernel/git/dhowells/keyutils.git"
     },
     "kmod": {
-      "checksum": null,
+      "checksum": "sha256:d7b80f13325f7d212c8aa1899b93c32e357fd4f99db3220fea290f1490839db3",
       "ref": "v34.2",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git",
@@ -1684,7 +1684,7 @@
       "source_url": "https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git"
     },
     "krb5": {
-      "checksum": null,
+      "checksum": "sha256:f145b8e6fd812f0b8f76a13eba82b68a45e2f6dfa900288ba1b038f4f091ec04",
       "ref": "krb5-1.9.5-final",
       "ref_type": "tag",
       "repo": "https://github.com/krb5/krb5.git",
@@ -1693,7 +1693,7 @@
       "source_url": "https://github.com/krb5/krb5.git"
     },
     "lame": {
-      "checksum": null,
+      "checksum": "sha256:b21a8b81e67fb04dbb0d018e9d5c581caed52df16489dc1799fe61a0c97ddc7e",
       "ref": "temp",
       "ref_type": "tag",
       "repo": "https://github.com/rbrito/lame.git",
@@ -1702,7 +1702,7 @@
       "source_url": "https://github.com/rbrito/lame.git"
     },
     "lcms2": {
-      "checksum": null,
+      "checksum": "sha256:298e1a9c9edb5ca3cfdc72d8837f44d7944fb72d3fd60676f1df8569ca025d07",
       "ref": "2.12",
       "ref_type": "tag",
       "repo": "https://github.com/mm2/Little-CMS.git",
@@ -1711,7 +1711,7 @@
       "source_url": "https://github.com/mm2/Little-CMS.git"
     },
     "less": {
-      "checksum": null,
+      "checksum": "sha256:16609480befef024a9b1e66893c685dca5fc1670d4ff2f9d5af1efdb0b8a47e3",
       "ref": "v709",
       "ref_type": "tag",
       "repo": "https://github.com/gwsw/less.git",
@@ -1720,7 +1720,7 @@
       "source_url": "https://github.com/gwsw/less.git"
     },
     "libadwaita": {
-      "checksum": null,
+      "checksum": "sha256:39e7b8a49ca3d6df764854580a9ab502e7c560650103a09b95c1f05d8e126e2a",
       "ref": "1.9.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libadwaita.git",
@@ -1729,7 +1729,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libadwaita.git"
     },
     "libaio": {
-      "checksum": null,
+      "checksum": "sha256:56a3dd6fa9929c221a5ccde360cb6ba616174b8d414fb5b5c2b3b0e56383d1c6",
       "ref": "libaio.0-3-99.4",
       "ref_type": "tag",
       "repo": "https://github.com/yugabyte/libaio.git",
@@ -1738,7 +1738,7 @@
       "source_url": "https://github.com/yugabyte/libaio.git"
     },
     "libaom": {
-      "checksum": null,
+      "checksum": "sha256:8e25d1dc4e67cebbd13a12c84ac0081905a7fc4278cad6b0ec2bcaa5befb3aa4",
       "ref": "v3.14.1",
       "ref_type": "tag",
       "repo": "https://aomedia.googlesource.com/aom",
@@ -1747,7 +1747,7 @@
       "source_url": "https://aomedia.googlesource.com/aom"
     },
     "libarchive": {
-      "checksum": null,
+      "checksum": "sha256:b879f37ae78e66b8c138138f7a5290fbed0657f1200a457edd833e0fc84edafc",
       "ref": "v3.8.9",
       "ref_type": "tag",
       "repo": "https://github.com/libarchive/libarchive.git",
@@ -1756,7 +1756,7 @@
       "source_url": "https://github.com/libarchive/libarchive.git"
     },
     "libass": {
-      "checksum": null,
+      "checksum": "sha256:85a2746fef501b75df45c2d66c31bfc600b4e252a1700cd5d5933c2835d6c936",
       "ref": "0.17.5",
       "ref_type": "tag",
       "repo": "https://github.com/libass/libass.git",
@@ -1765,7 +1765,7 @@
       "source_url": "https://github.com/libass/libass.git"
     },
     "libassuan": {
-      "checksum": null,
+      "checksum": "sha256:c5210ba8376e542b66db074044ccedb539ce315243c4f642cd23aeee21111eb9",
       "ref": "libassuan-3.0.2",
       "ref_type": "tag",
       "repo": "https://github.com/gpg/libassuan.git",
@@ -1774,7 +1774,7 @@
       "source_url": "https://github.com/gpg/libassuan.git"
     },
     "libatasmart": {
-      "checksum": null,
+      "checksum": "sha256:39b1af809aef933cc2669526ffe2764483f75e3e73f60abb0eabd736d003be0e",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/Rupan/libatasmart.git",
@@ -1783,7 +1783,7 @@
       "source_url": "https://github.com/Rupan/libatasmart.git"
     },
     "libaudit": {
-      "checksum": null,
+      "checksum": "sha256:686adc6b4d53f7a071ccc0975e260329291307cdeb6a8689ce43aff94cff12b2",
       "ref": "v4.2.1",
       "ref_type": "tag",
       "repo": "https://github.com/linux-audit/audit-userspace.git",
@@ -1792,7 +1792,7 @@
       "source_url": "https://github.com/linux-audit/audit-userspace.git"
     },
     "libavif": {
-      "checksum": null,
+      "checksum": "sha256:3780507171eac3c6a8da48204234bbade2ed69fca98486631360a91e932f88e9",
       "ref": "v1.4.2",
       "ref_type": "tag",
       "repo": "https://github.com/AOMediaCodec/libavif.git",
@@ -1801,7 +1801,7 @@
       "source_url": "https://github.com/AOMediaCodec/libavif.git"
     },
     "libblockdev": {
-      "checksum": null,
+      "checksum": "sha256:ac855c9f3a0034ed2db45a02cc4410a6ae81a3cf9693615328c65fb638e022a3",
       "ref": "3.5.0",
       "ref_type": "tag",
       "repo": "https://github.com/storaged-project/libblockdev.git",
@@ -1810,7 +1810,7 @@
       "source_url": "https://github.com/storaged-project/libblockdev.git"
     },
     "libbytesize": {
-      "checksum": null,
+      "checksum": "sha256:58d7dfc08806ac72806f0b354712ec43f0367cf2d01fa34ed8f9acb106943baf",
       "ref": "2.12",
       "ref_type": "tag",
       "repo": "https://github.com/storaged-project/libbytesize.git",
@@ -1819,7 +1819,7 @@
       "source_url": "https://github.com/storaged-project/libbytesize.git"
     },
     "libcanberra": {
-      "checksum": null,
+      "checksum": "sha256:7f433850fb39c961b58efd2c7806c7196bfd27492f3ae1ffe3f55b04f0b1b1fe",
       "ref": "v0.30",
       "ref_type": "tag",
       "repo": "https://github.com/Distrotech/libcanberra.git",
@@ -1828,7 +1828,7 @@
       "source_url": "https://github.com/Distrotech/libcanberra.git"
     },
     "libcap": {
-      "checksum": null,
+      "checksum": "sha256:59e4b5ca7d4b73e58eb8c8ef89e6d78ad540c36144405cae5087ed602f40fddd",
       "ref": "v1.2.78",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/libs/libcap/libcap.git",
@@ -1837,7 +1837,7 @@
       "source_url": "https://git.kernel.org/pub/scm/libs/libcap/libcap.git"
     },
     "libcddb": {
-      "checksum": null,
+      "checksum": "sha256:cf2a2f3065863df6f3f465059b9d184aafc36f753664c6f995de3586648450c1",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/Distrotech/libcddb",
@@ -1846,7 +1846,7 @@
       "source_url": "https://github.com/Distrotech/libcddb"
     },
     "libcdio": {
-      "checksum": null,
+      "checksum": "sha256:f6a8a008f23d607a9c6b5f2ef4005001c5fb04b8105cad6f5060cc30f4e11155",
       "ref": "2.2.0",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/libcdio.git",
@@ -1855,7 +1855,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/libcdio.git"
     },
     "libcdio-paranoia": {
-      "checksum": null,
+      "checksum": "sha256:7fa111bf9b767d9f9fae9ce4116b495fb96ef463b847843e04bbb70afbffc7f0",
       "ref": "release-10.2+2.0.2",
       "ref_type": "tag",
       "repo": "https://github.com/rocky/libcdio-paranoia.git",
@@ -1864,7 +1864,7 @@
       "source_url": "https://github.com/rocky/libcdio-paranoia.git"
     },
     "libcloudproviders": {
-      "checksum": null,
+      "checksum": "sha256:4001160ead236df3c52dbfc8f42713add66283bc70a72bfcb9b78910eea07ac2",
       "ref": "0.4.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/World/libcloudproviders.git",
@@ -1873,7 +1873,7 @@
       "source_url": "https://gitlab.gnome.org/World/libcloudproviders.git"
     },
     "libde265": {
-      "checksum": null,
+      "checksum": "sha256:0bc2806c88075fada6aaf60cabab741977fa911959013ce0255e7e3edd965423",
       "ref": "v1.1.1",
       "ref_type": "tag",
       "repo": "https://github.com/strukturag/libde265.git",
@@ -1882,7 +1882,7 @@
       "source_url": "https://github.com/strukturag/libde265.git"
     },
     "libdex": {
-      "checksum": null,
+      "checksum": "sha256:226a7c99455a5044ac18204f898a1c10e17f53876714725de5615fb03b8fe3dd",
       "ref": "1.1.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libdex.git",
@@ -1891,7 +1891,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libdex.git"
     },
     "libdisplay-info": {
-      "checksum": null,
+      "checksum": "sha256:6bd923a70cbc9fa18e0b1243e7c92be6b332cc8141e67245da2a6d499b7b13b6",
       "ref": "0.4.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/emersion/libdisplay-info.git",
@@ -1900,7 +1900,7 @@
       "source_url": "https://gitlab.freedesktop.org/emersion/libdisplay-info.git"
     },
     "libdrm": {
-      "checksum": null,
+      "checksum": "sha256:7bc09be42c28ecd41f10ac6831d6ba8d7dcb631e43363c58e88af5bf9cf20d29",
       "ref": "2.4.70",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/mesa/drm.git",
@@ -1909,7 +1909,7 @@
       "source_url": "https://gitlab.freedesktop.org/mesa/drm.git"
     },
     "libdvdread": {
-      "checksum": null,
+      "checksum": "sha256:604e0a73bb0b80e52b5d7d3679cb9faade4aa9da5a4fb5c92a6a2c27bb3471ea",
       "ref": "7.1.1",
       "ref_type": "tag",
       "repo": "https://code.videolan.org/videolan/libdvdread.git",
@@ -1918,7 +1918,7 @@
       "source_url": "https://code.videolan.org/videolan/libdvdread.git"
     },
     "libeconf": {
-      "checksum": null,
+      "checksum": "sha256:97a6d268a38d91c2fd004e565508521055345829d9d5b87c01e99f77935ac964",
       "ref": "v0.8.4",
       "ref_type": "tag",
       "repo": "https://github.com/openSUSE/libeconf.git",
@@ -1927,7 +1927,7 @@
       "source_url": "https://github.com/openSUSE/libeconf.git"
     },
     "libei": {
-      "checksum": null,
+      "checksum": "sha256:cbcb5be9c03d2b2873fbd01c17e00afd41970c54aab2e14740465cd7c03e04bc",
       "ref": "1.6.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/libinput/libei.git",
@@ -1936,7 +1936,7 @@
       "source_url": "https://gitlab.freedesktop.org/libinput/libei.git"
     },
     "libepoxy": {
-      "checksum": null,
+      "checksum": "sha256:01e76cebfa748d98f21ff06c08222e647716bb18e9ccb0d500247c71d5501dbb",
       "ref": "1.5.10",
       "ref_type": "tag",
       "repo": "https://github.com/anholt/libepoxy.git",
@@ -1945,7 +1945,7 @@
       "source_url": "https://github.com/anholt/libepoxy.git"
     },
     "libevdev": {
-      "checksum": null,
+      "checksum": "sha256:eec7e9b5806898fa23a4b757e03bab99b26b30fb4df0f625efc2d76c72015999",
       "ref": "libevdev-1.9.902",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/libevdev/libevdev.git",
@@ -1954,7 +1954,7 @@
       "source_url": "https://gitlab.freedesktop.org/libevdev/libevdev.git"
     },
     "libevent": {
-      "checksum": null,
+      "checksum": "sha256:1b06190e2eb1075a705482607c993ef9e3e9dc668ac4ea642fefa606c8b7e0a2",
       "ref": "release-2.1.8-stable",
       "ref_type": "tag",
       "repo": "https://github.com/libevent/libevent.git",
@@ -1963,7 +1963,7 @@
       "source_url": "https://github.com/libevent/libevent.git"
     },
     "libexif": {
-      "checksum": null,
+      "checksum": "sha256:1bc49c9b3490aa3aeb37f3f75c50d0c6e360cae909861ffbe6779b61e6c03f81",
       "ref": "v0.6.26",
       "ref_type": "tag",
       "repo": "https://github.com/libexif/libexif.git",
@@ -1972,7 +1972,7 @@
       "source_url": "https://github.com/libexif/libexif.git"
     },
     "libffi": {
-      "checksum": null,
+      "checksum": "sha256:d78d95a6b20a82e627192ca7ad73e7023dc5e0da713a56f200a14b331e1784d6",
       "ref": "v3.8.0",
       "ref_type": "tag",
       "repo": "https://github.com/libffi/libffi.git",
@@ -1981,7 +1981,7 @@
       "source_url": "https://github.com/libffi/libffi.git"
     },
     "libfontenc": {
-      "checksum": null,
+      "checksum": "sha256:1b678eac033aebd34c5dd1035cb4a26ef314a41d231ab88a205c516409b3fa5f",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libfontenc.git",
@@ -1990,7 +1990,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libfontenc.git"
     },
     "libfs": {
-      "checksum": null,
+      "checksum": "sha256:fbd1ed6f904c0e64be92b8b7903521e2b460d162826f475b3aadbb2cf1cdd51b",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libFS.git",
@@ -1999,7 +1999,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libFS.git"
     },
     "libfyaml": {
-      "checksum": null,
+      "checksum": "sha256:2848542f7695df93342dababfb155d3b08970bf936f310f5e173474be4ea1eca",
       "ref": "v0.9.6",
       "ref_type": "tag",
       "repo": "https://github.com/pantoniou/libfyaml.git",
@@ -2008,7 +2008,7 @@
       "source_url": "https://github.com/pantoniou/libfyaml.git"
     },
     "libgcrypt": {
-      "checksum": null,
+      "checksum": "sha256:13675d9152cf789eddc328bbf0806d0433eb537efe9da9dbd819616f1056290b",
       "ref": "post-nuke-of-trailing-ws",
       "ref_type": "tag",
       "repo": "https://github.com/gpg/libgcrypt.git",
@@ -2017,7 +2017,7 @@
       "source_url": "https://github.com/gpg/libgcrypt.git"
     },
     "libgee": {
-      "checksum": null,
+      "checksum": "sha256:4d1e6a504fb56203fd131d1e6ce76cf3b5ecefa1b94ac5730aa0d42910e07339",
       "ref": "0.20.8",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libgee.git",
@@ -2026,7 +2026,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libgee.git"
     },
     "libgpg-error": {
-      "checksum": null,
+      "checksum": "sha256:42977e9c518afb4e4bcfb84b2f03ade327462e9f99f3fae2f7586ff7fd13c650",
       "ref": "libgpg-error-1.9",
       "ref_type": "tag",
       "repo": "https://github.com/gpg/libgpg-error.git",
@@ -2035,7 +2035,7 @@
       "source_url": "https://github.com/gpg/libgpg-error.git"
     },
     "libgtop": {
-      "checksum": null,
+      "checksum": "sha256:cd0bda7b8866f973edea616ba8ffdf1cac1deb82d084b0e15481751d07175f0a",
       "ref": "3.18.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libgtop.git",
@@ -2044,7 +2044,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libgtop.git"
     },
     "libgudev": {
-      "checksum": null,
+      "checksum": "sha256:6d5d327e91ce3003181d08f5429ef9b6da997c79f31f3fb0003c7fbcbf9ff078",
       "ref": "238",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libgudev.git",
@@ -2053,7 +2053,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libgudev.git"
     },
     "libgusb": {
-      "checksum": null,
+      "checksum": "sha256:969a5b2aec58f262cad89ce3df05e065d903e9f259ff514db25e9cbe29c677d3",
       "ref": "0.4.9",
       "ref_type": "tag",
       "repo": "https://github.com/hughsie/libgusb.git",
@@ -2062,7 +2062,7 @@
       "source_url": "https://github.com/hughsie/libgusb.git"
     },
     "libgweather": {
-      "checksum": null,
+      "checksum": "sha256:3a2e8d32b8c907afc288772b8b73d8dd42b7e5666dd828c1f45ed80c1a5f6889",
       "ref": "40.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libgweather.git",
@@ -2071,7 +2071,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libgweather.git"
     },
     "libgxps": {
-      "checksum": null,
+      "checksum": "sha256:b72d105333b3d7530f63bab91aeae2777a88622dd1fba30671bc439cb4f430ce",
       "ref": "0.3.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libgxps.git",
@@ -2080,7 +2080,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libgxps.git"
     },
     "libhandy": {
-      "checksum": null,
+      "checksum": "sha256:3d2c2f600a0acb06c4eb842c79793f0dc0330c94523f07708d020256d32b5edf",
       "ref": "1.8.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libhandy.git",
@@ -2089,7 +2089,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libhandy.git"
     },
     "libheif": {
-      "checksum": null,
+      "checksum": "sha256:1a0b7cdbb737591a9453511ac2bf45b09e9fc766c20a910e4463a535def37ce2",
       "ref": "v1.23.1",
       "ref_type": "tag",
       "repo": "https://github.com/strukturag/libheif.git",
@@ -2098,7 +2098,7 @@
       "source_url": "https://github.com/strukturag/libheif.git"
     },
     "libical": {
-      "checksum": null,
+      "checksum": "sha256:591c99ff8ef0950b5a5d42f482bfdd5f60780976d30ce0639d548fb816c66dab",
       "ref": "v4.0.5",
       "ref_type": "tag",
       "repo": "https://github.com/libical/libical.git",
@@ -2107,7 +2107,7 @@
       "source_url": "https://github.com/libical/libical.git"
     },
     "libice": {
-      "checksum": null,
+      "checksum": "sha256:b3a08180091956abf327d449973185b3f2e7dda695918ca08c6dfba564465c46",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libICE.git",
@@ -2116,7 +2116,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libICE.git"
     },
     "libidn2": {
-      "checksum": null,
+      "checksum": "sha256:f344de33d296f17cbfe03804f45c4a3379d73646dd3e970ff358696d90f1d578",
       "ref": "v2.3.8",
       "ref_type": "tag",
       "repo": "https://gitlab.com/libidn/libidn2.git",
@@ -2125,7 +2125,7 @@
       "source_url": "https://gitlab.com/libidn/libidn2.git"
     },
     "libinput": {
-      "checksum": null,
+      "checksum": "sha256:4fe9cce25c7b3f06fd61b7ed5716fc5ef1117f4844a3b6fdbbeb1b5e65d39597",
       "ref": "1.31.3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/libinput/libinput.git",
@@ -2134,7 +2134,7 @@
       "source_url": "https://gitlab.freedesktop.org/libinput/libinput.git"
     },
     "libjpeg-turbo": {
-      "checksum": null,
+      "checksum": "sha256:f731037d7c965ce45380e292a1e5445fb462b1f859fdc03ce52eca2341160043",
       "ref": "3.2.0",
       "ref_type": "tag",
       "repo": "https://github.com/libjpeg-turbo/libjpeg-turbo.git",
@@ -2143,7 +2143,7 @@
       "source_url": "https://github.com/libjpeg-turbo/libjpeg-turbo.git"
     },
     "libjxl": {
-      "checksum": null,
+      "checksum": "sha256:1f817851935f375a41e72ea3c677f520603024065ea68bcecfb8c552f9065951",
       "ref": "v0.12.0",
       "ref_type": "tag",
       "repo": "https://github.com/libjxl/libjxl.git",
@@ -2152,7 +2152,7 @@
       "source_url": "https://github.com/libjxl/libjxl.git"
     },
     "libksba": {
-      "checksum": null,
+      "checksum": "sha256:a29df7c283c4e17ff106565458205f5b8868cd3fe0c638aba00aae99487a8323",
       "ref": "libksba-1.8.0",
       "ref_type": "tag",
       "repo": "https://github.com/gpg/libksba.git",
@@ -2161,7 +2161,7 @@
       "source_url": "https://github.com/gpg/libksba.git"
     },
     "libmbim": {
-      "checksum": null,
+      "checksum": "sha256:c11b5c8213b59986b8362099b1e63737ae13efcbbbfd5e5e323bbe41647c5f96",
       "ref": "1.34.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/mobile-broadband/libmbim.git",
@@ -2170,7 +2170,7 @@
       "source_url": "https://gitlab.freedesktop.org/mobile-broadband/libmbim.git"
     },
     "libmnl": {
-      "checksum": null,
+      "checksum": "sha256:dea66e50050f903dd9f316b10f6c87cb716c365767e141edcc9b5837cabf9166",
       "ref": "libmnl-1.0.4",
       "ref_type": "tag",
       "repo": "https://github.com/justmirror/libmnl.git",
@@ -2179,7 +2179,7 @@
       "source_url": "https://github.com/justmirror/libmnl.git"
     },
     "libndp": {
-      "checksum": null,
+      "checksum": "sha256:5cd90bcec85329c3ddcceff6ce00876fb4c1ceb639188a1fcf6c7c3ece6fab43",
       "ref": "v1.9",
       "ref_type": "tag",
       "repo": "https://github.com/jpirko/libndp.git",
@@ -2188,7 +2188,7 @@
       "source_url": "https://github.com/jpirko/libndp.git"
     },
     "libnftnl": {
-      "checksum": null,
+      "checksum": "sha256:03ce083d4ea1dd9450fa9a7fad3507788d9a77ee6d4afe025e45a116872ce682",
       "ref": "v1.1.8",
       "ref_type": "tag",
       "repo": "https://github.com/canonical/netfilter-libnftnl.git",
@@ -2197,7 +2197,7 @@
       "source_url": "https://github.com/canonical/netfilter-libnftnl.git"
     },
     "libnl": {
-      "checksum": null,
+      "checksum": "sha256:bd606b4bc25039fe12a8d5c35e82b60833fdc6063b97b1b4da49ad8c28382012",
       "ref": "libnl3_9_0",
       "ref_type": "tag",
       "repo": "https://github.com/thom311/libnl.git",
@@ -2206,7 +2206,7 @@
       "source_url": "https://github.com/thom311/libnl.git"
     },
     "libnotify": {
-      "checksum": null,
+      "checksum": "sha256:73c56ee4480dc8d1f9c582a21986a206b146361bf4e3ae5cb325f5f726d624a4",
       "ref": "0.8.8",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libnotify.git",
@@ -2215,7 +2215,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libnotify.git"
     },
     "libnsl": {
-      "checksum": null,
+      "checksum": "sha256:fcf840f7ae8da44b23954d6abc84c9e3d2698f21e5170ef05bd6b12c0f9b9465",
       "ref": "v2.0.1",
       "ref_type": "tag",
       "repo": "https://github.com/thkukuk/libnsl.git",
@@ -2224,7 +2224,7 @@
       "source_url": "https://github.com/thkukuk/libnsl.git"
     },
     "libnvme": {
-      "checksum": null,
+      "checksum": "sha256:0b8f7409cf325ebdb19208104886644a81f95a8518f3893b2e8ecf6d701dded3",
       "ref": "v1.16.2",
       "ref_type": "tag",
       "repo": "https://github.com/linux-nvme/libnvme.git",
@@ -2233,7 +2233,7 @@
       "source_url": "https://github.com/linux-nvme/libnvme.git"
     },
     "liboauth": {
-      "checksum": null,
+      "checksum": "sha256:f34f71508f9afafb11dd9c7fd36ddb3170d0fa790fc3e805e81b293ba75540fa",
       "ref": "v1.0.3",
       "ref_type": "tag",
       "repo": "https://github.com/x42/liboauth.git",
@@ -2242,7 +2242,7 @@
       "source_url": "https://github.com/x42/liboauth.git"
     },
     "libogg": {
-      "checksum": null,
+      "checksum": "sha256:09f0ef21892e8c87f066d3cc0dad31f52fd062227d6805ffba61771834db3ff6",
       "ref": "v1.3.2-1",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/multimedia-team/libogg.git",
@@ -2251,7 +2251,7 @@
       "source_url": "https://salsa.debian.org/multimedia-team/libogg.git"
     },
     "libostree": {
-      "checksum": null,
+      "checksum": "sha256:b005b70925f1113c50b7456f55cc6928d0eff25024194a6fddcd963311971a1f",
       "ref": "v2026.4",
       "ref_type": "tag",
       "repo": "https://github.com/ostreedev/ostree.git",
@@ -2260,7 +2260,7 @@
       "source_url": "https://github.com/ostreedev/ostree.git"
     },
     "libpciaccess": {
-      "checksum": null,
+      "checksum": "sha256:81f7060cc4606d2879341468609cf29456a9fd5f9d8ed84536a4525210a838d3",
       "ref": "xf86-video-xgi-0.9.1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libpciaccess.git",
@@ -2269,7 +2269,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libpciaccess.git"
     },
     "libpeas": {
-      "checksum": null,
+      "checksum": "sha256:d1ce93db323ea460ca195a34b6fa6a4ae8eb92d853fd3d32fc639da101544ec0",
       "ref": "2.2.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libpeas.git",
@@ -2278,7 +2278,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libpeas.git"
     },
     "libpipeline": {
-      "checksum": null,
+      "checksum": "sha256:e8ea8c9078a5d83bda21a63e3866a40a78e06cda74d544fdf96281e9193f22bc",
       "ref": "1.5.8",
       "ref_type": "tag",
       "repo": "https://gitlab.com/libpipeline/libpipeline.git",
@@ -2287,7 +2287,7 @@
       "source_url": "https://gitlab.com/libpipeline/libpipeline.git"
     },
     "libpng": {
-      "checksum": null,
+      "checksum": "sha256:340a5ee6c37ac33950f7185bb06800843d8cb8af1586460ce0a48a8ae55aee36",
       "ref": "v1.6.58",
       "ref_type": "tag",
       "repo": "https://github.com/pnggroup/libpng.git",
@@ -2296,7 +2296,7 @@
       "source_url": "https://github.com/pnggroup/libpng.git"
     },
     "libportal": {
-      "checksum": null,
+      "checksum": "sha256:8b01ec9a3615be404c39eb7012b9a0fbffa9c8c2e5d994eac947d047388db2df",
       "ref": "0.10.0",
       "ref_type": "tag",
       "repo": "https://github.com/flatpak/libportal.git",
@@ -2305,7 +2305,7 @@
       "source_url": "https://github.com/flatpak/libportal.git"
     },
     "libproxy": {
-      "checksum": null,
+      "checksum": "sha256:0bad545c7a7a90690c14c66278582f3529f3acb86b53faf0a42f584d24e54958",
       "ref": "0.5.12",
       "ref_type": "tag",
       "repo": "https://github.com/libproxy/libproxy.git",
@@ -2314,7 +2314,7 @@
       "source_url": "https://github.com/libproxy/libproxy.git"
     },
     "libpsl": {
-      "checksum": null,
+      "checksum": "sha256:39bf12fd6cf51249608f702eae881b64522554fdf444d05c07ee31ba4bd84e22",
       "ref": "0.23.3",
       "ref_type": "tag",
       "repo": "https://github.com/rockdaboot/libpsl.git",
@@ -2323,7 +2323,7 @@
       "source_url": "https://github.com/rockdaboot/libpsl.git"
     },
     "libpwquality": {
-      "checksum": null,
+      "checksum": "sha256:35017d3e26675dce2484154d2ca9d5c8203c3d2b62aed570684f70a3f816a70a",
       "ref": "libpwquality-1.4.5",
       "ref_type": "tag",
       "repo": "https://github.com/libpwquality/libpwquality.git",
@@ -2332,7 +2332,7 @@
       "source_url": "https://github.com/libpwquality/libpwquality.git"
     },
     "libqmi": {
-      "checksum": null,
+      "checksum": "sha256:acc037baea7402329056a3a9d48dcadc7461823c18966c5d7a41ffa531e1859b",
       "ref": "1.38.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/mobile-broadband/libqmi.git",
@@ -2341,7 +2341,7 @@
       "source_url": "https://gitlab.freedesktop.org/mobile-broadband/libqmi.git"
     },
     "librest": {
-      "checksum": null,
+      "checksum": "sha256:156ff8edfc11e097abd1c2f4c853d5fdf16a9e65e644ebc3a7aadcda5fbf6a8a",
       "ref": "0.10.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/librest.git",
@@ -2350,7 +2350,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/librest.git"
     },
     "librsvg": {
-      "checksum": null,
+      "checksum": "sha256:e36b558b36c31a358bcb93f92a7e3ce68e6bff86c8019482d48863455486b54a",
       "ref": "2.62.91",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/librsvg.git",
@@ -2359,7 +2359,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/librsvg.git"
     },
     "libseccomp": {
-      "checksum": null,
+      "checksum": "sha256:cc65d91f475cabc1f045665f3335c8c2bfe26924b70ff6448391051c14ca206c",
       "ref": "v2.6.1",
       "ref_type": "tag",
       "repo": "https://github.com/seccomp/libseccomp.git",
@@ -2368,7 +2368,7 @@
       "source_url": "https://github.com/seccomp/libseccomp.git"
     },
     "libsecret": {
-      "checksum": null,
+      "checksum": "sha256:f871f6b702d1d5c3fb45eca6a7a04386e06990123cf0eae217e3c367f072c2e5",
       "ref": "0.21.7",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libsecret.git",
@@ -2377,7 +2377,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libsecret.git"
     },
     "libshumate": {
-      "checksum": null,
+      "checksum": "sha256:068844c51ccee7656dbf7abc948bfe3d32f85f0db45a8e40e15b04f7d3ed081e",
       "ref": "1.6.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libshumate.git",
@@ -2386,7 +2386,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libshumate.git"
     },
     "libsigc": {
-      "checksum": null,
+      "checksum": "sha256:3efaea3d78db5f8fff52bf4c5074b862ddbe1e5095412e670ca3d395ace1f523",
       "ref": "3.8.1",
       "ref_type": "tag",
       "repo": "https://github.com/libsigcplusplus/libsigcplusplus.git",
@@ -2395,7 +2395,7 @@
       "source_url": "https://github.com/libsigcplusplus/libsigcplusplus.git"
     },
     "libslirp": {
-      "checksum": null,
+      "checksum": "sha256:ed8a67c6acce38089ac1500347497e6984512123f38171f881e8b8eaa091f8b6",
       "ref": "20201217",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/slirp/libslirp.git",
@@ -2404,7 +2404,7 @@
       "source_url": "https://gitlab.freedesktop.org/slirp/libslirp.git"
     },
     "libsm": {
-      "checksum": null,
+      "checksum": "sha256:c0e1ceb111c6b92c463d14db2ac89837ba3560cc688d907a29468f1dd1326b41",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libSM.git",
@@ -2413,7 +2413,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libSM.git"
     },
     "libsndfile": {
-      "checksum": null,
+      "checksum": "sha256:f49b918457b567b3278f0ba45883b9aa0979936d2054bc0bf0f31ffbcea754de",
       "ref": "1.2.2",
       "ref_type": "tag",
       "repo": "https://github.com/libsndfile/libsndfile.git",
@@ -2422,7 +2422,7 @@
       "source_url": "https://github.com/libsndfile/libsndfile.git"
     },
     "libsoup": {
-      "checksum": null,
+      "checksum": "sha256:ceaffcdfbc56fc0f2ca632c43ff59f940b72e8a8b4c4abb99efaab51e7d6db50",
       "ref": "3.7.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libsoup.git",
@@ -2431,7 +2431,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libsoup.git"
     },
     "libssh2": {
-      "checksum": null,
+      "checksum": "sha256:1474ba87c6920611baaa5aba67204d3595581dda233b9b2d60b6f018c86f1a0a",
       "ref": "start",
       "ref_type": "tag",
       "repo": "https://github.com/libssh2/libssh2.git",
@@ -2440,7 +2440,7 @@
       "source_url": "https://github.com/libssh2/libssh2.git"
     },
     "libtasn1": {
-      "checksum": null,
+      "checksum": "sha256:ffa1724256422cf4ebb5e2d97619a263eb7e190e2f0093954b4953c5131b8679",
       "ref": "v4.19.0",
       "ref_type": "tag",
       "repo": "https://github.com/gnutls/libtasn1.git",
@@ -2449,7 +2449,7 @@
       "source_url": "https://github.com/gnutls/libtasn1.git"
     },
     "libtirpc": {
-      "checksum": null,
+      "checksum": "sha256:86ab25f27499db7b79999dddf0c042dc5db7356aab7530f19dab49faefb88795",
       "ref": "0.0.10",
       "ref_type": "tag",
       "repo": "https://github.com/alisw/libtirpc.git",
@@ -2458,7 +2458,7 @@
       "source_url": "https://github.com/alisw/libtirpc.git"
     },
     "libtool": {
-      "checksum": null,
+      "checksum": "sha256:01559c6ca97376d3bcbbee2dee35934c579c8e4e15b8f25e46ba32d17733e2d8",
       "ref": "v2.6.2",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/libtool.git",
@@ -2467,7 +2467,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/libtool.git"
     },
     "libunistring": {
-      "checksum": null,
+      "checksum": "sha256:8eb84e16e9e7f85140d5cc677582d55b198e2b7fe7f0475492e8388408935a73",
       "ref": "v1.4.2",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/libunistring.git",
@@ -2476,7 +2476,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/libunistring.git"
     },
     "liburcu": {
-      "checksum": null,
+      "checksum": "sha256:0e3ae453fddac3c0d0d8705b830ad42dee42015b1ce59abad1daf7369d4ee21d",
       "ref": "v0.15.6",
       "ref_type": "tag",
       "repo": "https://git.lttng.org/userspace-rcu.git",
@@ -2485,7 +2485,7 @@
       "source_url": "https://git.lttng.org/userspace-rcu.git"
     },
     "libusb": {
-      "checksum": null,
+      "checksum": "sha256:f6d121c66e5027585efac49f3ba6ec0747be8ffda369f0c9ccc571300332a547",
       "ref": "v1.0.30",
       "ref_type": "tag",
       "repo": "https://github.com/libusb/libusb.git",
@@ -2494,7 +2494,7 @@
       "source_url": "https://github.com/libusb/libusb.git"
     },
     "libuv": {
-      "checksum": null,
+      "checksum": "sha256:0c108bf3a9eb010a1ad7ac87fab28a85c1b240b18ee40b360d342669d6a61923",
       "ref": "v1.52.1",
       "ref_type": "tag",
       "repo": "https://github.com/libuv/libuv.git",
@@ -2503,7 +2503,7 @@
       "source_url": "https://github.com/libuv/libuv.git"
     },
     "libva": {
-      "checksum": null,
+      "checksum": "sha256:4b8b21540f7cc164a449dc2944ec87d2586e923a42d0dc20223b6d4bf24173a2",
       "ref": "20090323",
       "ref_type": "tag",
       "repo": "https://github.com/intel/libva.git",
@@ -2512,7 +2512,7 @@
       "source_url": "https://github.com/intel/libva.git"
     },
     "libvorbis": {
-      "checksum": null,
+      "checksum": "sha256:961a5adaa859204c1fd1863198dba228e287a0cc98ecd6c44618e86bba123408",
       "ref": "v1.3.7",
       "ref_type": "tag",
       "repo": "https://gitlab.xiph.org/xiph/vorbis.git",
@@ -2521,7 +2521,7 @@
       "source_url": "https://gitlab.xiph.org/xiph/vorbis.git"
     },
     "libvpx": {
-      "checksum": null,
+      "checksum": "sha256:da7e8c48b5c171c318f803259f4158fd2f3368d801ecd3b5279df10f00c13fa8",
       "ref": "v1.16.0",
       "ref_type": "tag",
       "repo": "https://chromium.googlesource.com/webm/libvpx.git",
@@ -2530,7 +2530,7 @@
       "source_url": "https://chromium.googlesource.com/webm/libvpx.git"
     },
     "libwacom": {
-      "checksum": null,
+      "checksum": "sha256:5fe8d2d0ea8bf6b026fbd7a0676ced89c3709f91ea629b1aa7c9c806d1acc02f",
       "ref": "libwacom-2.9.0",
       "ref_type": "tag",
       "repo": "https://github.com/linuxwacom/libwacom.git",
@@ -2539,7 +2539,7 @@
       "source_url": "https://github.com/linuxwacom/libwacom.git"
     },
     "libwebp": {
-      "checksum": null,
+      "checksum": "sha256:f2ad5a600188610f5ee0c6be94a9475c96b68a1e4efb98992a141af83ea54e17",
       "ref": "v1.6.0",
       "ref_type": "tag",
       "repo": "https://chromium.googlesource.com/webm/libwebp.git",
@@ -2548,7 +2548,7 @@
       "source_url": "https://chromium.googlesource.com/webm/libwebp.git"
     },
     "libx11": {
-      "checksum": null,
+      "checksum": "sha256:ec18280f8aa6a69af7974a337fb2d9e293611451ab5659bac15d4db5ce03c48a",
       "ref": "xf86-4_4_99_1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libX11.git",
@@ -2557,7 +2557,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libX11.git"
     },
     "libxau": {
-      "checksum": null,
+      "checksum": "sha256:d599af1db09062db5e64c43338a1dfae7990e7afe12550f0d36c4f22bed19c62",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxau.git",
@@ -2566,7 +2566,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxau.git"
     },
     "libxaw": {
-      "checksum": null,
+      "checksum": "sha256:222e9900007d9fc24b4eef57a4acfcc63c1c5e1e760302231cc82d505cc6051c",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXaw.git",
@@ -2575,7 +2575,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXaw.git"
     },
     "libxcb": {
-      "checksum": null,
+      "checksum": "sha256:0f17c30c6e16a5c404015e753dc8705e0ab26ab656af133ae7538eaa3d95b29b",
       "ref": "0.4.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git",
@@ -2584,7 +2584,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git"
     },
     "libxcb-util": {
-      "checksum": null,
+      "checksum": "sha256:0f17c30c6e16a5c404015e753dc8705e0ab26ab656af133ae7538eaa3d95b29b",
       "ref": "0.4.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git",
@@ -2593,7 +2593,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git"
     },
     "libxcomposite": {
-      "checksum": null,
+      "checksum": "sha256:d78ef95b951a1acfedfaf98b08e101289687aca04f501f6b41d6f7cfbde11844",
       "ref": "xcomposite-0_3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXcomposite.git",
@@ -2602,7 +2602,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXcomposite.git"
     },
     "libxcrypt": {
-      "checksum": null,
+      "checksum": "sha256:debf663de52e11d964d318e8a617d9d5135f5512c9f7e042dc8243d3a56f021d",
       "ref": "v4.5.2",
       "ref_type": "tag",
       "repo": "https://github.com/besser82/libxcrypt.git",
@@ -2611,7 +2611,7 @@
       "source_url": "https://github.com/besser82/libxcrypt.git"
     },
     "libxcursor": {
-      "checksum": null,
+      "checksum": "sha256:897e69f1cc23cf3b9c18e78ed57c424875b974070d20b4ed9ad123e0b76c6cf3",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXcursor.git",
@@ -2620,7 +2620,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXcursor.git"
     },
     "libxcvt": {
-      "checksum": null,
+      "checksum": "sha256:c3869ee3f2605a18acfd7da95cf911b3ae5f152d82b7a2ce65189709f6315fe3",
       "ref": "libxcvt-0.1.3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxcvt.git",
@@ -2629,7 +2629,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxcvt.git"
     },
     "libxdamage": {
-      "checksum": null,
+      "checksum": "sha256:2e9dadf8fe4eca03efe91c85f1383d1da996cb37857d54b8dedf17f08a08e030",
       "ref": "sco_port_update-base",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXdamage.git",
@@ -2638,7 +2638,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXdamage.git"
     },
     "libxdmcp": {
-      "checksum": null,
+      "checksum": "sha256:f4291a5fd5d2cf7afe357714887b94de815313c21094deb1f529328fa0471d46",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxdmcp.git",
@@ -2647,7 +2647,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxdmcp.git"
     },
     "libxext": {
-      "checksum": null,
+      "checksum": "sha256:185425bf482d21d3cf46a4775dc25f64e2be1a5669b64a1bc843430ff1982c67",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXext.git",
@@ -2656,7 +2656,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXext.git"
     },
     "libxfixes": {
-      "checksum": null,
+      "checksum": "sha256:7e351bfff3a68f5665b432abd360226bf677bca7079f268a5c75a5930c9a5a4f",
       "ref": "sco_port_update-base",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXfixes.git",
@@ -2665,7 +2665,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXfixes.git"
     },
     "libxfont2": {
-      "checksum": null,
+      "checksum": "sha256:83c717c6f585654e00f88cfb1805aa6ff0c6b536e060bd8c5640fffcec95ce81",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxfont.git",
@@ -2674,7 +2674,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxfont.git"
     },
     "libxft": {
-      "checksum": null,
+      "checksum": "sha256:e175681124a747da8589202656a9eecb8e430a30ffe809d397155392a53f6eac",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXft.git",
@@ -2683,7 +2683,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXft.git"
     },
     "libxi": {
-      "checksum": null,
+      "checksum": "sha256:60c9fe8fd78d6938dbad6c55c30ecff841a4c7525ce2b57a2a042ec328b76aaa",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXi.git",
@@ -2692,7 +2692,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXi.git"
     },
     "libxinerama": {
-      "checksum": null,
+      "checksum": "sha256:518a64edd6da34f11601695ec80926cb47b906caa3d0447581396adc88e0d919",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXinerama.git",
@@ -2701,7 +2701,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXinerama.git"
     },
     "libxkbcommon": {
-      "checksum": null,
+      "checksum": "sha256:f8edf2931bbe8c19e605de3701e2040072103f85aeb826f7075e12e0f4ec52a9",
       "ref": "xkbcommon-1.9.2",
       "ref_type": "tag",
       "repo": "https://github.com/xkbcommon/libxkbcommon.git",
@@ -2710,7 +2710,7 @@
       "source_url": "https://github.com/xkbcommon/libxkbcommon.git"
     },
     "libxkbfile": {
-      "checksum": null,
+      "checksum": "sha256:1ab46b16ad432911ee02af14b5f575a4a2985dfabb8e3045c9d859eb77fcbc77",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxkbfile.git",
@@ -2719,7 +2719,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxkbfile.git"
     },
     "libxklavier": {
-      "checksum": null,
+      "checksum": "sha256:af503db5925533144b72395a8735524925f76a6d935387cdb5c6f9a0b648e945",
       "ref": "v.5.2.1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/archived-projects/libxklavier.git",
@@ -2728,7 +2728,7 @@
       "source_url": "https://gitlab.freedesktop.org/archived-projects/libxklavier.git"
     },
     "libxml2": {
-      "checksum": null,
+      "checksum": "sha256:d71b390c370fc2ee5a2d158a744e508a14253cf161aefa23c81fe8153845ec9f",
       "ref": "v2.15.3",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libxml2.git",
@@ -2737,7 +2737,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libxml2.git"
     },
     "libxmu": {
-      "checksum": null,
+      "checksum": "sha256:16e6bb886505ba5cc9d2b9f0888307434d732cd2232d82a0aaef6c1bc3efbfa1",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXmu.git",
@@ -2746,7 +2746,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXmu.git"
     },
     "libxpm": {
-      "checksum": null,
+      "checksum": "sha256:eb00e0b2c8bdd145a671f4e8ea8587336a3ba23471911fbda286e1cb1f5c7c7c",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXpm.git",
@@ -2755,7 +2755,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXpm.git"
     },
     "libxpresent": {
-      "checksum": null,
+      "checksum": "sha256:b891b9e44a489897000fcc4f859c7d33038083a5630ccb3bf9aedaa11df36d9f",
       "ref": "libXpresent-1.0.2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXpresent.git",
@@ -2764,7 +2764,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXpresent.git"
     },
     "libxrandr": {
-      "checksum": null,
+      "checksum": "sha256:93388e9e34257027eb3ac53e5544455264a7055f5c20b31694d483005e03aa25",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXrandr.git",
@@ -2773,7 +2773,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXrandr.git"
     },
     "libxrender": {
-      "checksum": null,
+      "checksum": "sha256:c182b0f573d773a9e0a578692058783e02eaed56b5d95d0c444634c73fd281b2",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXrender.git",
@@ -2782,7 +2782,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXrender.git"
     },
     "libxres": {
-      "checksum": null,
+      "checksum": "sha256:740da3ac5d4e21145a2961720ef7a016f4be341c194469d044581045716a64ae",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXres.git",
@@ -2791,7 +2791,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXres.git"
     },
     "libxscrnsaver": {
-      "checksum": null,
+      "checksum": "sha256:303c31c8c5e985669040f564669b585317795e75610294eb57b9990be5f3c598",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXScrnSaver.git",
@@ -2800,7 +2800,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXScrnSaver.git"
     },
     "libxshmfence": {
-      "checksum": null,
+      "checksum": "sha256:d04c9a73a71c8dfc514dd7c2065d36e13ad7ac98d614176154aeabcb5d48ae92",
       "ref": "libxshmfence-1.3.3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxshmfence.git",
@@ -2809,7 +2809,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxshmfence.git"
     },
     "libxslt": {
-      "checksum": null,
+      "checksum": "sha256:3de80c31604338e9cca409182d5e2a80590f26fbdff9ef4a60779a387e969bac",
       "ref": "v1.1.45",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/libxslt.git",
@@ -2818,7 +2818,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/libxslt.git"
     },
     "libxt": {
-      "checksum": null,
+      "checksum": "sha256:3dce795e3db43cc6690a92510b3b8c0eb0ae6b5858bf6ba39cc8ac776884a776",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXt.git",
@@ -2827,7 +2827,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXt.git"
     },
     "libxtst": {
-      "checksum": null,
+      "checksum": "sha256:c82300bff6290eb2163ca215149ccff5630e4ab4117ac9b1d205fa25c99e2ed6",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXtst.git",
@@ -2836,7 +2836,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXtst.git"
     },
     "libxv": {
-      "checksum": null,
+      "checksum": "sha256:1c40d9764a0e04a5f973529368cd20793709dfd7cbdefa8dfddb2afd8395c10a",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXv.git",
@@ -2845,7 +2845,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXv.git"
     },
     "libxvmc": {
-      "checksum": null,
+      "checksum": "sha256:3ee65952d8da5804c27d3b68f38854d5d754d961f99f16a86f1fa899620a29d1",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXvMC.git",
@@ -2854,7 +2854,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXvMC.git"
     },
     "libxxf86dga": {
-      "checksum": null,
+      "checksum": "sha256:6f6eb52aea9689dd881829d3e8369309f22b4a222e76ce3f4f406e3bcd45cd37",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXxf86dga.git",
@@ -2863,7 +2863,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXxf86dga.git"
     },
     "libxxf86vm": {
-      "checksum": null,
+      "checksum": "sha256:051807e23a9e1373a048ba9b08fcd8e71052c22cfd595e2a73494d7673a4a36a",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libXxf86vm.git",
@@ -2872,7 +2872,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libXxf86vm.git"
     },
     "libyaml": {
-      "checksum": null,
+      "checksum": "sha256:9a5a93329e3a79cfd70cdad667dcb19c4f59f9bdbd9d02d146c45f5dd9a25704",
       "ref": "0.2.5",
       "ref_type": "tag",
       "repo": "https://github.com/yaml/libyaml.git",
@@ -2881,7 +2881,7 @@
       "source_url": "https://github.com/yaml/libyaml.git"
     },
     "linux": {
-      "checksum": null,
+      "checksum": "sha256:129ad5ba2e4c1c160ad59ddde107a60de80c04d7a8c28e62c213fd74f6974bea",
       "ref": "v7.2",
       "ref_type": "tag",
       "repo": "https://github.com/torvalds/linux.git",
@@ -2890,7 +2890,7 @@
       "source_url": "https://github.com/torvalds/linux.git"
     },
     "linux-firmware": {
-      "checksum": null,
+      "checksum": "sha256:ca2cee3e0b640d86a8cbc5efa317a7abf6fa52155adb9068ab44a00c0149b5d0",
       "ref": "20260810",
       "ref_type": "tag",
       "repo": "https://gitlab.com/kernel-firmware/linux-firmware.git",
@@ -2899,7 +2899,7 @@
       "source_url": "https://gitlab.com/kernel-firmware/linux-firmware.git"
     },
     "linux-pam": {
-      "checksum": null,
+      "checksum": "sha256:00a05de56cee6dc5efae8f1276137af763382006113a3064f646e1403cd7977e",
       "ref": "v1.7.2",
       "ref_type": "tag",
       "repo": "https://github.com/linux-pam/linux-pam.git",
@@ -2908,7 +2908,7 @@
       "source_url": "https://github.com/linux-pam/linux-pam.git"
     },
     "llvm": {
-      "checksum": null,
+      "checksum": "sha256:32619362cd47fd07a44d5da3ae6a1ccdd573899ac30e241a99407cc6f24d0437",
       "ref": "llvmorg-9.0.1",
       "ref_type": "tag",
       "repo": "https://github.com/llvm/llvm-project.git",
@@ -2917,7 +2917,7 @@
       "source_url": "https://github.com/llvm/llvm-project.git"
     },
     "lmdb": {
-      "checksum": null,
+      "checksum": "sha256:d9483022900bc1d7f37aa2f4db6bf9aa94fd66cfd2fb8a6eaab838c89fb44aaf",
       "ref": "master.old",
       "ref_type": "tag",
       "repo": "https://github.com/LMDB/lmdb.git",
@@ -2926,7 +2926,7 @@
       "source_url": "https://github.com/LMDB/lmdb.git"
     },
     "localsearch": {
-      "checksum": null,
+      "checksum": "sha256:0adfd2e362711aa2caf71eafa7261d00b27dac58ad48d8c2ef9d15f98e2e35ba",
       "ref": "3.11.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/localsearch.git",
@@ -2935,7 +2935,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/localsearch.git"
     },
     "lua": {
-      "checksum": null,
+      "checksum": "sha256:eb2704fcc94d7be0e7f114fb1dc6156ecffcd47025a6250f25fbbd3af2623b09",
       "ref": "v5.5.1",
       "ref_type": "tag",
       "repo": "https://github.com/lua/lua.git",
@@ -2944,7 +2944,7 @@
       "source_url": "https://github.com/lua/lua.git"
     },
     "lvm2": {
-      "checksum": null,
+      "checksum": "sha256:1d5a333737c51834a459f8ae2e0246a798a1dc876a71483e3d27f9768f8f039a",
       "ref": "v2_03_42",
       "ref_type": "tag",
       "repo": "git://sourceware.org/git/lvm2.git",
@@ -2953,7 +2953,7 @@
       "source_url": "git://sourceware.org/git/lvm2.git"
     },
     "lxml": {
-      "checksum": null,
+      "checksum": "sha256:4c8f9c441b223f54f629e38ec2f0b85c9c4352cb411fe213d6593b1a226eb068",
       "ref": "lxml-7.0.0a3",
       "ref_type": "tag",
       "repo": "https://github.com/lxml/lxml.git",
@@ -2962,7 +2962,7 @@
       "source_url": "https://github.com/lxml/lxml.git"
     },
     "lz4": {
-      "checksum": null,
+      "checksum": "sha256:b57ab49edc2375b567b286e6ca99b24b0e3e705d5fae1125faa1b4c2a61fe294",
       "ref": "v1.10.0",
       "ref_type": "tag",
       "repo": "https://github.com/lz4/lz4.git",
@@ -2971,7 +2971,7 @@
       "source_url": "https://github.com/lz4/lz4.git"
     },
     "lzo": {
-      "checksum": null,
+      "checksum": "sha256:e79db42b698676d4a47f257d8f54e695623191ac1ec5ec054003c0dc4401a61e",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/nemequ/lzo.git",
@@ -2980,7 +2980,7 @@
       "source_url": "https://github.com/nemequ/lzo.git"
     },
     "m4": {
-      "checksum": null,
+      "checksum": "sha256:9e9cb52fb808f65327843df1cc8547f95aea29a01a1f95834336931a72958556",
       "ref": "v1.4.21",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/m4.git",
@@ -2989,7 +2989,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/m4.git"
     },
     "make": {
-      "checksum": null,
+      "checksum": "sha256:2a8e5dcf060fe64d6c3fc0dfa1020e49064da5e7eaa7443f084283a951c9d980",
       "ref": "4.4.1",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/make.git",
@@ -2998,7 +2998,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/make.git"
     },
     "make-ca": {
-      "checksum": null,
+      "checksum": "sha256:9baf110f579e9928cc4b92cd83bc5f8a3afe0a7d746c8064069f42dce6fc75bb",
       "ref": "v1.16.1",
       "ref_type": "tag",
       "repo": "https://github.com/lfs-book/make-ca.git",
@@ -3007,7 +3007,7 @@
       "source_url": "https://github.com/lfs-book/make-ca.git"
     },
     "mako": {
-      "checksum": null,
+      "checksum": "sha256:61181127c3ecb43887eebad7789930cb745882634d231c34226088a0b4532f88",
       "ref": "rel_1_4_1",
       "ref_type": "tag",
       "repo": "https://github.com/sqlalchemy/mako.git",
@@ -3016,7 +3016,7 @@
       "source_url": "https://github.com/sqlalchemy/mako.git"
     },
     "malcontent": {
-      "checksum": null,
+      "checksum": "sha256:8ab3ba3e4b9d0ce8c7cf873a485655fd7cdc071d677eff8874bb7889d27512ec",
       "ref": "0.14.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/pwithnall/malcontent.git",
@@ -3025,7 +3025,7 @@
       "source_url": "https://gitlab.freedesktop.org/pwithnall/malcontent.git"
     },
     "man-db": {
-      "checksum": null,
+      "checksum": "sha256:164071a78f148e11ba2e4edef045d70b6749b664dfb37dc784c44492616b77f9",
       "ref": "2.13.1",
       "ref_type": "tag",
       "repo": "https://gitlab.com/man-db/man-db.git",
@@ -3034,7 +3034,7 @@
       "source_url": "https://gitlab.com/man-db/man-db.git"
     },
     "man-pages": {
-      "checksum": null,
+      "checksum": "sha256:734da22fd79f369b8c28565d5bb0ac3190610c2fb178496444a9578f5f38515a",
       "ref": "man-pages-6.9.1",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git",
@@ -3043,7 +3043,7 @@
       "source_url": "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git"
     },
     "markupsafe": {
-      "checksum": null,
+      "checksum": "sha256:d4eb76cd93bace3f64da71ff5b02e1924c24150c4f391b41eaabec9846b4b183",
       "ref": "3.0.3",
       "ref_type": "tag",
       "repo": "https://github.com/pallets/markupsafe.git",
@@ -3052,7 +3052,7 @@
       "source_url": "https://github.com/pallets/markupsafe.git"
     },
     "md4c": {
-      "checksum": null,
+      "checksum": "sha256:6837330b4135917808927cd77286acd8d82a2f51140bbdb3c021caf68c65bb6f",
       "ref": "release-0.5.3",
       "ref_type": "tag",
       "repo": "https://github.com/mity/md4c.git",
@@ -3061,7 +3061,7 @@
       "source_url": "https://github.com/mity/md4c.git"
     },
     "mdadm": {
-      "checksum": null,
+      "checksum": "sha256:d76a53309cc1418c032f5dea717b23ffb3f125afc6d3f2456dd9000323287d29",
       "ref": "mdctl-v0.4.2",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git",
@@ -3070,7 +3070,7 @@
       "source_url": "https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git"
     },
     "mesa": {
-      "checksum": null,
+      "checksum": "sha256:742f938a7b6033d7756464c5dbf6cca309789fab27fbbea725ecaf4bd6ac7528",
       "ref": "vulkan-protex-2015.09.24.r01-base",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/mesa/mesa.git",
@@ -3079,7 +3079,7 @@
       "source_url": "https://gitlab.freedesktop.org/mesa/mesa.git"
     },
     "meson": {
-      "checksum": null,
+      "checksum": "sha256:4873665ad1a72357d9fbbb0e982ba8663281b8079c1f15dcd05e8cb707879ecd",
       "ref": "1.12.0",
       "ref_type": "tag",
       "repo": "https://github.com/mesonbuild/meson.git",
@@ -3088,7 +3088,7 @@
       "source_url": "https://github.com/mesonbuild/meson.git"
     },
     "modemmanager": {
-      "checksum": null,
+      "checksum": "sha256:2bf86b670f8c09a4cdc8a9bcfbacf8549452ab4384572ef28781c3dbd647195d",
       "ref": "1.24.2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/mobile-broadband/ModemManager.git",
@@ -3097,7 +3097,7 @@
       "source_url": "https://gitlab.freedesktop.org/mobile-broadband/ModemManager.git"
     },
     "mpc": {
-      "checksum": null,
+      "checksum": "sha256:409e01e69f9c46e9f51a73e78ea8dff2cd8a0e2e63caf01ce4727636bfd64d28",
       "ref": "1.4.1",
       "ref_type": "tag",
       "repo": "https://gitlab.inria.fr/mpc/mpc.git",
@@ -3106,7 +3106,7 @@
       "source_url": "https://gitlab.inria.fr/mpc/mpc.git"
     },
     "mpfr": {
-      "checksum": null,
+      "checksum": "sha256:dcabfe39ef911f277ac95dc89d2d18fd61184c656b82e7199dee457e29a1034d",
       "ref": "4.2.2",
       "ref_type": "tag",
       "repo": "https://gitlab.inria.fr/mpfr/mpfr.git",
@@ -3115,7 +3115,7 @@
       "source_url": "https://gitlab.inria.fr/mpfr/mpfr.git"
     },
     "mpg123": {
-      "checksum": null,
+      "checksum": "sha256:5c67f314007ab1abb8491ea75d78a33b9a51bd72a18d1a2598be3c78bf1181d7",
       "ref": "upstream/1.4.3",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/multimedia-team/mpg123.git",
@@ -3124,7 +3124,7 @@
       "source_url": "https://salsa.debian.org/multimedia-team/mpg123.git"
     },
     "mtdev": {
-      "checksum": null,
+      "checksum": "sha256:72a97b34e0b131b1fbdbdec51bbe299a8f346d1eab308c6319cdca4b2918e44f",
       "ref": "v1.1.5",
       "ref_type": "tag",
       "repo": "https://github.com/rydberg/mtdev.git",
@@ -3133,7 +3133,7 @@
       "source_url": "https://github.com/rydberg/mtdev.git"
     },
     "mutter": {
-      "checksum": null,
+      "checksum": "sha256:1b7adab514c6f7f6409b50b649af7f8b616312de77d97a54fa4ba4afd2397a84",
       "ref": "50.4",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/mutter.git",
@@ -3142,7 +3142,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/mutter.git"
     },
     "nano": {
-      "checksum": null,
+      "checksum": "sha256:c94e8eaae0190426a6159e6b5e6493549cc48971929525a72c095462cb914672",
       "ref": "v9.2",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/nano.git",
@@ -3151,7 +3151,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/nano.git"
     },
     "nasm": {
-      "checksum": null,
+      "checksum": "sha256:05b90704d77477a4109929706133aa58e2aba0e87df08d0d5b1ce23ecc46008b",
       "ref": "verified",
       "ref_type": "tag",
       "repo": "https://github.com/netwide-assembler/nasm.git",
@@ -3160,7 +3160,7 @@
       "source_url": "https://github.com/netwide-assembler/nasm.git"
     },
     "nautilus": {
-      "checksum": null,
+      "checksum": "sha256:cb5ec35c6704eebbc5967e45054dc7fe268c192b4ac98040d4e31329c6b63756",
       "ref": "50.2.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/nautilus.git",
@@ -3169,7 +3169,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/nautilus.git"
     },
     "ncurses": {
-      "checksum": null,
+      "checksum": "sha256:fba786d7dcd218577de5b3e7a721fd47d811ce2379f02f816112cee252292ba9",
       "ref": "v6_6_20260815",
       "ref_type": "tag",
       "repo": "https://github.com/ThomasDickey/ncurses-snapshots.git",
@@ -3178,7 +3178,7 @@
       "source_url": "https://github.com/ThomasDickey/ncurses-snapshots.git"
     },
     "netavark": {
-      "checksum": null,
+      "checksum": "sha256:01e01f3796cb4afe0ff9fcf7856c0d731d77978de1222342f3a45d322c7b902c",
       "ref": "v2.1.0",
       "ref_type": "tag",
       "repo": "https://github.com/containers/netavark.git",
@@ -3187,7 +3187,7 @@
       "source_url": "https://github.com/containers/netavark.git"
     },
     "nettle": {
-      "checksum": null,
+      "checksum": "sha256:3964642be7010aa4d0632ce43d7f2d360b1d266fc40f5b87b5130b44be22575a",
       "ref": "3.5.1+really3.5.1-2",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/holmgren/nettle.git",
@@ -3196,7 +3196,7 @@
       "source_url": "https://salsa.debian.org/holmgren/nettle.git"
     },
     "networkmanager": {
-      "checksum": null,
+      "checksum": "sha256:9e8c2d8ed5c3389b68bf716b6f1a8f274fa230d10ccc94e59bc075e56514c7ba",
       "ref": "1.58.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager.git",
@@ -3205,7 +3205,7 @@
       "source_url": "https://gitlab.freedesktop.org/NetworkManager/NetworkManager.git"
     },
     "newt": {
-      "checksum": null,
+      "checksum": "sha256:e77318434c867f8a85647033d505dffd743522d8622e6d1ac9a46377e4f6840c",
       "ref": "v0-9",
       "ref_type": "tag",
       "repo": "https://github.com/mlichvar/newt.git",
@@ -3214,7 +3214,7 @@
       "source_url": "https://github.com/mlichvar/newt.git"
     },
     "nghttp2": {
-      "checksum": null,
+      "checksum": "sha256:a1c03f7dab053f3f04dc5d4a788fbfa185bbb90555582c0c3732007b185a2ffa",
       "ref": "v1.70.0",
       "ref_type": "tag",
       "repo": "https://github.com/nghttp2/nghttp2.git",
@@ -3223,7 +3223,7 @@
       "source_url": "https://github.com/nghttp2/nghttp2.git"
     },
     "ninja": {
-      "checksum": null,
+      "checksum": "sha256:c0ee36cf273ee0b9cdd0e7a47dd105a8b78f28d61cc9e81f4417a2a3f48d73b2",
       "ref": "v1.13.2",
       "ref_type": "tag",
       "repo": "https://github.com/ninja-build/ninja.git",
@@ -3232,7 +3232,7 @@
       "source_url": "https://github.com/ninja-build/ninja.git"
     },
     "notification-daemon": {
-      "checksum": null,
+      "checksum": "sha256:7bf79340167bb8ccdeef3f2391dad06245a8dcc7f9fe04bcc609789cd1667cf7",
       "ref": "3.20.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/notification-daemon.git",
@@ -3241,7 +3241,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/notification-daemon.git"
     },
     "npth": {
-      "checksum": null,
+      "checksum": "sha256:51e46a46441e2945899f7f157d2b88c9b766ab4393a2810138fdd8c201865c18",
       "ref": "npth-1.8",
       "ref_type": "tag",
       "repo": "https://github.com/gpg/npth.git",
@@ -3250,7 +3250,7 @@
       "source_url": "https://github.com/gpg/npth.git"
     },
     "nspr": {
-      "checksum": null,
+      "checksum": "sha256:35c2305649eb27d8bdd05b4afd4583fc914b8991668b5df8787b92a6908c64da",
       "ref": "xpc_20010327_post_trunk_merge_TAG",
       "ref_type": "tag",
       "repo": "https://github.com/mozilla/nspr.git",
@@ -3259,7 +3259,7 @@
       "source_url": "https://github.com/mozilla/nspr.git"
     },
     "nss": {
-      "checksum": null,
+      "checksum": "sha256:f04706b0569ff6bd4e2825d789c18fd1046274d9bc560b6f1d6699a66e61aa5e",
       "ref": "travisWebshell_03082000_BASE",
       "ref_type": "tag",
       "repo": "https://github.com/mozilla/nss.git",
@@ -3268,7 +3268,7 @@
       "source_url": "https://github.com/mozilla/nss.git"
     },
     "ntfs-3g": {
-      "checksum": null,
+      "checksum": "sha256:10f4cdcf0731b81758c698de26f66939442fc9e7de4692cd27325471cb5f94d0",
       "ref": "2026.7.7",
       "ref_type": "tag",
       "repo": "https://github.com/tuxera/ntfs-3g.git",
@@ -3277,7 +3277,7 @@
       "source_url": "https://github.com/tuxera/ntfs-3g.git"
     },
     "openjpeg": {
-      "checksum": null,
+      "checksum": "sha256:988e9f136bf227be281374ee81189b9fe58647e364da943bb218a217e4dc71b9",
       "ref": "v2.5.4",
       "ref_type": "tag",
       "repo": "https://github.com/uclouvain/openjpeg.git",
@@ -3286,7 +3286,7 @@
       "source_url": "https://github.com/uclouvain/openjpeg.git"
     },
     "openldap": {
-      "checksum": null,
+      "checksum": "sha256:0534fb4745298e86b02681557288866ef736aa2985eb0e7d5fbbef7b85778e9b",
       "ref": "UTBM_0_2",
       "ref_type": "tag",
       "repo": "https://git.openldap.org/openldap/openldap.git",
@@ -3295,7 +3295,7 @@
       "source_url": "https://git.openldap.org/openldap/openldap.git"
     },
     "openssh": {
-      "checksum": null,
+      "checksum": "sha256:df8f99d2f290ee634a50e1907047eb5713944d1f78e4df757f1ac3906444d58a",
       "ref": "V_9_9_P2",
       "ref_type": "tag",
       "repo": "https://github.com/openssh/openssh-portable.git",
@@ -3304,7 +3304,7 @@
       "source_url": "https://github.com/openssh/openssh-portable.git"
     },
     "openssl": {
-      "checksum": null,
+      "checksum": "sha256:cc0511647987f4bf7c2b5896329630ccfbf5c8a1b284a189108165cf2d210cb8",
       "ref": "rsaref",
       "ref_type": "tag",
       "repo": "https://github.com/openssl/openssl.git",
@@ -3313,7 +3313,7 @@
       "source_url": "https://github.com/openssl/openssl.git"
     },
     "opus": {
-      "checksum": null,
+      "checksum": "sha256:e1a05d55d4cd9cbccc0f5f9f3395c9b395d71ccd1ab505a74dc81ce014bf7e89",
       "ref": "v1.3-1",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/multimedia-team/opus.git",
@@ -3322,7 +3322,7 @@
       "source_url": "https://salsa.debian.org/multimedia-team/opus.git"
     },
     "p11-kit": {
-      "checksum": null,
+      "checksum": "sha256:c2f90da8fc36db2e181626d35784c32a87c019dcfb3238cd0ac3cb51ba2851df",
       "ref": "0.26.5",
       "ref_type": "tag",
       "repo": "https://github.com/p11-glue/p11-kit.git",
@@ -3331,7 +3331,7 @@
       "source_url": "https://github.com/p11-glue/p11-kit.git"
     },
     "packaging": {
-      "checksum": null,
+      "checksum": "sha256:209419891ec85f740c42e5e6f247963411d077d92248e48c5b277b77c2c18140",
       "ref": "26.3",
       "ref_type": "tag",
       "repo": "https://github.com/pypa/packaging.git",
@@ -3340,7 +3340,7 @@
       "source_url": "https://github.com/pypa/packaging.git"
     },
     "pango": {
-      "checksum": null,
+      "checksum": "sha256:73107695f2aa36b95eb34c9b263a716e1f6b38567e5777d3369a4a74d91dcd6f",
       "ref": "1.90",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/pango.git",
@@ -3349,7 +3349,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/pango.git"
     },
     "pangomm": {
-      "checksum": null,
+      "checksum": "sha256:9326c98091c2c900bb0158c0b11653ad9634361f05d0b40ba5b53f745e729bdc",
       "ref": "2.56.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/pangomm.git",
@@ -3358,7 +3358,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/pangomm.git"
     },
     "parse-yapp": {
-      "checksum": null,
+      "checksum": "sha256:a038cd296197f8b1aca42a423c51a5332a26fb1ec600a8ad4fd6d5342990263b",
       "ref": "stable",
       "ref_type": "tag",
       "repo": "https://github.com/gitpan/Parse-Yapp.git",
@@ -3367,7 +3367,7 @@
       "source_url": "https://github.com/gitpan/Parse-Yapp.git"
     },
     "parted": {
-      "checksum": null,
+      "checksum": "sha256:f44ab5c96a596568f8601d1b23030e5db9beadfd2cf5b784fd180c82b4bd3716",
       "ref": "v3.7",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/parted.git",
@@ -3376,7 +3376,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/parted.git"
     },
     "pasta": {
-      "checksum": null,
+      "checksum": "sha256:59f956890740f4dd244b2cda791a2c01586b2b335a0047698327bb08f44eabea",
       "ref": "2026_07_28.f8df3f1",
       "ref_type": "tag",
       "repo": "https://passt.top/passt",
@@ -3385,7 +3385,7 @@
       "source_url": "https://passt.top/passt"
     },
     "patch": {
-      "checksum": null,
+      "checksum": "sha256:4d3251bda07ec2a663ad7b127bdbde7e38ab2686474582747bed07895c7a7e50",
       "ref": "v2.8",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/patch.git",
@@ -3394,7 +3394,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/patch.git"
     },
     "pathspec": {
-      "checksum": null,
+      "checksum": "sha256:5a6227611cf54d08dcbf28883effe1ffc1c0f24863b21b0839190d34956d2b4d",
       "ref": "v1.1.1",
       "ref_type": "tag",
       "repo": "https://github.com/cpburnz/python-pathspec.git",
@@ -3403,7 +3403,7 @@
       "source_url": "https://github.com/cpburnz/python-pathspec.git"
     },
     "pciutils": {
-      "checksum": null,
+      "checksum": "sha256:5a854c72460e7c0e1b57af338f348ac2e334ed7c51bbff6da34dedbd3038cf28",
       "ref": "v3.15.0",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/utils/pciutils/pciutils.git",
@@ -3412,7 +3412,7 @@
       "source_url": "https://git.kernel.org/pub/scm/utils/pciutils/pciutils.git"
     },
     "pcre2": {
-      "checksum": null,
+      "checksum": "sha256:f9d155a2039ba6dc162f93b4043d93ceb3bf21fddf3804c7b89b61f43be39f6a",
       "ref": "pcre2-10.47",
       "ref_type": "tag",
       "repo": "https://github.com/PCRE2Project/pcre2.git",
@@ -3421,7 +3421,7 @@
       "source_url": "https://github.com/PCRE2Project/pcre2.git"
     },
     "perl": {
-      "checksum": null,
+      "checksum": "sha256:e0b0cbb9390d4f334fba1c1ef4b108885e26f8d9a9fc9cf35d116559555cfb3d",
       "ref": "v5.45.2",
       "ref_type": "tag",
       "repo": "https://github.com/Perl/perl5.git",
@@ -3430,7 +3430,7 @@
       "source_url": "https://github.com/Perl/perl5.git"
     },
     "pinentry": {
-      "checksum": null,
+      "checksum": "sha256:a02756de7c45b7db4fbfd6769252d800e78811873d0b7d668e50252f37ab110f",
       "ref": "pinentry-1.3.3",
       "ref_type": "tag",
       "repo": "https://github.com/gpg/pinentry.git",
@@ -3439,7 +3439,7 @@
       "source_url": "https://github.com/gpg/pinentry.git"
     },
     "pipewire": {
-      "checksum": null,
+      "checksum": "sha256:ca25a5bc61fa6950873a3ea88d01586e9d0fdb75f72f74f38c3e1155ac630536",
       "ref": "1.6.8",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/pipewire/pipewire.git",
@@ -3448,7 +3448,7 @@
       "source_url": "https://gitlab.freedesktop.org/pipewire/pipewire.git"
     },
     "pixman": {
-      "checksum": null,
+      "checksum": "sha256:6adc6825584769856aa3ee6e2078811b2c24d59060a467e0c348710ca3cac91c",
       "ref": "pixman-0.9.6",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/pixman/pixman.git",
@@ -3457,7 +3457,7 @@
       "source_url": "https://gitlab.freedesktop.org/pixman/pixman.git"
     },
     "pkgconf": {
-      "checksum": null,
+      "checksum": "sha256:e64fff32d5e3d001214204b624932468df72b3e27a9d49132fae1f4b1b86b252",
       "ref": "pkgconf-3.0.5",
       "ref_type": "tag",
       "repo": "https://github.com/pkgconf/pkgconf.git",
@@ -3466,7 +3466,7 @@
       "source_url": "https://github.com/pkgconf/pkgconf.git"
     },
     "pluggy": {
-      "checksum": null,
+      "checksum": "sha256:b5fbc3fa458663a9a7c00f8b63e31ec32151281b2e0e4113cbea0781b7739086",
       "ref": "1.6.0",
       "ref_type": "tag",
       "repo": "https://github.com/pytest-dev/pluggy.git",
@@ -3475,7 +3475,7 @@
       "source_url": "https://github.com/pytest-dev/pluggy.git"
     },
     "podbx": {
-      "checksum": null,
+      "checksum": "sha256:211867e820e840f34d3b0a50a1deb089f3bcfec7634559e0bd3f090309da43aa",
       "ref": "main",
       "ref_type": "commit",
       "repo": "https://github.com/flucidOS/podbx.git",
@@ -3484,7 +3484,7 @@
       "source_url": "https://github.com/flucidOS/podbx.git"
     },
     "podman": {
-      "checksum": null,
+      "checksum": "sha256:a404525c469fc431459f31612e1be29bc6619663b5d844f279b3db113dfb6595",
       "ref": "v6.1.0",
       "ref_type": "tag",
       "repo": "https://github.com/containers/podman.git",
@@ -3493,7 +3493,7 @@
       "source_url": "https://github.com/containers/podman.git"
     },
     "polkit": {
-      "checksum": null,
+      "checksum": "sha256:5397764f94f02b0ce303c769c8b5f0e8445ce96f355d1efd0f83a39329275278",
       "ref": "124",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/polkit/polkit.git",
@@ -3502,7 +3502,7 @@
       "source_url": "https://gitlab.freedesktop.org/polkit/polkit.git"
     },
     "poppler": {
-      "checksum": null,
+      "checksum": "sha256:359b1e2abb57b51d47e9c8612be575ff899899266bae14cab383e27e8485df6b",
       "ref": "poppler-before-fontconfig",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/poppler/poppler.git",
@@ -3511,7 +3511,7 @@
       "source_url": "https://gitlab.freedesktop.org/poppler/poppler.git"
     },
     "poppler-data": {
-      "checksum": null,
+      "checksum": "sha256:84727f5303d3b29ba1f00d941ab758f3c5c29ad9f2fbc85d8104ebf9f7b60fcb",
       "ref": "start",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/poppler/poppler-data.git",
@@ -3520,7 +3520,7 @@
       "source_url": "https://gitlab.freedesktop.org/poppler/poppler-data.git"
     },
     "popt": {
-      "checksum": null,
+      "checksum": "sha256:4074a2f403b110de65b61fb0dddba4f9441fd77c8e500affd23c5a3185656977",
       "ref": "popt-1_4",
       "ref_type": "tag",
       "repo": "https://github.com/rpm-software-management/popt.git",
@@ -3529,7 +3529,7 @@
       "source_url": "https://github.com/rpm-software-management/popt.git"
     },
     "power-profiles-daemon": {
-      "checksum": null,
+      "checksum": "sha256:d3637be84c7754a302fc2e0419b62bf4b90da0cc127525a15d725b8f5b60db4d",
       "ref": "0.30",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/upower/power-profiles-daemon.git",
@@ -3538,7 +3538,7 @@
       "source_url": "https://gitlab.freedesktop.org/upower/power-profiles-daemon.git"
     },
     "procps-ng": {
-      "checksum": null,
+      "checksum": "sha256:951b8b0e73c539eb21fc4c333abd4be4f3cab198abb8a442b7cb044447467153",
       "ref": "v4.0.7",
       "ref_type": "tag",
       "repo": "https://gitlab.com/procps-ng/procps.git",
@@ -3547,7 +3547,7 @@
       "source_url": "https://gitlab.com/procps-ng/procps.git"
     },
     "protobuf": {
-      "checksum": null,
+      "checksum": "sha256:169a00e1dc0222992b6ff7ee4f824eafbc47c029396fedda1799dcc1c48ffdab",
       "ref": "v36.0",
       "ref_type": "tag",
       "repo": "https://github.com/protocolbuffers/protobuf.git",
@@ -3556,7 +3556,7 @@
       "source_url": "https://github.com/protocolbuffers/protobuf.git"
     },
     "protobuf-c": {
-      "checksum": null,
+      "checksum": "sha256:129c800efd1591b6af650ba76f6471be2808028b08d624c661bfc961f9a7606c",
       "ref": "v1.5.2",
       "ref_type": "tag",
       "repo": "https://github.com/protobuf-c/protobuf-c.git",
@@ -3565,7 +3565,7 @@
       "source_url": "https://github.com/protobuf-c/protobuf-c.git"
     },
     "psmisc": {
-      "checksum": null,
+      "checksum": "sha256:f452edfa6ee38d84820e9042986ba79fb08f44ca63c9962586c31fbd42e1425c",
       "ref": "v23.7",
       "ref_type": "tag",
       "repo": "https://gitlab.com/psmisc/psmisc.git",
@@ -3574,7 +3574,7 @@
       "source_url": "https://gitlab.com/psmisc/psmisc.git"
     },
     "ptyxis": {
-      "checksum": null,
+      "checksum": "sha256:60a4b4bff10d93344afddb9968aff282e833483ca73d6d2d09d15a9ac63193ad",
       "ref": "50.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/chergert/ptyxis.git",
@@ -3583,7 +3583,7 @@
       "source_url": "https://gitlab.gnome.org/chergert/ptyxis.git"
     },
     "pulseaudio": {
-      "checksum": null,
+      "checksum": "sha256:90861574cb7b655560cd67e00f98192777a23d342c7a98894849e84eb10a9b47",
       "ref": "v17.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git",
@@ -3592,7 +3592,7 @@
       "source_url": "https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git"
     },
     "pycairo": {
-      "checksum": null,
+      "checksum": "sha256:3bef2606be8f851b9f61777ba2dd7a4c2e9861b832785dba5ccbd31a8a35b871",
       "ref": "v1.29.1",
       "ref_type": "tag",
       "repo": "https://github.com/pygobject/pycairo.git",
@@ -3601,7 +3601,7 @@
       "source_url": "https://github.com/pygobject/pycairo.git"
     },
     "pygments": {
-      "checksum": null,
+      "checksum": "sha256:9e7ff8886715fefae42b330f71bb93812375a86dd5195cb04c16c1889dd596a8",
       "ref": "2.21.0",
       "ref_type": "tag",
       "repo": "https://github.com/pygments/pygments.git",
@@ -3610,7 +3610,7 @@
       "source_url": "https://github.com/pygments/pygments.git"
     },
     "pygobject": {
-      "checksum": null,
+      "checksum": "sha256:07854f545f7c5cd1dd364ccd11a45822db817f907e829114551f987fef1b3772",
       "ref": "3.57.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/pygobject.git",
@@ -3619,7 +3619,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/pygobject.git"
     },
     "pyparsing": {
-      "checksum": null,
+      "checksum": "sha256:565cdc53cc742dff8d93cd657735a9154445a32cb77ee41c720289997d7dc8f0",
       "ref": "3.3.2",
       "ref_type": "tag",
       "repo": "https://github.com/pyparsing/pyparsing.git",
@@ -3628,7 +3628,7 @@
       "source_url": "https://github.com/pyparsing/pyparsing.git"
     },
     "python": {
-      "checksum": null,
+      "checksum": "sha256:6e05d047c5d4c7684fd783d56ae622f1d2eaf7678255d138851d4ec0a75e5e67",
       "ref": "v3.14.7",
       "ref_type": "tag",
       "repo": "https://github.com/python/cpython.git",
@@ -3637,7 +3637,7 @@
       "source_url": "https://github.com/python/cpython.git"
     },
     "pyyaml": {
-      "checksum": null,
+      "checksum": "sha256:f0dd0c360c09e04bb8577d59e92444c38418e7db60b8b06d7127cb0144263355",
       "ref": "6.0.3",
       "ref_type": "tag",
       "repo": "https://github.com/yaml/pyyaml.git",
@@ -3646,7 +3646,7 @@
       "source_url": "https://github.com/yaml/pyyaml.git"
     },
     "readline": {
-      "checksum": null,
+      "checksum": "sha256:e9739946dc0a08b4850d6cc3e71f66f4c9dc9db79a36a97e99f4a5f592d2977f",
       "ref": "readline-8.3",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/readline.git",
@@ -3655,7 +3655,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/readline.git"
     },
     "rpcsvc-proto": {
-      "checksum": null,
+      "checksum": "sha256:a5ab87d55b9beeab947ee6ed5bd1833a102ec04eccd7791414915591100f4638",
       "ref": "v1.4.4",
       "ref_type": "tag",
       "repo": "https://github.com/thkukuk/rpcsvc-proto.git",
@@ -3664,7 +3664,7 @@
       "source_url": "https://github.com/thkukuk/rpcsvc-proto.git"
     },
     "ruby": {
-      "checksum": null,
+      "checksum": "sha256:d876cfe83864fdcd26032d6023154a69cf3cbf397b03dd178b48d48b826050b6",
       "ref": "v4.0.6",
       "ref_type": "tag",
       "repo": "https://github.com/ruby/ruby.git",
@@ -3673,7 +3673,7 @@
       "source_url": "https://github.com/ruby/ruby.git"
     },
     "rustbindgen": {
-      "checksum": null,
+      "checksum": "sha256:0fc95d723576cabb3151d94a05bc2efd991f79eb321034cda5003997b45b13f5",
       "ref": "v0.72.1",
       "ref_type": "tag",
       "repo": "https://github.com/rust-lang/rust-bindgen.git",
@@ -3682,7 +3682,7 @@
       "source_url": "https://github.com/rust-lang/rust-bindgen.git"
     },
     "rustc": {
-      "checksum": null,
+      "checksum": "sha256:39342b1a07a5b0d91c6989ac82f5a0c4c99a454c3e851c86a478e476219e9b30",
       "ref": "1.98.0",
       "ref_type": "tag",
       "repo": "https://github.com/rust-lang/rust.git",
@@ -3691,7 +3691,7 @@
       "source_url": "https://github.com/rust-lang/rust.git"
     },
     "sassc": {
-      "checksum": null,
+      "checksum": "sha256:7eb92f923db83d2d348db952f43cbeb0e73a2d6a4c8189d64e8658f5f65d0f6a",
       "ref": "3.6.2",
       "ref_type": "tag",
       "repo": "https://github.com/sass/sassc.git",
@@ -3700,7 +3700,7 @@
       "source_url": "https://github.com/sass/sassc.git"
     },
     "sbc": {
-      "checksum": null,
+      "checksum": "sha256:7ee06b7e45857dc897d67f954ecb49525d00bcb3b89e24525b5df557b9cd5100",
       "ref": "2.2",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/bluetooth/sbc.git",
@@ -3709,7 +3709,7 @@
       "source_url": "https://git.kernel.org/pub/scm/bluetooth/sbc.git"
     },
     "sdl2-compat": {
-      "checksum": null,
+      "checksum": "sha256:c26af04b3a37f5df0c755900d0f15b90afdfd37c331a65914bf85aa2d0596db9",
       "ref": "release-2.32.70",
       "ref_type": "tag",
       "repo": "https://github.com/libsdl-org/sdl2-compat.git",
@@ -3718,7 +3718,7 @@
       "source_url": "https://github.com/libsdl-org/sdl2-compat.git"
     },
     "sdl3": {
-      "checksum": null,
+      "checksum": "sha256:10ad3bcfeb9a3efd7245418f920e2234e5c19fa2bf855c3040f5084d752712a1",
       "ref": "release-3.4.8",
       "ref_type": "tag",
       "repo": "https://github.com/libsdl-org/SDL.git",
@@ -3727,7 +3727,7 @@
       "source_url": "https://github.com/libsdl-org/SDL.git"
     },
     "sed": {
-      "checksum": null,
+      "checksum": "sha256:9cce9cc447e84efef0a03cb2fd2d1cbb085911b5ecc6cd8f63424e00a349b2e0",
       "ref": "v4.10",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/sed.git",
@@ -3736,7 +3736,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/sed.git"
     },
     "sessreg": {
-      "checksum": null,
+      "checksum": "sha256:e22d481776709ae6c172ec7ceb627ed144107b27b7ba800e82be787ba1039163",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/sessreg.git",
@@ -3745,7 +3745,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/sessreg.git"
     },
     "setuptools": {
-      "checksum": null,
+      "checksum": "sha256:bc8c12fbad04bfc39d059daed58699c9bf99b6c7e61bd37edde9655e6f3cfc5a",
       "ref": "v84.0.0",
       "ref_type": "tag",
       "repo": "https://github.com/pypa/setuptools.git",
@@ -3754,7 +3754,7 @@
       "source_url": "https://github.com/pypa/setuptools.git"
     },
     "setuptools-scm": {
-      "checksum": null,
+      "checksum": "sha256:ff43d46aaf8acfd8511ae0cb051ad2ed54fc0697bb301dee89086d2bb5ea06e1",
       "ref": "v9.2.2",
       "ref_type": "tag",
       "repo": "https://github.com/pypa/setuptools_scm.git",
@@ -3763,7 +3763,7 @@
       "source_url": "https://github.com/pypa/setuptools_scm.git"
     },
     "setxkbmap": {
-      "checksum": null,
+      "checksum": "sha256:5122dc96686ab7c86ad652428dfe2beebf80523d6470421df06bc745bdc270be",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/setxkbmap.git",
@@ -3772,7 +3772,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/setxkbmap.git"
     },
     "shaderc": {
-      "checksum": null,
+      "checksum": "sha256:15ab093539bd6a937467842a2ac8c42aa02abf7e757ebff7a70a19f254ad1ec0",
       "ref": "v2026.3",
       "ref_type": "tag",
       "repo": "https://github.com/google/shaderc.git",
@@ -3781,7 +3781,7 @@
       "source_url": "https://github.com/google/shaderc.git"
     },
     "shadow": {
-      "checksum": null,
+      "checksum": "sha256:b3c2267df6e1cf03f7c07599fbbf92b4042dbaebb920deadd005f040de55c29b",
       "ref": "20001016",
       "ref_type": "tag",
       "repo": "https://github.com/shadow-maint/shadow.git",
@@ -3790,7 +3790,7 @@
       "source_url": "https://github.com/shadow-maint/shadow.git"
     },
     "shared-mime-info": {
-      "checksum": null,
+      "checksum": "sha256:08dc02544374477b385099168d088d0b9a219fe3c764795794345ff499c4d475",
       "ref": "2.5.1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xdg/shared-mime-info.git",
@@ -3799,7 +3799,7 @@
       "source_url": "https://gitlab.freedesktop.org/xdg/shared-mime-info.git"
     },
     "simdutf": {
-      "checksum": null,
+      "checksum": "sha256:921f8d9e61e67e9a2ddddacb15b714dd2d8f45cce829965953c613a81bc0e8a4",
       "ref": "v9.1.0",
       "ref_type": "tag",
       "repo": "https://github.com/simdutf/simdutf.git",
@@ -3808,7 +3808,7 @@
       "source_url": "https://github.com/simdutf/simdutf.git"
     },
     "slang": {
-      "checksum": null,
+      "checksum": "sha256:f4b92ec3bf00672b1127b0110af695273fb711811c5c96272550cb800130e1e6",
       "ref": "v2.3.3",
       "ref_type": "tag",
       "repo": "git://git.jedsoft.org/git/slang.git",
@@ -3817,7 +3817,7 @@
       "source_url": "git://git.jedsoft.org/git/slang.git"
     },
     "slirp4netns": {
-      "checksum": null,
+      "checksum": "sha256:da844f6241fb00e06d124c39302e5fd4af86fef22e3eadeb41d03b717c6673a2",
       "ref": "v1.3.4",
       "ref_type": "tag",
       "repo": "https://github.com/rootless-containers/slirp4netns.git",
@@ -3826,7 +3826,7 @@
       "source_url": "https://github.com/rootless-containers/slirp4netns.git"
     },
     "smartmontools": {
-      "checksum": null,
+      "checksum": "sha256:f008c00c20b856bf684f3c3bf36d4d818e3ae16850a8edbab310f277b47ddda9",
       "ref": "start",
       "ref_type": "tag",
       "repo": "https://github.com/smartmontools/smartmontools.git",
@@ -3835,7 +3835,7 @@
       "source_url": "https://github.com/smartmontools/smartmontools.git"
     },
     "smproxy": {
-      "checksum": null,
+      "checksum": "sha256:7d62d6fb5a41e2273bc43f65f181c75230dc4431d2b41f8fcf13b4261d732a15",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/smproxy.git",
@@ -3844,7 +3844,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/smproxy.git"
     },
     "socat": {
-      "checksum": null,
+      "checksum": "sha256:6138f0aa9826456cabcc6353f2dc000217bce58b59f7a0245ef1e201ebf89cb9",
       "ref": "tag-2.0.0-b9",
       "ref_type": "tag",
       "repo": "http://repo.or.cz/socat.git",
@@ -3853,7 +3853,7 @@
       "source_url": "http://repo.or.cz/socat.git"
     },
     "sound-theme-freedesktop": {
-      "checksum": null,
+      "checksum": "sha256:611fe6068374133759ba007e5ee811acb7c83f6ebccf93ea64c9578de79439e4",
       "ref": "upstream/0.8",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/gnome-team/sound-theme-freedesktop.git",
@@ -3862,7 +3862,7 @@
       "source_url": "https://salsa.debian.org/gnome-team/sound-theme-freedesktop.git"
     },
     "speex": {
-      "checksum": null,
+      "checksum": "sha256:acaff8cc0717ce78193280ed57c38397d1a19ffe2e539bee0a881c4cd040bc1c",
       "ref": "Speex-1.2.1",
       "ref_type": "tag",
       "repo": "https://github.com/xiph/speex.git",
@@ -3871,7 +3871,7 @@
       "source_url": "https://github.com/xiph/speex.git"
     },
     "spidermonkey": {
-      "checksum": null,
+      "checksum": "sha256:fc64dfdd568d9e287b350de437e131a095c8d2f15a059cbd30cfa0746b1de5ad",
       "ref": "RELEASE_BASE_20140602",
       "ref_type": "tag",
       "repo": "https://github.com/mozilla/gecko-dev.git",
@@ -3880,7 +3880,7 @@
       "source_url": "https://github.com/mozilla/gecko-dev.git"
     },
     "spirv-headers": {
-      "checksum": null,
+      "checksum": "sha256:90a2efe97946c8706da6a3fac2adc27e7502ed0e82cc06cd51dcf239a602a6ef",
       "ref": "v2026.08.0",
       "ref_type": "tag",
       "repo": "https://github.com/KhronosGroup/SPIRV-Headers.git",
@@ -3889,7 +3889,7 @@
       "source_url": "https://github.com/KhronosGroup/SPIRV-Headers.git"
     },
     "spirv-llvm-translator": {
-      "checksum": null,
+      "checksum": "sha256:0e246aaf35d3b76cc1fb5303b949569b20ca4a96f336697c79ab87935e794c66",
       "ref": "v23.1.0",
       "ref_type": "tag",
       "repo": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator.git",
@@ -3898,7 +3898,7 @@
       "source_url": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator.git"
     },
     "spirv-tools": {
-      "checksum": null,
+      "checksum": "sha256:8c2667faccc6116c37e12f1b2846287d42cc949daa2302d9307539601d9cfd16",
       "ref": "v2026.3",
       "ref_type": "tag",
       "repo": "https://github.com/KhronosGroup/SPIRV-Tools.git",
@@ -3907,7 +3907,7 @@
       "source_url": "https://github.com/KhronosGroup/SPIRV-Tools.git"
     },
     "sqlite": {
-      "checksum": null,
+      "checksum": "sha256:24e6780a3c048275abe4d3249f92022d4344c94340d88cadfe714797f8814075",
       "ref": "vesion-3.45.1",
       "ref_type": "tag",
       "repo": "https://github.com/sqlite/sqlite.git",
@@ -3916,7 +3916,7 @@
       "source_url": "https://github.com/sqlite/sqlite.git"
     },
     "sshfs": {
-      "checksum": null,
+      "checksum": "sha256:768a89175b89550f132f73925074a60bed2a45cb081737af25cb6f6163a27a97",
       "ref": "start",
       "ref_type": "tag",
       "repo": "https://github.com/libfuse/sshfs.git",
@@ -3925,7 +3925,7 @@
       "source_url": "https://github.com/libfuse/sshfs.git"
     },
     "startup-notification": {
-      "checksum": null,
+      "checksum": "sha256:95c311e17c1ea3d2a5a600b6a50f61dcc2cae8fe40e40a91557c86495a2d5939",
       "ref": "STARTUP_NOTIFICATION_0_9",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xdg/startup-notification.git",
@@ -3934,7 +3934,7 @@
       "source_url": "https://gitlab.freedesktop.org/xdg/startup-notification.git"
     },
     "sudo": {
-      "checksum": null,
+      "checksum": "sha256:b2f4ccb34b3f43fb4220475dfb6b9bde3c6af78f37214ffcfab5d3b2c7da9f4c",
       "ref": "v1.9.17",
       "ref_type": "tag",
       "repo": "https://github.com/sudo-project/sudo.git",
@@ -3943,7 +3943,7 @@
       "source_url": "https://github.com/sudo-project/sudo.git"
     },
     "svt-av1": {
-      "checksum": null,
+      "checksum": "sha256:eac6e885ed1ef80d1360a1a2bb5e41802d41d2ecffb578dee86fd7a7995dbdfe",
       "ref": "v4.2.0",
       "ref_type": "tag",
       "repo": "https://gitlab.com/AOMediaCodec/SVT-AV1.git",
@@ -3952,7 +3952,7 @@
       "source_url": "https://gitlab.com/AOMediaCodec/SVT-AV1.git"
     },
     "switcheroo-control": {
-      "checksum": null,
+      "checksum": "sha256:9bd8bb796c76dfa4f7eda66252dbb820844428fa4572e5f9f8a072a19036104f",
       "ref": "3.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/hadess/switcheroo-control.git",
@@ -3961,7 +3961,7 @@
       "source_url": "https://gitlab.freedesktop.org/hadess/switcheroo-control.git"
     },
     "systemd": {
-      "checksum": null,
+      "checksum": "sha256:038803c87f2f7e5e8de9ed0ca40b83983646777b8258ab49af4695cf040787a6",
       "ref": "v261.2",
       "ref_type": "tag",
       "repo": "https://github.com/systemd/systemd.git",
@@ -3970,7 +3970,7 @@
       "source_url": "https://github.com/systemd/systemd.git"
     },
     "tar": {
-      "checksum": null,
+      "checksum": "sha256:8e7062b659454e9389efc8ddaf96ebcd4344c183a8860897e5cb099b9b3c875f",
       "ref": "v1.35",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/tar.git",
@@ -3979,7 +3979,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/tar.git"
     },
     "tcl": {
-      "checksum": null,
+      "checksum": "sha256:62566159c0d1d7a2dfab1fcb09e2567cd0ee165ae35f5ccf539b4a7ebdea935d",
       "ref": "tip607-encoding-failindex",
       "ref_type": "tag",
       "repo": "https://github.com/tcltk/tcl.git",
@@ -3988,7 +3988,7 @@
       "source_url": "https://github.com/tcltk/tcl.git"
     },
     "tecla": {
-      "checksum": null,
+      "checksum": "sha256:30159c3c9944f933c31d149b3002e8cf7dc9ce33d953f2a8369f7609023c021e",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/tecla.git",
@@ -3997,7 +3997,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/tecla.git"
     },
     "texinfo": {
-      "checksum": null,
+      "checksum": "sha256:5116b66d056d6eeef86832e25aa120e4326b4b0bbcafe88ce5cb4e0dd86c9609",
       "ref": "texinfo-7.3",
       "ref_type": "tag",
       "repo": "https://https.git.savannah.gnu.org/git/texinfo.git",
@@ -4006,7 +4006,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/texinfo.git"
     },
     "tiff": {
-      "checksum": null,
+      "checksum": "sha256:775605f57485c89361be6a5bd103999bc962f9604e4afe9326174d37da8ed518",
       "ref": "v4.7.2",
       "ref_type": "tag",
       "repo": "https://gitlab.com/libtiff/libtiff.git",
@@ -4015,7 +4015,7 @@
       "source_url": "https://gitlab.com/libtiff/libtiff.git"
     },
     "tinysparql": {
-      "checksum": null,
+      "checksum": "sha256:31e23892f83cba7e2867653130ca88abee68a112a7bf84c1a445772e45f14b58",
       "ref": "3.11.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/tinysparql.git",
@@ -4024,7 +4024,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/tinysparql.git"
     },
     "totem-pl-parser": {
-      "checksum": null,
+      "checksum": "sha256:236629e9f443f68a2d952daf02f5dd6af98a96102e921934c012595f3bbbe487",
       "ref": "3.26.7",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/totem-pl-parser.git",
@@ -4033,7 +4033,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/totem-pl-parser.git"
     },
     "trove-classifiers": {
-      "checksum": null,
+      "checksum": "sha256:b062548ef18d8084d4a706e25410e4cea08603af15b7399713798129149f4b60",
       "ref": "2026.6.1.19",
       "ref_type": "tag",
       "repo": "https://github.com/pypa/trove-classifiers.git",
@@ -4042,7 +4042,7 @@
       "source_url": "https://github.com/pypa/trove-classifiers.git"
     },
     "udisks": {
-      "checksum": null,
+      "checksum": "sha256:9eb9f4d9d0ccb05ec48d1523961d0a8751cb270f1c6614bb3fec6334dca2d867",
       "ref": "udisks-2.9.4",
       "ref_type": "tag",
       "repo": "https://github.com/storaged-project/udisks.git",
@@ -4051,7 +4051,7 @@
       "source_url": "https://github.com/storaged-project/udisks.git"
     },
     "unifdef": {
-      "checksum": null,
+      "checksum": "sha256:b0e86de0a0a771e708e0c02a524234d000d4327cf7a09770423381def3c863ab",
       "ref": "unifdef-2.9",
       "ref_type": "tag",
       "repo": "https://github.com/fanf2/unifdef.git",
@@ -4060,7 +4060,7 @@
       "source_url": "https://github.com/fanf2/unifdef.git"
     },
     "upower": {
-      "checksum": null,
+      "checksum": "sha256:fb27c391547d24616981b737875238499dc6add94dbc4d7060b4284461c0a171",
       "ref": "v1.91.3",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/upower/upower.git",
@@ -4069,7 +4069,7 @@
       "source_url": "https://gitlab.freedesktop.org/upower/upower.git"
     },
     "util-linux": {
-      "checksum": null,
+      "checksum": "sha256:068de82747d3d9c4edff28279555dcc0cc315207a469dbeb9c6ec53186807cbc",
       "ref": "v2.42.2",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git",
@@ -4078,7 +4078,7 @@
       "source_url": "https://git.kernel.org/pub/scm/utils/util-linux/util-linux.git"
     },
     "util-macros": {
-      "checksum": null,
+      "checksum": "sha256:1c69056c0ba911755edb429cd995640208f9155f659711bc30fa158a27082662",
       "ref": "util-macros-1_0_2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/util/macros.git",
@@ -4087,7 +4087,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/util/macros.git"
     },
     "v4l-utils": {
-      "checksum": null,
+      "checksum": "sha256:c3f129724e001159b6704a4dfdbd4c0e1add2f51eb04983787d5a58b77124639",
       "ref": "v4l-utils-1.8.1",
       "ref_type": "tag",
       "repo": "https://github.com/Distrotech/v4l-utils.git",
@@ -4096,7 +4096,7 @@
       "source_url": "https://github.com/Distrotech/v4l-utils.git"
     },
     "vala": {
-      "checksum": null,
+      "checksum": "sha256:e3be4cc9fb71ed2b796dcb427b18c4ef597e127e2a081a0e06dfeb2df45a840b",
       "ref": "0.57.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/vala.git",
@@ -4114,7 +4114,7 @@
       "source_url": "https://github.com/vim/vim.git"
     },
     "vte": {
-      "checksum": null,
+      "checksum": "sha256:e98d1f120bcd3218057dd8678d0c4a62f89e0f244951d02abbb245ef9a23044e",
       "ref": "0.84.1",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/vte.git",
@@ -4123,7 +4123,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/vte.git"
     },
     "vulkan-headers": {
-      "checksum": null,
+      "checksum": "sha256:6ec63934b36b7c6470fa19a0ec2768f88f1b91e86f622de1654cd296cebadb77",
       "ref": "v1.4.360",
       "ref_type": "tag",
       "repo": "https://github.com/KhronosGroup/Vulkan-Headers.git",
@@ -4132,7 +4132,7 @@
       "source_url": "https://github.com/KhronosGroup/Vulkan-Headers.git"
     },
     "vulkan-loader": {
-      "checksum": null,
+      "checksum": "sha256:2eaa339912afac9e8eb6a9626e7a3b9995423ab21dace2561b9cca90a82f92f3",
       "ref": "v1.4.360",
       "ref_type": "tag",
       "repo": "https://github.com/KhronosGroup/Vulkan-Loader.git",
@@ -4141,7 +4141,7 @@
       "source_url": "https://github.com/KhronosGroup/Vulkan-Loader.git"
     },
     "wayland": {
-      "checksum": null,
+      "checksum": "sha256:e2b661544594f9b75e2826b736bcaaf2bac8dd4a988cbb896220c37f4066faf0",
       "ref": "1.26.0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/wayland/wayland.git",
@@ -4150,7 +4150,7 @@
       "source_url": "https://gitlab.freedesktop.org/wayland/wayland.git"
     },
     "wayland-protocols": {
-      "checksum": null,
+      "checksum": "sha256:560ce814dd24848ae9936b483005a6491b31e14be1976967cbf1b971ea4fdd75",
       "ref": "1.49",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/wayland/wayland-protocols.git",
@@ -4159,7 +4159,7 @@
       "source_url": "https://gitlab.freedesktop.org/wayland/wayland-protocols.git"
     },
     "webkitgtk": {
-      "checksum": null,
+      "checksum": "sha256:b33a9ef683bb77394b2778cd0b4216ffe1b3999ea5c1bddb949471ed314745dc",
       "ref": "wpewebkit-2.53.90",
       "ref_type": "tag",
       "repo": "https://github.com/WebKit/WebKit.git",
@@ -4168,7 +4168,7 @@
       "source_url": "https://github.com/WebKit/WebKit.git"
     },
     "wget": {
-      "checksum": null,
+      "checksum": "sha256:8e9006fa6d52f900971c29cf926b33961f81c5d764dc94751b5dace3a17c2eb1",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/jnothman/wget.git",
@@ -4177,7 +4177,7 @@
       "source_url": "https://github.com/jnothman/wget.git"
     },
     "wheel": {
-      "checksum": null,
+      "checksum": "sha256:e03a6fe087aa0af64798168d38b32997a33dd77123d42371dccc490576838bef",
       "ref": "0.48.0",
       "ref_type": "tag",
       "repo": "https://github.com/pypa/wheel.git",
@@ -4186,7 +4186,7 @@
       "source_url": "https://github.com/pypa/wheel.git"
     },
     "which": {
-      "checksum": null,
+      "checksum": "sha256:158c6227968fac476f038a1b7fb83663bb8f5b348fa24b6c25709421f7bf4ab4",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://https.git.savannah.gnu.org/git/which.git",
@@ -4195,7 +4195,7 @@
       "source_url": "https://https.git.savannah.gnu.org/git/which.git"
     },
     "wireplumber": {
-      "checksum": null,
+      "checksum": "sha256:9b1138ffd9e0580bcb798aa82f948bfaf6c309d87da217517ff764d5300a740c",
       "ref": "0.5.15",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/pipewire/wireplumber.git",
@@ -4204,7 +4204,7 @@
       "source_url": "https://gitlab.freedesktop.org/pipewire/wireplumber.git"
     },
     "wpa-supplicant": {
-      "checksum": null,
+      "checksum": "sha256:074df77953a9d7c4042305b40d6a494b9d48809c2dee67486bd83c5aaf29edef",
       "ref": "upstream/2.9.0+git20211116+0b853303ae31",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/debian/wpa.git",
@@ -4213,7 +4213,7 @@
       "source_url": "https://salsa.debian.org/debian/wpa.git"
     },
     "x264": {
-      "checksum": null,
+      "checksum": "sha256:9135aaf9f834980b065b54e6123ad9c604b5ba8cec0fec4bf7c11bd51a8687a6",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://code.videolan.org/videolan/x264.git",
@@ -4222,7 +4222,7 @@
       "source_url": "https://code.videolan.org/videolan/x264.git"
     },
     "x265": {
-      "checksum": null,
+      "checksum": "sha256:2322d3c87162f57558e2966c9add3a23f67a807c3832f5c786e44f0c036cf1a3",
       "ref": "4.2",
       "ref_type": "tag",
       "repo": "https://bitbucket.org/multicoreware/x265_git.git",
@@ -4231,7 +4231,7 @@
       "source_url": "https://bitbucket.org/multicoreware/x265_git.git"
     },
     "xauth": {
-      "checksum": null,
+      "checksum": "sha256:92fd281feebc4060932a27e8c8aa0a1e48b1c10884af8c052c6c9ac48318c371",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xauth.git",
@@ -4240,7 +4240,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xauth.git"
     },
     "xcb-proto": {
-      "checksum": null,
+      "checksum": "sha256:afe64d517e7747d77cc1d64fedd7f202120b9f371c713c20030e0d0c893db902",
       "ref": "1.12",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/proto/xcbproto.git",
@@ -4249,7 +4249,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/proto/xcbproto.git"
     },
     "xcb-util": {
-      "checksum": null,
+      "checksum": "sha256:a0b61317dbfadbc55098101d7dc618114dfc3fe3b7705de7f3da8cb80c620d80",
       "ref": "0.3.9",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util.git",
@@ -4258,7 +4258,7 @@
       "source_url": "https://salsa.debian.org/xorg-team/lib/xcb-util.git"
     },
     "xcb-util-cursor": {
-      "checksum": null,
+      "checksum": "sha256:8a6f1b0af11e4e4f897ac8d0d66a3a6e9739e085e193ba96437ac34a66d776d7",
       "ref": "upstream/0.1.6",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/debian/xcb-util-cursor.git",
@@ -4267,7 +4267,7 @@
       "source_url": "https://salsa.debian.org/debian/xcb-util-cursor.git"
     },
     "xcb-util-errors": {
-      "checksum": null,
+      "checksum": "sha256:b39cc0e3ef0c32f192ce6c5e935eea358f9a0b552faf7cafc309f6826be42611",
       "ref": "upstream/1.0.1",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-errors.git",
@@ -4276,7 +4276,7 @@
       "source_url": "https://salsa.debian.org/xorg-team/lib/xcb-util-errors.git"
     },
     "xcb-util-image": {
-      "checksum": null,
+      "checksum": "sha256:164611c0df1761c4a5730a41fde88dcc4217cc2c7d9d18ce68b41fa0117d0a33",
       "ref": "0.4.0",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-image.git",
@@ -4285,7 +4285,7 @@
       "source_url": "https://salsa.debian.org/xorg-team/lib/xcb-util-image.git"
     },
     "xcb-util-keysums": {
-      "checksum": null,
+      "checksum": "sha256:8249f7cb7a101f88a8c69203c26111e48d80b35613e88311aac4408d9db4d190",
       "ref": "0.4.0",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-keysyms.git",
@@ -4294,7 +4294,7 @@
       "source_url": "https://salsa.debian.org/xorg-team/lib/xcb-util-keysyms.git"
     },
     "xcb-util-renderutil": {
-      "checksum": null,
+      "checksum": "sha256:09c0176881e2d3a8b05b66126417a6d248ffb5b814b578c04e3484e8298c7690",
       "ref": "0.3.9",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-renderutil.git",
@@ -4303,7 +4303,7 @@
       "source_url": "https://salsa.debian.org/xorg-team/lib/xcb-util-renderutil.git"
     },
     "xcb-util-wm": {
-      "checksum": null,
+      "checksum": "sha256:68f02159c67ac579bdeedbf134454957751dd7ad34b9181b3044afd5696f9c7e",
       "ref": "0.4.1",
       "ref_type": "tag",
       "repo": "https://salsa.debian.org/xorg-team/lib/xcb-util-wm.git",
@@ -4312,7 +4312,7 @@
       "source_url": "https://salsa.debian.org/xorg-team/lib/xcb-util-wm.git"
     },
     "xcmsdb": {
-      "checksum": null,
+      "checksum": "sha256:17cff3961d0f32cfd79035f4961689e17ff37ece74c94bf1d064c13243ea575c",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xcmsdb.git",
@@ -4321,7 +4321,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xcmsdb.git"
     },
     "xcursor-themes": {
-      "checksum": null,
+      "checksum": "sha256:283812701c7af9793b91ac152e500527814ac75c5f96cdbf8fbc78c8673f588a",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/data/cursors.git",
@@ -4330,7 +4330,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/data/cursors.git"
     },
     "xcursorgen": {
-      "checksum": null,
+      "checksum": "sha256:41980c38629cd67397a91ac629b251952cc8ced6d05130fbeae24632a951e677",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xcursorgen.git",
@@ -4339,7 +4339,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xcursorgen.git"
     },
     "xdg-dbus-proxy": {
-      "checksum": null,
+      "checksum": "sha256:46d3a2ef707fbf93e52aa1255a2b2b68e3fda2e1ba4058fc50a1d8b42ee299a9",
       "ref": "0.1.8",
       "ref_type": "tag",
       "repo": "https://github.com/flatpak/xdg-dbus-proxy.git",
@@ -4348,7 +4348,7 @@
       "source_url": "https://github.com/flatpak/xdg-dbus-proxy.git"
     },
     "xdg-desktop-portal": {
-      "checksum": null,
+      "checksum": "sha256:41fe83f85f89b0795f419d70c1043a5cb29d1a8818330e991b21763de9c6b699",
       "ref": "1.22.1",
       "ref_type": "tag",
       "repo": "https://github.com/flatpak/xdg-desktop-portal.git",
@@ -4357,7 +4357,7 @@
       "source_url": "https://github.com/flatpak/xdg-desktop-portal.git"
     },
     "xdg-desktop-portal-gnome": {
-      "checksum": null,
+      "checksum": "sha256:9dd28c1f184455ebd25c201eea0b857bff0320e2f09c38686acebb4cad293d5c",
       "ref": "50.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome.git",
@@ -4366,7 +4366,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome.git"
     },
     "xdg-desktop-portal-gtk": {
-      "checksum": null,
+      "checksum": "sha256:d82e49c201a06f2767a498427f3c36f0162c5ff594b833ac39c249748b3e5695",
       "ref": "1.15.3",
       "ref_type": "tag",
       "repo": "https://github.com/flatpak/xdg-desktop-portal-gtk.git",
@@ -4375,7 +4375,7 @@
       "source_url": "https://github.com/flatpak/xdg-desktop-portal-gtk.git"
     },
     "xdg-usr-dirs": {
-      "checksum": null,
+      "checksum": "sha256:b78c5a8c989667b2b40082e53732e9d948264f094632854875f692b826bf4b86",
       "ref": "v0.20",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xdg/xdg-user-dirs.git",
@@ -4384,7 +4384,7 @@
       "source_url": "https://gitlab.freedesktop.org/xdg/xdg-user-dirs.git"
     },
     "xdg-utils": {
-      "checksum": null,
+      "checksum": "sha256:7733a4c64c18e186db839689b4a5392642b6a488528ffc0b5c96759749b1c9ae",
       "ref": "v1.2.1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xdg/xdg-utils.git",
@@ -4393,7 +4393,7 @@
       "source_url": "https://gitlab.freedesktop.org/xdg/xdg-utils.git"
     },
     "xdpyinfo": {
-      "checksum": null,
+      "checksum": "sha256:251b5c963f5be6fc8562a12dc2165a3b017646befaa136fa22898311dbafad87",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xdpyinfo.git",
@@ -4402,7 +4402,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xdpyinfo.git"
     },
     "xdriinfo": {
-      "checksum": null,
+      "checksum": "sha256:4be93a279d0a357044c1514f0d7abe91ea497fd4a5ae740d84e5c471ee1fc276",
       "ref": "xdriinfo-1_0_1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xdriinfo.git",
@@ -4411,7 +4411,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xdriinfo.git"
     },
     "xev": {
-      "checksum": null,
+      "checksum": "sha256:e17d8ec8489467a27136a23263f441d60434ad27dfeea21ac7ad13280676da0e",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xev.git",
@@ -4420,7 +4420,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xev.git"
     },
     "xfsprogs": {
-      "checksum": null,
+      "checksum": "sha256:56177faffa22762a430e145a2b9ef7102963de79a492c2e0d706cafed26f8e34",
       "ref": "v7.1.1",
       "ref_type": "tag",
       "repo": "https://git.kernel.org/pub/scm/fs/xfs/xfsprogs-dev.git",
@@ -4429,7 +4429,7 @@
       "source_url": "https://git.kernel.org/pub/scm/fs/xfs/xfsprogs-dev.git"
     },
     "xgamma": {
-      "checksum": null,
+      "checksum": "sha256:6dbd1204c75a5956a1329f4e7d4c8a6924cf62472ce0008be61f660f86d06fde",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xgamma.git",
@@ -4438,7 +4438,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xgamma.git"
     },
     "xhost": {
-      "checksum": null,
+      "checksum": "sha256:ce199a0352b3d305de379077a91fa51f325ae283e9c74254c3bd1626d02905e6",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xhost.git",
@@ -4447,7 +4447,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xhost.git"
     },
     "xinput": {
-      "checksum": null,
+      "checksum": "sha256:1e5663b4060356d6408113fab40dd5732c0c588746ddfa0e1a2041acc982a99b",
       "ref": "xinput-1.6.4",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xinput.git",
@@ -4456,7 +4456,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xinput.git"
     },
     "xkbcomp": {
-      "checksum": null,
+      "checksum": "sha256:c55366e0c19226f037f42b254c612c4dc0af0cb42f4a18668c117e7a56a1e033",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xkbcomp.git",
@@ -4465,7 +4465,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xkbcomp.git"
     },
     "xkbevd": {
-      "checksum": null,
+      "checksum": "sha256:4c2cb9f0689361042d7656dbb7a31f48ec50a5d4949b4aef2f8a8282cc582172",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xkbevd.git",
@@ -4474,7 +4474,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xkbevd.git"
     },
     "xkbutils": {
-      "checksum": null,
+      "checksum": "sha256:cb27691c6dd4ba877cf21ee0388bea41aeaa20b32ea6a6fe0f563880c53dfe3a",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xkbutils.git",
@@ -4483,7 +4483,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xkbutils.git"
     },
     "xkeyboard-config": {
-      "checksum": null,
+      "checksum": "sha256:20e66c9cd7966e0b62be09ceca1a9584d3d6d5c974827452c174e183bdb76ec6",
       "ref": "xkeyboard-config-2.9",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config.git",
@@ -4492,7 +4492,7 @@
       "source_url": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config.git"
     },
     "xkill": {
-      "checksum": null,
+      "checksum": "sha256:f37738a2c6819111ae0f2cb0b1938b2f25319ff82bbd8fbcfcba6b1e60d7ed43",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xkill.git",
@@ -4501,7 +4501,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xkill.git"
     },
     "xlsatoms": {
-      "checksum": null,
+      "checksum": "sha256:2de9aead698a201e4375d1eb4859df0cb696d6a542d6f95b01a0650cd4039b6b",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xlsatoms.git",
@@ -4510,7 +4510,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xlsatoms.git"
     },
     "xlsclients": {
-      "checksum": null,
+      "checksum": "sha256:3ae62b3a0c593b4c93c763d7d26909ef4b86c6a021e5c2e7e25c4c152ede4a2d",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xlsclients.git",
@@ -4519,7 +4519,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xlsclients.git"
     },
     "xmessage": {
-      "checksum": null,
+      "checksum": "sha256:c17f1d99ce260a7c42fc112701d843dc72d3caaa679639776de7e9eb1cf159e3",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xmessage.git",
@@ -4528,7 +4528,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xmessage.git"
     },
     "xml-parser": {
-      "checksum": null,
+      "checksum": "sha256:847437b7a6f8a0028926f6d84e8714c0f5bad5748126a0c473fe5651d85ce231",
       "ref": "2.59",
       "ref_type": "tag",
       "repo": "https://github.com/toddr/XML-Parser.git",
@@ -4537,7 +4537,7 @@
       "source_url": "https://github.com/toddr/XML-Parser.git"
     },
     "xml-simple": {
-      "checksum": null,
+      "checksum": "sha256:00b5d4a8dc28386e705b2bc95c22eeb49cbb0eb4f029434b635871d216b1c3df",
       "ref": "v2.25",
       "ref_type": "tag",
       "repo": "https://github.com/grantm/XML-Simple.git",
@@ -4546,7 +4546,7 @@
       "source_url": "https://github.com/grantm/XML-Simple.git"
     },
     "xmlto": {
-      "checksum": null,
+      "checksum": "sha256:b55ca9e01800d1a39e43bb78ae632f423841d68d8f01e8d80ef457ad45cfbaac",
       "ref": "master",
       "ref_type": "commit",
       "repo": "https://github.com/deepin-community/xmlto.git",
@@ -4555,7 +4555,7 @@
       "source_url": "https://github.com/deepin-community/xmlto.git"
     },
     "xmodmap": {
-      "checksum": null,
+      "checksum": "sha256:e36300c25dc22ecc3722ca2f114122b67a0780f31ed7f401909b5de4eb1dac36",
       "ref": "xo-6_7_0",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xmodmap.git",
@@ -4564,7 +4564,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xmodmap.git"
     },
     "xorgproto": {
-      "checksum": null,
+      "checksum": "sha256:581344834d5b0f0d1803f674d4a5b1154dc33377330cec150545836d5518a16e",
       "ref": "xorgproto-2025.1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/proto/xorgproto.git",
@@ -4573,7 +4573,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/proto/xorgproto.git"
     },
     "xpr": {
-      "checksum": null,
+      "checksum": "sha256:71e2a22bf0c849d922b5961d3594a27714df1e9af258273ce27b442d177ca13a",
       "ref": "xpr-1.2.1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xpr.git",
@@ -4582,7 +4582,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xpr.git"
     },
     "xprop": {
-      "checksum": null,
+      "checksum": "sha256:a80bd3d22af5205ac53d0b7c0e0773a97451c0587e79f73f842708dcdacc00ca",
       "ref": "xprop-1.2.8",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xprop.git",
@@ -4591,7 +4591,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xprop.git"
     },
     "xrandr": {
-      "checksum": null,
+      "checksum": "sha256:576165bc8926ad28c40b40a094db9877fd562fe672d40530c9bb8db3a53fcbae",
       "ref": "xrandr-1_0_2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xrandr.git",
@@ -4600,7 +4600,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xrandr.git"
     },
     "xrdb": {
-      "checksum": null,
+      "checksum": "sha256:a34bacabea63489498dab38b9c0bae122ea677202f1b0b44f66f3e8c38bb0e32",
       "ref": "xrdb-1_0_2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xrdb.git",
@@ -4609,7 +4609,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xrdb.git"
     },
     "xrefresh": {
-      "checksum": null,
+      "checksum": "sha256:2ee9b7832c863b0b1298d57402f43bc2839ba59b3ce3c4cf9213106662632bc2",
       "ref": "xrefresh-1_0_2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xrefresh.git",
@@ -4618,7 +4618,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xrefresh.git"
     },
     "xset": {
-      "checksum": null,
+      "checksum": "sha256:e4806d1352fe7fdf0b7a284f9fa8bf4bf5e6902e827d2110f63d3b89041f1e3a",
       "ref": "xset-1_0_2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xset.git",
@@ -4627,7 +4627,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xset.git"
     },
     "xsetroot": {
-      "checksum": null,
+      "checksum": "sha256:ea22f1e0625ea80b99def64ac7d64e391b0a665192b6393a4420dca2793b9f4f",
       "ref": "xsetroot-1.1.4",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xsetroot.git",
@@ -4636,7 +4636,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xsetroot.git"
     },
     "xtrans": {
-      "checksum": null,
+      "checksum": "sha256:2196ba2a538f803c1c1794db32aa882a8b3f0d0612e3fabd4d091173992f284d",
       "ref": "xtrans-1_0_1",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/lib/libxtrans.git",
@@ -4645,7 +4645,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/lib/libxtrans.git"
     },
     "xvinfo": {
-      "checksum": null,
+      "checksum": "sha256:4c302dfba96d1d26407f84b7779dad73bcaa33b3650face588d9fba1e3c4959e",
       "ref": "xvinfo-1.1.6",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xvinfo.git",
@@ -4654,7 +4654,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xvinfo.git"
     },
     "xwayland": {
-      "checksum": null,
+      "checksum": "sha256:b7d38333135dcdb250fb14398e0409bb640909a5342bbfabfeb77e7551b71c81",
       "ref": "xwayland-26.0.99.901",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/xserver.git",
@@ -4663,7 +4663,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/xserver.git"
     },
     "xwd": {
-      "checksum": null,
+      "checksum": "sha256:b9ceffced9f018fe52184576b041b1dc3d6a333279f35cc95476b2a3b5ff84de",
       "ref": "xwd-1.0.9",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xwd.git",
@@ -4672,7 +4672,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xwd.git"
     },
     "xwininfo": {
-      "checksum": null,
+      "checksum": "sha256:94a52e6ec12523b63a4805361404d46b8029366b04b4d3eaf2ee0de9bb16d5ee",
       "ref": "xwininfo-1_0_2",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xwininfo.git",
@@ -4681,7 +4681,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xwininfo.git"
     },
     "xwud": {
-      "checksum": null,
+      "checksum": "sha256:637d1a4eb9c211a1c12a93a5e25f23c0ba00ce23624c72b7593316e6d3b92b1c",
       "ref": "xwud-1.0.8",
       "ref_type": "tag",
       "repo": "https://gitlab.freedesktop.org/xorg/app/xwud.git",
@@ -4690,7 +4690,7 @@
       "source_url": "https://gitlab.freedesktop.org/xorg/app/xwud.git"
     },
     "xz": {
-      "checksum": null,
+      "checksum": "sha256:da32a7878fb4b9889ced7c92f3613677a960c68c09689c5b4bb71b9dd4f8b2e2",
       "ref": "v5.8.3",
       "ref_type": "tag",
       "repo": "https://git.tukaani.org/xz.git",
@@ -4699,7 +4699,7 @@
       "source_url": "https://git.tukaani.org/xz.git"
     },
     "yelp": {
-      "checksum": null,
+      "checksum": "sha256:177e92f45d65c8a5992bd940212cf109028bdf7d4eabb00705bb6cf40a3f34ff",
       "ref": "49.2",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/yelp.git",
@@ -4708,7 +4708,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/yelp.git"
     },
     "yelp-xsl": {
-      "checksum": null,
+      "checksum": "sha256:e9bb3e3a5255578a91e0824b82f670bfff58e694e8ed9760150d4d911d6ddf32",
       "ref": "49.0",
       "ref_type": "tag",
       "repo": "https://gitlab.gnome.org/GNOME/yelp-xsl.git",
@@ -4717,7 +4717,7 @@
       "source_url": "https://gitlab.gnome.org/GNOME/yelp-xsl.git"
     },
     "zlib": {
-      "checksum": null,
+      "checksum": "sha256:e03ba9802314e31f2de3a01ac2754d9d6334c48df62a6d475ba130284175899c",
       "ref": "v1.3.2",
       "ref_type": "tag",
       "repo": "https://github.com/madler/zlib.git",
@@ -4726,7 +4726,7 @@
       "source_url": "https://github.com/madler/zlib.git"
     },
     "zstd": {
-      "checksum": null,
+      "checksum": "sha256:68e3db4ccabb10dccde7da2eaa68151ec5be4ea26f81890b682f245d7e09dfce",
       "ref": "v1.5.7",
       "ref_type": "tag",
       "repo": "https://github.com/facebook/zstd.git",
