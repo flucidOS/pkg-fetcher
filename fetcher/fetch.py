@@ -164,24 +164,45 @@ class Fetcher:
 
         try:
             source_url = lock_entry.source_url or lock_entry.repo
-            with self.throttle.acquire(source_url):
-                Git.fetch_pinned(source_url, lock_entry.ref, lock_entry.ref_type, repo_dir)
+            
+            # --- THE CHEAP LOCAL CHECK ---
+            needs_fetch = True
+            if repo_dir.exists() and lock_entry.checksum:
+                try:
+                    # If the folder exists, check if its contents perfectly match our lockfile
+                    current_checksum = Checksum.hash_tree(repo_dir)
+                    if current_checksum == lock_entry.checksum:
+                        needs_fetch = False
+                except Exception:
+                    pass  # If hashing fails for any reason, default to fetching
+            
+            # --- THE EXPENSIVE FETCH (Only runs if needed) ---
+            if needs_fetch:
+                with self.throttle.acquire(source_url):
+                    Git.fetch_pinned(source_url, lock_entry.ref, lock_entry.ref_type, repo_dir)
 
-            checksum = Checksum.hash_tree(repo_dir)
+                checksum = Checksum.hash_tree(repo_dir)
 
-            if lock_entry.checksum and checksum != lock_entry.checksum:
-                result.status = STATUS_FAILED
-                result.reason = f"checksum mismatch: expected {lock_entry.checksum}, got {checksum}"
-                logger.error(f"{log_prefix} {result.reason}")
-            else:
-                if not lock_entry.checksum:
-                    lock_entry.checksum = checksum
-                    self.lockfile.set(lock_entry)
-                    self.lockfile.save()
-                result.status = STATUS_OK
-                result.reason = None
-                result.last_sync = result.last_try
-                logger.info(f"{log_prefix} OK - {lock_entry.ref_type}:{lock_entry.ref}")
+                if lock_entry.checksum and checksum != lock_entry.checksum:
+                    result.status = STATUS_FAILED
+                    result.reason = f"checksum mismatch: expected {lock_entry.checksum}, got {checksum}"
+                    logger.error(f"{log_prefix} {result.reason}")
+                    self.registry.update(result)
+                    self.registry.save()
+                    return result
+                else:
+                    if not lock_entry.checksum:
+                        lock_entry.checksum = checksum
+                        self.lockfile.set(lock_entry)
+                        self.lockfile.save()
+
+            # --- SUCCESS ---
+            result.status = STATUS_OK
+            result.reason = None
+            result.last_sync = result.last_try
+            
+            action = "FETCHED" if needs_fetch else "CACHED"
+            logger.info(f"{log_prefix} OK ({action}) - {lock_entry.ref_type}:{lock_entry.ref}")
 
         except subprocess.CalledProcessError as e:
             result.status = STATUS_FAILED

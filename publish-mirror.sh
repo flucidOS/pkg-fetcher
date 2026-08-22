@@ -1,50 +1,60 @@
 #!/bin/bash
 set -e
 
-# Path to your offline sources inside pkg-fetcher
 PKG_SRC_DIR="pkg-src"
-# Your new empty GitHub repository URL
 REPO_URL="https://github.com/flucidOS/pkg-src.git"
 
 echo "========================================"
-echo "Preparing pkg-src mirror update..."
+echo "Preparing Micro-Chunked Mirror Update..."
 echo "========================================"
 
 if [ ! -d "$PKG_SRC_DIR" ]; then
-    echo "Error: '$PKG_SRC_DIR' directory not found. Run './flfetch sync' first."
+    echo "Error: '$PKG_SRC_DIR' not found."
     exit 1
 fi
 
 cd "$PKG_SRC_DIR"
 
-# 1. Initialize the root Git repository if it doesn't exist
 if [ ! -d ".git" ]; then
     git init
     git checkout -b main
     git remote add origin "$REPO_URL"
 fi
 
-# 2. Scrub nested submodules safely (mindepth 2 protects the root .git folder)
 echo "Scrubbing nested upstream .git folders..."
 find . -mindepth 2 -name ".git" -type d -prune -exec rm -rf '{}' +
 
-# 3. Chunked Upload: Add, commit, and push category by category
-echo "Starting chunked upload to prevent HTTP 500 timeouts..."
-for category in */ ; do
-    cat_name="${category%/}"
+echo "Starting package-by-package upload..."
+
+# Iterate through every single package directory (2 levels deep)
+for pkg in */*/ ; do
+    pkg_name="${pkg%/}"
     
-    echo "-> Staging $cat_name..."
-    git add "$category"
+    echo "-> Staging $pkg_name..."
+    git add "$pkg"
     
     if ! git diff --cached --quiet; then
-        git commit -m "Automated mirror sync: $cat_name - $(date -u +%Y-%m-%d)"
+        git commit -m "Automated mirror sync: $pkg_name - $(date -u +%Y-%m-%d)"
         
-        echo "-> Pushing $cat_name to GitHub..."
-        git push -u origin main
-    else
-        echo "-> No changes in $cat_name, skipping."
+        echo "-> Pushing $pkg_name..."
+        # Wrap the push in a retry loop in case GitHub drops a connection
+        n=0
+        until [ "$n" -ge 3 ]
+        do
+           git push -u origin main && break
+           n=$((n+1))
+           echo "Push failed, retrying ($n/3) in 5 seconds..."
+           sleep 5
+        done
     fi
 done
+
+# Catch any straggling files in the root
+git add .
+if ! git diff --cached --quiet; then
+    git commit -m "Automated mirror sync: final root files - $(date -u +%Y-%m-%d)"
+    git push -u origin main
+fi
 
 echo "========================================"
 echo "Mirror synchronization complete!"
